@@ -1,11 +1,9 @@
-Leo George Dion
-                                                                                                                                                                 leogdion@brightdigit.com
-                                                                                                                                                                                      brightdigit.com
-                                                                                                                                                                                              517.325.3123
-
-
-Experience
-BrightDigit
+# Leo George Dion                                                                                                                                     
+leogdion@brightdigit.com
+brightdigit.com
+517.325.3123
+## Experience
+### BrightDigit
 Lansing, MI
 Sole Proprietor
 July 2012 - Present
@@ -14,32 +12,30 @@ Mentoring students in iOS Swift Developer at Thinkful.com
 Update iOS product catalog application for Enlighten
 Architect and team lead for Jackson National Life’s iPad application
 Build new features for Local Orbit’s LAMP-based web site
-Work with customers to understand business problems and develop technical
-       solutions to overcome those challenges.
+Work with customers to understand business problems and develop technical solutions to overcome those challenges.
 Provide accurate time and cost estimates to deliver new functionality.
-IDV Solutions
+### Previous Employers
+#### IDV Solutions
 Lansing, MI
-Senior Software Developer
+##### Senior Software Developer
 February 2007 - July 2012
 Develop mobile applications for the iPad
 Use .Net and JavaScript to create easy-to-use development tools for businesses
-State of Michigan
+#### State of Michigan
 Deptartment of Information Technology
 Lansing, MI
-Software Developer
+##### Software Developer
 February 2006 - February 2007
-CoreComm
+#### CoreComm
 East Lansing, MI
-Project Developer	
+##### Project Developer	
 October 2003 – February 2006
-Telephone Repair Assistant
+##### Telephone Repair Assistant
 July 2001 – October 2003
-
-
-Education
-Michigan State University
-East Lansing, MI
-M.A., Digital Media and Art Technology
+## Education
+### Michigan State University
+/East Lansing, MI
+**M.A., Digital Media and Art Technology**
 December 2005
 B.S., Computer Science
 May 2003
