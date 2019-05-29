@@ -4,7 +4,11 @@ leogdion@brightdigit.com
 **brightdigit.com**
 
 **517.325.3123**
+
+---
+
 ## Experience
+
 ### [BrightDigit](https://brightdigit.com)
 
 *2012-*
@@ -70,7 +74,7 @@ Since 2012, BrightDigit is focused on developing application in the Apple space 
 * design consistant API and database structure for both Android and iOS
 * use CoreData and EventKit API to design a local storage database and the ability to create reminders for users
 
-### Organizations 
+### Organizations and Products
 
 #### [EmpowerApps.Show](https://www.empowerapps.show) - Official BrightDigit Podcast
 
@@ -176,13 +180,13 @@ macOS Application for converting and scaling SVG and PNG files into usable image
 * implements HomeBrew packing for easy installation
 * uses CairoGraphics C++ API for processing graphics
 * using *Codable* JSON Serialization for reading Xcode project Image Asset catalogs
-* uses Objective-C + Swift Interop for easy C++ communcation
+* uses Objective-C + Swift Interop for easy C++ communication
 
 ### [SwiftVer](https://github.com/brightdigit/swiftver) *macOS / iOS / watchOS / tvOS / Swift* 
 
 [Github Project - https://github.com/brightdigit/swiftver](https://github.com/brightdigit/swiftver)
 
-Add and process versioning meta data from Xcode project and git to framework and library.
+Add and process versioning metadata from Xcode project and git to framework and library.
 
 * Build Apple multi-platform framework with pre-processor and programmatic processing
 
