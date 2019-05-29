@@ -1,11 +1,13 @@
 # Leo George Dion                                                                                                                                     
 leogdion@brightdigit.com
 
-brightdigit.com
+**brightdigit.com**
 
-517.325.3123
+**517.325.3123**
 ## Experience
 ### [BrightDigit](https://brightdigit.com)
+
+*2012-*
 
 [Official Web Site - https://brightdigit.com](https://brightdigit.com)
 
@@ -161,6 +163,41 @@ December 2005
 
 May 2003
 
+## Open Source Projects
+
+### [Speculid](https://speculid.com) *macOS / Swift* 
+
+[Official Website - https://speculid.com](https://speculid.com)
+
+[Github Project - https://github.com/brightdigit/Speculid](https://github.com/brightdigit/Speculid)
+
+macOS Application for converting and scaling SVG and PNG files into usable image assets in Xcode projects
+
+* implements HomeBrew packing for easy installation
+* uses CairoGraphics C++ API for processing graphics
+* using *Codable* JSON Serialization for reading Xcode project Image Asset catalogs
+* uses Objective-C + Swift Interop for easy C++ communcation
+
+### [SwiftVer](https://github.com/brightdigit/swiftver) *macOS / iOS / watchOS / tvOS / Swift* 
+
+[Github Project - https://github.com/brightdigit/swiftver](https://github.com/brightdigit/swiftver)
+
+Add and process versioning meta data from Xcode project and git to framework and library.
+
+* Build Apple multi-platform framework with pre-processor and programmatic processing
+
+### [Jazzy-Markdown](https://github.com/brightdigit/jazzy-markdown) *macOS / Swift* 
+
+[Github Project - https://github.com/brightdigit/swiftver](https://github.com/brightdigit/jazzy-markdown)
+
+* convert HTML code documentation from Jazzy into Markdown files
+
+### [Base32Crockford](https://github.com/brightdigit/Base32Crockford) *macOS / iOS / watchOS / tvOS / Swift* 
+
+[Github Project - https://github.com/brightdigit/swiftver](https://github.com/brightdigit/Base32Crockford)
+
+* Sample library for creating and building *Base32Crockford* based Strings
+
 ## Skills
 
 ### Languages
@@ -169,19 +206,21 @@ May 2003
 
 ### Tools
 
-**Xcode** | **Interface Builder** | **iTunes Connect** | **Xcode Server** | **Travis-CI** | **Adobe XD** | **Adobe Photoshop** | **Adobe Illustrator** | **Adobe Audition** | Visual Studio
+**Xcode** | **Interface Builder** | **iTunes Connect** | **Xcode Server** | **Travis-CI** | **Fastlane** | **Adobe XD** | **Adobe Photoshop** | **Adobe Illustrator** | **Adobe Audition** | Visual Studio
 
 ### Frameworks and APIs
 
 #### Apple and Swift Development
-**Cocoa Touch** | **Cocoa** | **UIKit** | **AppKit** | **Core Location** | **Core Data** | **Networking** | **HealthKit and Fitness** | **CloudKit** | **Data Serialization (Codable)** |
-**Storyboards** | **Auto Layouts and Adaptive Design** | **WatchKit** | **User Notifications**
+**Cocoa Touch** | **Cocoa** | **UIKit** | **AppKit** | **Core Location** | **Vapor** | **Core Data** | **Networking** | **HealthKit and Fitness** | **CloudKit** | **Data Serialization (Codable)** |
+**Storyboards** | **Auto Layouts and Adaptive Design** | **WatchKit** | **User Notifications** | **Homebrew** | **Jazzy** | **XPC**
 
 #### Other Frameworks and Tools
 
- **VueJs** | **AngularJS** | **NodeJs** | **Amazon Web Services**
+**Google Analytics** | **VueJs** | **AngularJS** | **NodeJs** | **Amazon Web Services** | Cario Graphics 
 
 ### Databases
 **PostgreSQL** | **MySQL**  | MsSQL | Oracle
 
+---
+* references available on request
 
