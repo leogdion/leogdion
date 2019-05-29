@@ -1,103 +1,159 @@
 # Leo George Dion                                                                                                                                     
 leogdion@brightdigit.com
+
 brightdigit.com
+
 517.325.3123
 ## Experience
-### BrightDigit
-Lansing, MI
-Sole Proprietor
-July 2012 - Present
-Building and Maintaining a macOS port for conferences.io
-Mentoring students in iOS Swift Developer at Thinkful.com
-Update iOS product catalog application for Enlighten
-Architect and team lead for Jackson National Life’s iPad application
-Build new features for Local Orbit’s LAMP-based web site
-Work with customers to understand business problems and develop technical solutions to overcome those challenges.
-Provide accurate time and cost estimates to deliver new functionality.
+### [BrightDigit](https://brightdigit.com)
+
+[Official Web Site - https://brightdigit.com](https://brightdigit.com)
+
+[App Store - https://itunes.apple.com/bz/developer/brightdigit/id951071114](https://itunes.apple.com/bz/developer/brightdigit/id951071114)
+
+[YouTube Channel - https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g](https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g)
+
+[Podcast - https://www.empowerapps.show](https://www.empowerapps.show)
+
+**Principal**
+
+Since 2012, BrightDigit is focused on developing application in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.
+
+* Marketing business to potential clients through publications, videos, and podcasts on Apple-centric topics focus for developers as well as business running Apple hardware
+* Presenting at conferences and meetups on the intermediate and challenging technical topics concerning Swift
+* Managing other people in the areas of software development, marketing, and media production
+
+
+#### Clients
+##### [Asset Health](http://assethealth.info) *iOS / Swift* 
+
+[Official Web Site - http://assethealth.info](http://assethealth.info)
+
+*Track and Integrate with Employeers Health Data*
+
+* help bring Adobe XD designs to life using Interface Build as well as coded user interfaces in Swift
+* work with project managers and lead developers on timelines and the best way to actualize requirements
+* communicate with the client team on regular basis on the unique differences of the iOS platform
+
+##### [conferences.io](https://www.conferences.io) *macOS / Swift*
+
+*Real-Time Audience Engagement Application for Presentations*
+
+[Official Web Site - https://www.conferences.io](https://www.conferences.io)
+
+* Building and Maintaining a macOS port for conferences.io in Swift
+* Communicating on a regular basis with the client's product manager on the capabilities and limitations of macOS, Keynote, Powerpoint, and the AppleScript API
+* Automate the process of building and deploying the app to Amazon S3
+* Build and design a user interface using Storyboards and AppKit 
+
+##### [Jackson National Life](https://www.jackson.com/index.xhtml) *iOS / Objective-C*
+
+*Sales Team Application for Showcasing and Presenting Product Material*
+
+[App Store - https://itunes.apple.com/us/app/jackson/id920821928?mt=8](https://itunes.apple.com/us/app/jackson/id920821928?mt=8)
+
+* Architect and team lead for Jackson National Life’s iPad application
+* Design an Objective-C API for easy for easy implementation by the client on the  Xamarian platform
+* Implement user interface designs from the client using Xcode and Interface Builder
+
+##### [Cheeney Media Concepts](https://cmc2.tv) *iOS / Swift* 
+
+*CE/CME Genius - Medical Continuing Education Tracking*
+
+[Official Web Site - https://cmc2.tv](https://cmc2.tv)
+
+[App Store - https://itunes.apple.com/us/developer/cmc-interactive/id1027986564](https://itunes.apple.com/us/developer/cmc-interactive/id1027986564)
+
+* work with the client team on porting Android applications to iOS in Swift
+* design consistant API and database structure for both Android and iOS
+* use CoreData and EventKit API to design a local storage database and the ability to create reminders for users
+
+### Organizations 
+
+#### EmpowerApps.Show - Official BrightDigit Podcast
+
+**Official Producer**
+
+*2017-*
+
+* Arrange and Choose Topics of Interest to the Business and Developer Community centered around Apple products
+* Produce and Edit Pre-Show and Post-Show Notes 
+* Edit and Produce Deliverable Audio and Video for Audience Consumption
+* Work with Audio Editor and Outsite Marketing Personel
+* Schedule and Communicate with Guests on Show Content and Protocol
+* Marketing and Manage Social Media of Episodes and Content
+
+#### OKProductive - Personal Productivity Podcast
+
+**Official Producer**
+
+*2017-*
+
+* Work with Co-Host on Topics of Interest to the Personal Productivity Audience
+* Produce and Edit Pre-Show and Post-Show Notes 
+* Edit and Produce Deliverable Audio and Video for Audience Consumption
+* Work with Audio Editor and Outsite Marketing Personel
+* Schedule and Communicate with Guests on Show Content and Protocol
+* Marketing and Manage Social Media of Episodes and Content
+
+#### Lansing Marketing Hackers Meetup
+
+**Lead Organizer**
+
+*2017-*
+
+* Schedule and Plan Meeting Events and Locations
+* Arrange Guest Speakers and Topics
+* Marketing and Facilitating of Events and Sponsors
+
+##### Other Meetups
+
+* Lansing JavaScript *2014-2017*
+* Mobile Mondays *2016-2017*
+* Lansing Cocoaheads *2017-2018*
+
+#### Toastmasters
+
+*2012-2017*
+
+* Advanced Communicator Bronze
+* Delivered over 20 speeches
+* Leadership in Marketing and Website Maintenance
+
 ### Previous Employers
 #### IDV Solutions
-Lansing, MI
-##### Senior Software Developer
+
+**Senior Software Developer**
+
 February 2007 - July 2012
-Develop mobile applications for the iPad
-Use .Net and JavaScript to create easy-to-use development tools for businesses
+
+* Develop mobile applications for the iPad
+* Use .Net and JavaScript to create easy-to-use development tools for businesses
+
 #### State of Michigan
-Deptartment of Information Technology
-Lansing, MI
-##### Software Developer
+**Software Developer**
+
 February 2006 - February 2007
 #### CoreComm
-East Lansing, MI
-##### Project Developer	
+**Project Developer**
+
 October 2003 – February 2006
-##### Telephone Repair Assistant
+
+**Telephone Repair Assistant**
 July 2001 – October 2003
 ## Education
+
 ### Michigan State University
-/East Lansing, MI
+
 **M.A., Digital Media and Art Technology**
+
 December 2005
-B.S., Computer Science
+
+**B.S., Computer Science**
+
 May 2003
-Cognate in Business
-                                                                                                                                                                                                                         1/3
-                                                                                                                                                                                        Leo George Dion
-                                                                                                                                                                         leogdion@brightdigit.com
-                                                                                                                                                                                              brightdigit.com
-                                                                                                                                                                                                      517.325.3123
 
-Projects
-conferences i/o
-conferences i/o
-macOS, Swift
-Rebuild Their macOS app in Swift
-Using ScriptBridging to Interact with Keynote and Powerpoint
-CME Genius/ CE Genius
-CMC Media Concepts²
-iOS, Swift
-Port Android application over to iOS using Swift
-Jackson National Life Insurance
-BrightDigit, LLC
-iOS, Objective-C, Mono, C#
-Used X-Code, Interface Builder, Xamarian Studio and Objective C to build a native
-iPad application for Jackson National Life. My primary responsability was to build
-the user interface and design an API for future cross-platform development.
-Visual Fusion for iPad
-IDV Solutions
-iOS, Objective-C
-http://www.idvsolutions.com/Products/visual-fusion-for-ipad/mobile-data-
-visualization-overview.aspx
-Primarily worked on the application management screen.
-Local Orbit Web Site Redesign
-Local Orbit
-PHP, JavaScript, MySQL
-http://localorb.it/
-Implement a redesign and overhaul of features for a start-up using PHP, MySQL,
-modern JavaScript and HTML5 technologies such as Bootstrap, jQuery and LESS.
-Visual Fusion
-IDV Solutions
-C#, JavaScript, Sharepoint, Salesforce, Visual Studio, Eclipse
-http://www.idvsolutions.com/Products/VisualFusion/
-IDVSolution’s main product. I worked on this product from 2009 - 2012.
-Department of Transportation - Marview
-IDVSolutions
-Silverlight, C#, Oracle, JavaScript
-An implementation of Visual Fusion for the Department of Transportation. I
-worked with a team to build an application using Oracle as the back-end, and
-Silverlight and JavaScript in the front-end.
-
-
-
-
-                                                                                                                                                                                                                                2/3
-                                                                                                                                                                                 Leo George Dion
-                                                                                                                                                                   leogdion@brightdigit.com
-                                                                                                                                                                                        brightdigit.com
-                                                                                                                                                                                                    517.325.3123
-
-
-Skills
-Computer Languages
+## Skills
 JavaScript, Swift, C#, PHP, Objective C, C++, C, HTML5, CSS3
 Design Research
 Competitive Analysis, Task Analysis, Usability Testing, Focus Groups
