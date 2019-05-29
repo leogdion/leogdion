@@ -70,7 +70,11 @@ Since 2012, BrightDigit is focused on developing application in the Apple space 
 
 ### Organizations 
 
-#### EmpowerApps.Show - Official BrightDigit Podcast
+#### [EmpowerApps.Show](https://www.empowerapps.show) - Official BrightDigit Podcast
+
+[Official Web Site - https://www.empowerapps.show](https://www.empowerapps.show)
+
+[Apple Podcasts - https://itunes.apple.com/us/podcast/empower-apps/id1437435392?mt=2](https://itunes.apple.com/us/podcast/empower-apps/id1437435392?mt=2)
 
 **Official Producer**
 
@@ -83,7 +87,11 @@ Since 2012, BrightDigit is focused on developing application in the Apple space 
 * Schedule and Communicate with Guests on Show Content and Protocol
 * Marketing and Manage Social Media of Episodes and Content
 
-#### OKProductive - Personal Productivity Podcast
+#### [OKProductive](https://okproductive.com) - Personal Productivity Podcast
+
+[Official Web Site - https://okproductive.com](https://okproductive.com)
+
+[Apple Podcasts - https://itunes.apple.com/us/podcast/ok-productive/id1364521790](https://itunes.apple.com/us/podcast/ok-productive/id1364521790)
 
 **Official Producer**
 
@@ -154,34 +162,26 @@ December 2005
 May 2003
 
 ## Skills
-JavaScript, Swift, C#, PHP, Objective C, C++, C, HTML5, CSS3
-Design Research
-Competitive Analysis, Task Analysis, Usability Testing, Focus Groups
-Multimedia
-Audio and Video Editing and Delivery, Camera Work
-Frameworks and Services
-VueJs, HTML5 Canvas, AngularJS
-Cocoa, Salesforce, NodeJs, Amazon Web Services
-Software
-Illustrator, InDesign, Photoshop,
-Visual Studio, Xcode, Xamarin
-Databases
-PostgreSQL, MySQL, MsSQL
 
+### Languages
 
-Activities
-Toastmasters
-Competitent Communicator, Competitent Communicator, Advanced Communicator
-Bronze
-Meetup Organizer and Speaker
-Mobile Monday, Lansing JavaScript Meetups, Lansing Marketing Hackers, Lansing Cocoa-
-heads
-Podcast Creator
-Creator of 2 Podcasts - ok productive, on personal productivity and empowerapps.show,
-Apple business podcast
+**Swift** | **Bash Scripting** | **JavaScript** | **Objective-C** | **HTML5** | **CSS3** | C# | PHP |  C++ | C
 
+### Tools
 
+**Xcode** | **Interface Builder** | **iTunes Connect** | **Xcode Server** | **Travis-CI** | **Adobe XD** | **Adobe Photoshop** | **Adobe Illustrator** | **Adobe Audition** | Visual Studio
 
+### Frameworks and APIs
 
-                                                                                                                                                                                                                          3/3
+#### Apple and Swift Development
+**Cocoa Touch** | **Cocoa** | **UIKit** | **AppKit** | **Core Location** | **Core Data** | **Networking** | **HealthKit and Fitness** | **CloudKit** | **Data Serialization (Codable)** |
+**Storyboards** | **Auto Layouts and Adaptive Design** | **WatchKit** | **User Notifications**
+
+#### Other Frameworks and Tools
+
+ **VueJs** | **AngularJS** | **NodeJs** | **Amazon Web Services**
+
+### Databases
+**PostgreSQL** | **MySQL**  | MsSQL | Oracle
+
 
