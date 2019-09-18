@@ -15,10 +15,11 @@ leogdion@brightdigit.com
 [YouTube Channel - https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g](https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g)
 
 [Podcast - https://www.empowerapps.show](https://www.empowerapps.show)
+
 **Principal**
-Since 2012, BrightDigit is focused on developing application in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.
-* Marketing business to potential clients through publications, videos, and podcasts on Apple-centric topics focus for developers as well as business running Apple hardware
-* Presenting at conferences and meetups on the intermediate and challenging technical topics concerning Swift
+Since 2012, BrightDigit is focused on developing applications in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.
+* Marketing to potential clients through publications, videos, and podcasts on Apple-centric topics which focus on developers as well as businesses running Apple hardware
+* Presenting at conferences and meetups on intermediate and challenging technical topics concerning Swift
 * Managing other people in the areas of software development, marketing, and media production
 #### Clients
 ##### [Asset Health](http://assethealth.info) *iOS / Swift* 
