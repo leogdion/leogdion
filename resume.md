@@ -4,7 +4,9 @@ leogdion@brightdigit.com
 **brightdigit.com**
 
 **517.325.3123**
+
 ---
+
 ## Experience
 ### [BrightDigit](https://brightdigit.com)
 *2012-*
