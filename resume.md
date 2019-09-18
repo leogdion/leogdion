@@ -9,8 +9,11 @@ leogdion@brightdigit.com
 ### [BrightDigit](https://brightdigit.com)
 *2012-*
 [Official Web Site - https://brightdigit.com](https://brightdigit.com)
+
 [App Store - https://itunes.apple.com/bz/developer/brightdigit/id951071114](https://itunes.apple.com/bz/developer/brightdigit/id951071114)
+
 [YouTube Channel - https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g](https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g)
+
 [Podcast - https://www.empowerapps.show](https://www.empowerapps.show)
 **Principal**
 Since 2012, BrightDigit is focused on developing application in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.
