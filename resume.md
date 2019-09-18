@@ -118,19 +118,25 @@ February 2006 - February 2007
 **Project Developer**
 
 October 2003 – February 2006
+
 **Telephone Repair Assistant**
 
 July 2001 – October 2003
 ## Education
 ### Michigan State University
 **M.A., Digital Media and Art Technology**
+
 December 2005
+
 **B.S., Computer Science**
+
 May 2003
 ## Open Source Projects
 ### [Speculid](https://speculid.com) *macOS / Swift* 
 [Official Website - https://speculid.com](https://speculid.com)
+
 [Github Project - https://github.com/brightdigit/Speculid](https://github.com/brightdigit/Speculid)
+
 macOS Application for converting and scaling SVG and PNG files into usable image assets in Xcode projects
 * implements HomeBrew packing for easy installation
 * uses CairoGraphics C++ API for processing graphics
@@ -138,6 +144,7 @@ macOS Application for converting and scaling SVG and PNG files into usable image
 * uses Objective-C + Swift Interop for easy C++ communication
 ### [SwiftVer](https://github.com/brightdigit/swiftver) *macOS / iOS / watchOS / tvOS / Swift* 
 [Github Project - https://github.com/brightdigit/swiftver](https://github.com/brightdigit/swiftver)
+
 Add and process versioning metadata from Xcode project and git to framework and library.
 * Build Apple multi-platform framework with pre-processor and programmatic processing
 ### [Jazzy-Markdown](https://github.com/brightdigit/jazzy-markdown) *macOS / Swift* 
@@ -159,5 +166,6 @@ Add and process versioning metadata from Xcode project and git to framework and 
 **Google Analytics** | **VueJs** | **AngularJS** | **NodeJs** | **Amazon Web Services** | Cario Graphics 
 ### Databases
 **PostgreSQL** | **MySQL**  | MsSQL | Oracle
+
 ---
 * references available on request
