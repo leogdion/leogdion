@@ -1,6 +1,8 @@
 # Leo George Dion                                                                                                                                     
 leogdion@brightdigit.com
+
 **brightdigit.com**
+
 **517.325.3123**
 ---
 ## Experience
