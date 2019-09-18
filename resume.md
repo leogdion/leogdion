@@ -10,6 +10,7 @@ leogdion@brightdigit.com
 ## Experience
 ### [BrightDigit](https://brightdigit.com)
 *2012-*
+
 [Official Web Site - https://brightdigit.com](https://brightdigit.com)
 
 [App Store - https://itunes.apple.com/bz/developer/brightdigit/id951071114](https://itunes.apple.com/bz/developer/brightdigit/id951071114)
@@ -18,13 +19,15 @@ leogdion@brightdigit.com
 
 [Podcast - https://www.empowerapps.show](https://www.empowerapps.show)
 
-**Principal**
+*Principal and CEO*
+
 Since 2012, BrightDigit is focused on developing applications in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.
 * Marketing to potential clients through publications, videos, and podcasts on Apple-centric topics which focus on developers as well as businesses running Apple hardware
 * Presenting at conferences and meetups on intermediate and challenging technical topics concerning Swift
 * Managing other people in the areas of software development, marketing, and media production
 #### Clients
 ##### [Asset Health](http://assethealth.info) *iOS / Swift* 
+
 [Official Web Site - http://assethealth.info](http://assethealth.info)
 *Track and Integrate with Employers Health Data*
 * help bring Adobe XD designs to life using Interface Build as well as coded user interfaces in Swift
@@ -32,6 +35,7 @@ Since 2012, BrightDigit is focused on developing applications in the Apple space
 * communicate with the client team on regular basis on the unique differences of the iOS platform
 ##### [conferences.io](https://www.conferences.io) *macOS / Swift*
 *Real-Time Audience Engagement Application for Presentations*
+
 [Official Web Site - https://www.conferences.io](https://www.conferences.io)
 * Building and Maintaining a macOS port for conferences.io in Swift
 * Communicating on a regular basis with the client's product manager on the capabilities and limitations of macOS, Keynote, Powerpoint, and the AppleScript API
@@ -40,13 +44,16 @@ Since 2012, BrightDigit is focused on developing applications in the Apple space
 
 ##### [Jackson National Life](https://www.jackson.com/index.xhtml) *iOS / Objective-C*
 *Sales Team Application for Showcasing and Presenting Product Material*
+
 [App Store - https://itunes.apple.com/us/app/jackson/id920821928?mt=8](https://itunes.apple.com/us/app/jackson/id920821928?mt=8)
 * Architect and team lead for Jackson National Life’s iPad application
 * Design an Objective-C API for easy for easy implementation by the client on the  Xamarian platform
 * Implement user interface designs from the client using Xcode and Interface Builder
 ##### [Cheeney Media Concepts](https://cmc2.tv) *iOS / Swift* 
 *CE/CME Genius - Medical Continuing Education Tracking*
+
 [Official Web Site - https://cmc2.tv](https://cmc2.tv)
+
 [App Store - https://itunes.apple.com/us/developer/cmc-interactive/id1027986564](https://itunes.apple.com/us/developer/cmc-interactive/id1027986564)
 * work with the client team on porting Android applications to iOS in Swift
 * design consistent API and database structure for both Android and iOS
