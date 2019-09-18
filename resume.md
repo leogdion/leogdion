@@ -60,9 +60,13 @@ Since 2012, BrightDigit is focused on developing applications in the Apple space
 * use CoreData and EventKit API to design a local storage database and the ability to create reminders for users
 ### Organizations and Products
 #### [EmpowerApps.Show](https://www.empowerapps.show) - Official BrightDigit Podcast
+
 [Official Web Site - https://www.empowerapps.show](https://www.empowerapps.show)
+
 [Apple Podcasts - https://itunes.apple.com/us/podcast/empower-apps/id1437435392?mt=2](https://itunes.apple.com/us/podcast/empower-apps/id1437435392?mt=2)
+
 **Official Producer**
+
 *2017-*
 * Arrange and Choose Topics of Interest to the Business and Developer Community centered around Apple products
 * Produce and Edit Pre-Show and Post-Show Notes 
@@ -72,8 +76,11 @@ Since 2012, BrightDigit is focused on developing applications in the Apple space
 * Marketing and Manage Social Media of Episodes and Content
 #### [OKProductive](https://okproductive.com) - Personal Productivity Podcast
 [Official Web Site - https://okproductive.com](https://okproductive.com)
+
 [Apple Podcasts - https://itunes.apple.com/us/podcast/ok-productive/id1364521790](https://itunes.apple.com/us/podcast/ok-productive/id1364521790)
+
 **Official Producer**
+
 *2017-*
 * Work with Co-Host on Topics of Interest to the Personal Productivity Audience
 * Produce and Edit Pre-Show and Post-Show Notes 
@@ -83,6 +90,7 @@ Since 2012, BrightDigit is focused on developing applications in the Apple space
 * Marketing and Manage Social Media of Episodes and Content
 #### Lansing Marketing Hackers Meetup
 **Lead Organizer**
+
 *2017-*
 * Schedule and Plan Meeting Events and Locations
 * Arrange Guest Speakers and Topics
@@ -104,11 +112,14 @@ February 2007 - July 2012
 * Use .Net and JavaScript to create easy-to-use development tools for businesses
 #### State of Michigan
 **Software Developer**
+
 February 2006 - February 2007
 #### CoreComm
 **Project Developer**
+
 October 2003 – February 2006
 **Telephone Repair Assistant**
+
 July 2001 – October 2003
 ## Education
 ### Michigan State University
