@@ -56,7 +56,7 @@
 
 📝 a development blog at [learningswift.brightdigit.com](https://learningswift.brightdigit.com)
 
-🗣 and speak at conferences frequently about life, career, dev work and of course ... Swift.   
+🗣 and [speak at conferences frequently about life, career, dev work and of course ... Swift](https://www.youtube.com/playlist?list=PLmpJxPaZbSnBTtrr4V6bksOfLVK4uK9q6)   
 
 <!--- where I am active -->                                                                                                                        
 ## I have collaborated on apps for
