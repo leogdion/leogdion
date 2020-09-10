@@ -1,7 +1,3 @@
-![leo](https://github.com/leogdion/leogdion/raw/main/assets/leo.jpeg)
-
-<!-- social media profiles (medium, dev, linked, twitter) -->
-
 # 👋 Hi! My name is Leo Dion 
 
 [![twitter](https://img.shields.io/badge/twitter-@leogdion-informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/leogdion)
