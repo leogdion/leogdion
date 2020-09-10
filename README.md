@@ -1,4 +1,4 @@
-![leo](/leogdion/assets/leo.jpeg)
+![leo](/assets/leo.jpeg)
 
 <!-- social media profiles (medium, dev, linked, twitter) -->
 
