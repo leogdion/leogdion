@@ -25,6 +25,10 @@
 
 🗣 and [speak at conferences frequently about life, career, dev work and of course ... Swift](https://www.youtube.com/playlist?list=PLmpJxPaZbSnBTtrr4V6bksOfLVK4uK9q6)   
 
+👨‍💻 I am always open to new oppurtunities to please do [contact me](mailto:leo@brightdigit.com?subject=I%20am%20interested%20in%20a%20Swift%20Developer) if you are looking for a Swift developer
+
+📄 My [resume can be found here](https://gist.github.com/leogdion/0742d6a5c9ebd836461fb5020b83e775)
+
 <!--- where I am active -->                                                                                                                        
 ## I have collaborated on apps for
  
