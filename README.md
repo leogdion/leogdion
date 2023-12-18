@@ -60,7 +60,8 @@
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 ![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-black?style=flat-square&logo=github-actions)
-![Travis CI](https://img.shields.io/badge/-Travis%20CI-black?style=flat-square&logo=travis-ci)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-black?style=flat-square&logo=GitLab)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
@@ -71,5 +72,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
 ![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
 
 ## Here's Cool Stuff I've Built...👇
