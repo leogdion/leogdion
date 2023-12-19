@@ -97,6 +97,10 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## I have collaborated on apps for
  
 * 💓 [gBeat](https://gbeat.com) _2020 Apple Watch_
