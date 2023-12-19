@@ -93,6 +93,10 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 Bushel is the macOS virtual machine app for developers who want to be rigorous and uncompromising in their app testing. Bushel is focused on giving you the complete, native capabilities of the operating system for all your testing requirements.
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## I have collaborated on apps for
  
 * 💓 [gBeat](https://gbeat.com) _2020 Apple Watch_
