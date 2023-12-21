@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/leogdion/leogdion/pull/4) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
-2. 💪 Opened PR [#4](https://github.com/leogdion/leogdion/pull/4) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
-3. 🎉 Merged PR [#3](https://github.com/leogdion/leogdion/pull/3) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
-4. 💪 Opened PR [#3](https://github.com/leogdion/leogdion/pull/3) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
-5. 🎉 Merged PR [#11](https://github.com/brightdigit/FelinePine/pull/11) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+1. 💪 Opened PR [#65](https://github.com/brightdigit/SyndiKit/pull/65) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. 🗣 Commented on [#64](https://github.com/brightdigit/SyndiKit/issues/64#issuecomment-1865357732) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 🎉 Merged PR [#4](https://github.com/leogdion/leogdion/pull/4) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
+4. 💪 Opened PR [#4](https://github.com/leogdion/leogdion/pull/4) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
+5. 🎉 Merged PR [#3](https://github.com/leogdion/leogdion/pull/3) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
