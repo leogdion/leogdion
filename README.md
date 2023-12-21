@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/brightdigit/SyndiKit/pull/65) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 🗣 Commented on [#64](https://github.com/brightdigit/SyndiKit/issues/64#issuecomment-1865357732) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 🎉 Merged PR [#4](https://github.com/leogdion/leogdion/pull/4) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
-4. 💪 Opened PR [#4](https://github.com/leogdion/leogdion/pull/4) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
-5. 🎉 Merged PR [#3](https://github.com/leogdion/leogdion/pull/3) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
+1. 💪 Opened PR [#66](https://github.com/brightdigit/SyndiKit/pull/66) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. 🎉 Merged PR [#65](https://github.com/brightdigit/SyndiKit/pull/65) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 💪 Opened PR [#65](https://github.com/brightdigit/SyndiKit/pull/65) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 🗣 Commented on [#64](https://github.com/brightdigit/SyndiKit/issues/64#issuecomment-1865357732) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🎉 Merged PR [#4](https://github.com/leogdion/leogdion/pull/4) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
