@@ -95,11 +95,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Connecting Observation with Binding in SwiftUI](https://brightdigit.com/tutorials/observation-binding-swiftui)
 - [Bushel of an App - Making Cider from Apples](https://brightdigit.com/articles/bushel-launch-part-4)
 - [Bushel of an App - Design, Architecture, and Automation](https://brightdigit.com/articles/bushel-launch-part-3)
 - [Bushel of an App - Building the Crust](https://brightdigit.com/articles/bushel-launch-part-2)
 - [Bushel of an App - From Seed of an Idea](https://brightdigit.com/articles/bushel-launch-part-1)
-- [From Beginner to Pro: The Real Skills You Need, and the Myths about Becoming an iOS Developer](https://brightdigit.com/articles/how-to-become-iOS-developer)
 <!-- BLOG-POST-LIST:END -->
 
 
