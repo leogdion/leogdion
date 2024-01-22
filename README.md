@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/brightdigit/IPSWDownloads/pull/9) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-2. 🚀 Published release [1.0.0-beta.1](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0-beta.1) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-3. 🔒 Closed issue [#2](https://github.com/brightdigit/IPSWDownloads/issues/2) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-4. ❗ Opened issue [#6198](https://github.com/SwiftPackageIndex/PackageList/issues/6198) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-5. 🚀 Published release [1.0.0-beta.1](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0-beta.1) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+1. 🎉 Merged PR [#67](https://github.com/brightdigit/SyndiKit/pull/67) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. 💪 Opened PR [#9](https://github.com/brightdigit/IPSWDownloads/pull/9) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+3. 🚀 Published release [1.0.0-beta.1](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0-beta.1) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+4. 🔒 Closed issue [#2](https://github.com/brightdigit/IPSWDownloads/issues/2) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+5. ❗ Opened issue [#6198](https://github.com/SwiftPackageIndex/PackageList/issues/6198) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
