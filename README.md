@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/brightdigit/SyndiKit/pull/66) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 🎉 Merged PR [#71](https://github.com/brightdigit/SyndiKit/pull/71) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 💪 Opened PR [#71](https://github.com/brightdigit/SyndiKit/pull/71) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-4. 🎉 Merged PR [#70](https://github.com/brightdigit/SyndiKit/pull/70) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-5. 💪 Opened PR [#70](https://github.com/brightdigit/SyndiKit/pull/70) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1. 🗣 Commented on [#64](https://github.com/brightdigit/SyndiKit/issues/64#issuecomment-1912104178) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. 🔒 Closed issue [#64](https://github.com/brightdigit/SyndiKit/issues/64) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 🚀 Published release [0.4.0](https://github.com/brightdigit/SyndiKit/releases/tag/0.4.0) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 🎉 Merged PR [#66](https://github.com/brightdigit/SyndiKit/pull/66) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🎉 Merged PR [#71](https://github.com/brightdigit/SyndiKit/pull/71) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
