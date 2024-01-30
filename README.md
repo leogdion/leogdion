@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/brightdigit/Sublimation/pull/20) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-2. 🎉 Merged PR [#19](https://github.com/brightdigit/Sublimation/pull/19) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-3. 💪 Opened PR [#19](https://github.com/brightdigit/Sublimation/pull/19) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-4. 🚀 Published release [1.0.0-beta.2](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0-beta.2) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-5. 🎉 Merged PR [#9](https://github.com/brightdigit/IPSWDownloads/pull/9) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+1. 🎉 Merged PR [#20](https://github.com/brightdigit/Sublimation/pull/20) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+2. 💪 Opened PR [#20](https://github.com/brightdigit/Sublimation/pull/20) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+3. 🎉 Merged PR [#19](https://github.com/brightdigit/Sublimation/pull/19) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+4. 💪 Opened PR [#19](https://github.com/brightdigit/Sublimation/pull/19) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+5. 🚀 Published release [1.0.0-beta.2](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0-beta.2) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
