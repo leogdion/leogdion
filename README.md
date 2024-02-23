@@ -105,11 +105,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [What&#39;s Next with Adam Rush](https://share.transistor.fm/s/6a6b8505)
 - [Apple&#39;s App Vision with Kyle Lee](https://share.transistor.fm/s/585171df)
 - [ChatGPTovski with Kris Slazinski](https://share.transistor.fm/s/3183f5e9)
 - [PixelBlitz in Public with Martin Lasek](https://share.transistor.fm/s/9347b205)
 - [The Bushel Holiday Special](https://share.transistor.fm/s/d0d7eef2)
-- [We Have All The Heroes with Stefano Mondino](https://share.transistor.fm/s/72e1064d)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 ## Recent Activity
