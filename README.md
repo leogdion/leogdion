@@ -96,8 +96,8 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Control Your Swift Dependencies Before They Control You](https://brightdigit.com/articles/dependency-management-swift)
-- [Getting Started with Swift OpenAPI Generator](https://brightdigit.com/tutorials/swift-openapi-generator)
 - [What You Should Know About iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture)
+- [Getting Started with Swift OpenAPI Generator](https://brightdigit.com/tutorials/swift-openapi-generator)
 - [Connecting Observation with Binding in SwiftUI](https://brightdigit.com/tutorials/observation-binding-swiftui)
 - [Bushel of an App - Making Cider from Apples](https://brightdigit.com/articles/bushel-launch-part-4)
 <!-- BLOG-POST-LIST:END -->
