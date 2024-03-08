@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/leogdion/MultipeerDemo/pull/1) in [leogdion/MultipeerDemo](https://github.com/leogdion/MultipeerDemo)
-2. 💪 Opened PR [#1](https://github.com/leogdion/MultipeerDemo/pull/1) in [leogdion/MultipeerDemo](https://github.com/leogdion/MultipeerDemo)
-3. 🚀 Published release [2.0.0-alpha.1](https://github.com/brightdigit/Sublimation/releases/tag/2.0.0-alpha.1) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-4. 🎉 Merged PR [#18](https://github.com/brightdigit/Sublimation/pull/18) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-5. 🎉 Merged PR [#21](https://github.com/brightdigit/Sublimation/pull/21) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+1. ❌ Closed PR [#12](https://github.com/brightdigit/IPSWDownloads/pull/12) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+2. 🎉 Merged PR [#1](https://github.com/leogdion/MultipeerDemo/pull/1) in [leogdion/MultipeerDemo](https://github.com/leogdion/MultipeerDemo)
+3. 💪 Opened PR [#1](https://github.com/leogdion/MultipeerDemo/pull/1) in [leogdion/MultipeerDemo](https://github.com/leogdion/MultipeerDemo)
+4. 🚀 Published release [2.0.0-alpha.1](https://github.com/brightdigit/Sublimation/releases/tag/2.0.0-alpha.1) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+5. 🎉 Merged PR [#18](https://github.com/brightdigit/Sublimation/pull/18) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
