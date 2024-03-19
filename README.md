@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.0-beta.1](https://github.com/brightdigit/SimulatorServices/releases/tag/1.1.0-beta.1) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
-2. 🎉 Merged PR [#16](https://github.com/brightdigit/SimulatorServices/pull/16) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
-3. 🎉 Merged PR [#17](https://github.com/brightdigit/SimulatorServices/pull/17) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
-4. 💪 Opened PR [#17](https://github.com/brightdigit/SimulatorServices/pull/17) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
-5. 💪 Opened PR [#16](https://github.com/brightdigit/SimulatorServices/pull/16) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+1. 🔒 Closed issue [#11](https://github.com/brightdigit/SimulatorServices/issues/11) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+2. 🗣 Commented on [#14](https://github.com/brightdigit/SimulatorServices/issues/14#issuecomment-2008278290) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+3. 🔒 Closed issue [#14](https://github.com/brightdigit/SimulatorServices/issues/14) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+4. 🚀 Published release [1.1.0-beta.2](https://github.com/brightdigit/SimulatorServices/releases/tag/1.1.0-beta.2) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+5. 🚀 Published release [1.1.0-beta.1](https://github.com/brightdigit/SimulatorServices/releases/tag/1.1.0-beta.1) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
