@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/brightdigit/Options/pull/10) in [brightdigit/Options](https://github.com/brightdigit/Options)
-2. 💪 Opened PR [#10](https://github.com/brightdigit/Options/pull/10) in [brightdigit/Options](https://github.com/brightdigit/Options)
-3. 💪 Opened PR [#8](https://github.com/brightdigit/PackageDSL/pull/8) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-4. 🔒 Closed issue [#14](https://github.com/brightdigit/IPSWDownloads/issues/14) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-5. 🔒 Closed issue [#11](https://github.com/brightdigit/SimulatorServices/issues/11) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+1. 💪 Opened PR [#11](https://github.com/brightdigit/Options/pull/11) in [brightdigit/Options](https://github.com/brightdigit/Options)
+2. 🎉 Merged PR [#10](https://github.com/brightdigit/Options/pull/10) in [brightdigit/Options](https://github.com/brightdigit/Options)
+3. 💪 Opened PR [#10](https://github.com/brightdigit/Options/pull/10) in [brightdigit/Options](https://github.com/brightdigit/Options)
+4. 💪 Opened PR [#8](https://github.com/brightdigit/PackageDSL/pull/8) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+5. 🔒 Closed issue [#14](https://github.com/brightdigit/IPSWDownloads/issues/14) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
