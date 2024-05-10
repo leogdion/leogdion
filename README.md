@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/brightdigit/PackageDSL/pull/17) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-2. 💪 Opened PR [#2](https://github.com/brightdigit/FeatherQuill/pull/2) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-3. 🎉 Merged PR [#1](https://github.com/brightdigit/AviaryInsights/pull/1) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-4. 💪 Opened PR [#1](https://github.com/brightdigit/AviaryInsights/pull/1) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-5. 🎉 Merged PR [#1](https://github.com/brightdigit/FeatherQuill/pull/1) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+1. 💪 Opened PR [#3](https://github.com/brightdigit/FeatherQuill/pull/3) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+2. 💪 Opened PR [#2](https://github.com/brightdigit/AviaryInsights/pull/2) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+3. 🎉 Merged PR [#17](https://github.com/brightdigit/PackageDSL/pull/17) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+4. 💪 Opened PR [#2](https://github.com/brightdigit/FeatherQuill/pull/2) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+5. 🎉 Merged PR [#1](https://github.com/brightdigit/AviaryInsights/pull/1) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
