@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/AviaryInsights/releases/tag/1.0.0-alpha.2) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-2. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/FeatherQuill/releases/tag/1.0.0-alpha.2) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-3. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/FeatherQuill/releases/tag/1.0.0-alpha.1) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-4. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/AviaryInsights/releases/tag/1.0.0-alpha.1) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-5. 🎉 Merged PR [#3](https://github.com/brightdigit/FeatherQuill/pull/3) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+1. ❗ Opened issue [#7049](https://github.com/SwiftPackageIndex/PackageList/issues/7049) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+2. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/AviaryInsights/releases/tag/1.0.0-alpha.2) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+3. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/FeatherQuill/releases/tag/1.0.0-alpha.2) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+4. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/FeatherQuill/releases/tag/1.0.0-alpha.1) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+5. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/AviaryInsights/releases/tag/1.0.0-alpha.1) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
