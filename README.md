@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/brightdigit/FeatherQuill/pull/5) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-2. ❗ Opened issue [#4](https://github.com/brightdigit/FeatherQuill/issues/4) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-3. ❗ Opened issue [#7049](https://github.com/SwiftPackageIndex/PackageList/issues/7049) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-4. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/AviaryInsights/releases/tag/1.0.0-alpha.2) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-5. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/FeatherQuill/releases/tag/1.0.0-alpha.2) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+1. 🔒 Closed issue [#4](https://github.com/brightdigit/FeatherQuill/issues/4) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+2. 🎉 Merged PR [#5](https://github.com/brightdigit/FeatherQuill/pull/5) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+3. 💪 Opened PR [#5](https://github.com/brightdigit/FeatherQuill/pull/5) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+4. ❗ Opened issue [#4](https://github.com/brightdigit/FeatherQuill/issues/4) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+5. ❗ Opened issue [#7049](https://github.com/SwiftPackageIndex/PackageList/issues/7049) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
