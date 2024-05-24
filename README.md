@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/brightdigit/FeatherQuill/issues/6) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-2. 💪 Opened PR [#19](https://github.com/brightdigit/PackageDSL/pull/19) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-3. ❗ Opened issue [#14](https://github.com/brightdigit/FelinePine/issues/14) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-4. ❗ Opened issue [#18](https://github.com/brightdigit/PackageDSL/issues/18) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-5. 🔒 Closed issue [#4](https://github.com/brightdigit/FeatherQuill/issues/4) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+1. 💪 Opened PR [#15](https://github.com/brightdigit/FelinePine/pull/15) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+2. ❗ Opened issue [#6](https://github.com/brightdigit/FeatherQuill/issues/6) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+3. 💪 Opened PR [#19](https://github.com/brightdigit/PackageDSL/pull/19) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+4. ❗ Opened issue [#14](https://github.com/brightdigit/FelinePine/issues/14) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+5. ❗ Opened issue [#18](https://github.com/brightdigit/PackageDSL/issues/18) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
