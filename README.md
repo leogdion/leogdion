@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/brightdigit/AviaryInsights/pull/4) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-2. ❗ Opened issue [#20](https://github.com/brightdigit/PackageDSL/issues/20) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-3. 🎉 Merged PR [#19](https://github.com/brightdigit/PackageDSL/pull/19) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-4. ❗ Opened issue [#3](https://github.com/brightdigit/AviaryInsights/issues/3) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-5. 💪 Opened PR [#15](https://github.com/brightdigit/FelinePine/pull/15) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+1. 🚀 Published release [1.0.0-beta.1](https://github.com/brightdigit/AviaryInsights/releases/tag/1.0.0-beta.1) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+2. 🔒 Closed issue [#3](https://github.com/brightdigit/AviaryInsights/issues/3) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+3. 🎉 Merged PR [#4](https://github.com/brightdigit/AviaryInsights/pull/4) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+4. 💪 Opened PR [#4](https://github.com/brightdigit/AviaryInsights/pull/4) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+5. ❗ Opened issue [#20](https://github.com/brightdigit/PackageDSL/issues/20) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
