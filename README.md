@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/apple/swift-openapi-runtime/pull/107#issuecomment-2180539962) in [apple/swift-openapi-runtime](https://github.com/apple/swift-openapi-runtime)
-2. 💪 Opened PR [#107](https://github.com/apple/swift-openapi-runtime/pull/107) in [apple/swift-openapi-runtime](https://github.com/apple/swift-openapi-runtime)
-3. 💪 Opened PR [#27](https://github.com/brightdigit/Sublimation/pull/27) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-4. 🎉 Merged PR [#22](https://github.com/brightdigit/PackageDSL/pull/22) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-5. 💪 Opened PR [#22](https://github.com/brightdigit/PackageDSL/pull/22) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+1. 🎉 Merged PR [#28](https://github.com/brightdigit/Sublimation/pull/28) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+2. 💪 Opened PR [#28](https://github.com/brightdigit/Sublimation/pull/28) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+3. ❌ Closed PR [#27](https://github.com/brightdigit/Sublimation/pull/27) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+4. 🗣 Commented on [#107](https://github.com/apple/swift-openapi-runtime/pull/107#issuecomment-2180539962) in [apple/swift-openapi-runtime](https://github.com/apple/swift-openapi-runtime)
+5. 💪 Opened PR [#107](https://github.com/apple/swift-openapi-runtime/pull/107) in [apple/swift-openapi-runtime](https://github.com/apple/swift-openapi-runtime)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
