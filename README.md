@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/brightdigit/Swoop/pull/2) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
-2. 💪 Opened PR [#2](https://github.com/brightdigit/Swoop/pull/2) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
-3. 🎉 Merged PR [#1](https://github.com/brightdigit/Swoop/pull/1) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
-4. 💪 Opened PR [#1](https://github.com/brightdigit/Swoop/pull/1) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
-5. 💪 Opened PR [#35](https://github.com/brightdigit/Sublimation/pull/35) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+1. ❗ Opened issue [#4](https://github.com/brightdigit/Swoop/issues/4) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
+2. ❗ Opened issue [#3](https://github.com/brightdigit/Swoop/issues/3) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
+3. 🎉 Merged PR [#2](https://github.com/brightdigit/Swoop/pull/2) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
+4. 💪 Opened PR [#2](https://github.com/brightdigit/Swoop/pull/2) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
+5. 🎉 Merged PR [#1](https://github.com/brightdigit/Swoop/pull/1) in [brightdigit/Swoop](https://github.com/brightdigit/Swoop)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
