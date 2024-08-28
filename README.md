@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brightdigit/SublimationNgrok/pull/1) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
-2. 🎉 Merged PR [#2](https://github.com/brightdigit/SublimationNgrok/pull/2) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
-3. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationService/releases/tag/1.0.0) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
-4. 🎉 Merged PR [#1](https://github.com/brightdigit/SublimationService/pull/1) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
-5. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationVapor/releases/tag/1.0.0) in [brightdigit/SublimationVapor](https://github.com/brightdigit/SublimationVapor)
+1. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationNgrok/releases/tag/1.0.0) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
+2. 🎉 Merged PR [#1](https://github.com/brightdigit/SublimationNgrok/pull/1) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
+3. 🎉 Merged PR [#2](https://github.com/brightdigit/SublimationNgrok/pull/2) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
+4. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationService/releases/tag/1.0.0) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
+5. 🎉 Merged PR [#1](https://github.com/brightdigit/SublimationService/pull/1) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
