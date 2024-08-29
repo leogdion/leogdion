@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationBonjour/releases/tag/1.0.0) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
-2. ❗ Opened issue [#7855](https://github.com/SwiftPackageIndex/PackageList/issues/7855) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-3. 🚀 Published release [2.0.0-beta.1](https://github.com/brightdigit/Sublimation/releases/tag/2.0.0-beta.1) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-4. 🎉 Merged PR [#48](https://github.com/brightdigit/Sublimation/pull/48) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-5. 💪 Opened PR [#48](https://github.com/brightdigit/Sublimation/pull/48) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+1. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationService/releases/tag/1.0.0) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
+2. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationVapor/releases/tag/1.0.0) in [brightdigit/SublimationVapor](https://github.com/brightdigit/SublimationVapor)
+3. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationNgrok/releases/tag/1.0.0) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
+4. 🚀 Published release [1.0.0](https://github.com/brightdigit/Ngrokit/releases/tag/1.0.0) in [brightdigit/Ngrokit](https://github.com/brightdigit/Ngrokit)
+5. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationBonjour/releases/tag/1.0.0) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
