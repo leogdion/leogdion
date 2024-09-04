@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/hummingbird-project/hummingbird-redis/issues/26) in [hummingbird-project/hummingbird-redis](https://github.com/hummingbird-project/hummingbird-redis)
-2. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationService/releases/tag/1.0.0) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
-3. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationVapor/releases/tag/1.0.0) in [brightdigit/SublimationVapor](https://github.com/brightdigit/SublimationVapor)
-4. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationNgrok/releases/tag/1.0.0) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
-5. 🚀 Published release [1.0.0](https://github.com/brightdigit/Ngrokit/releases/tag/1.0.0) in [brightdigit/Ngrokit](https://github.com/brightdigit/Ngrokit)
+1. 🗣 Commented on [#26](https://github.com/hummingbird-project/hummingbird-redis/issues/26#issuecomment-2329715715) in [hummingbird-project/hummingbird-redis](https://github.com/hummingbird-project/hummingbird-redis)
+2. ❗ Opened issue [#26](https://github.com/hummingbird-project/hummingbird-redis/issues/26) in [hummingbird-project/hummingbird-redis](https://github.com/hummingbird-project/hummingbird-redis)
+3. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationService/releases/tag/1.0.0) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
+4. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationVapor/releases/tag/1.0.0) in [brightdigit/SublimationVapor](https://github.com/brightdigit/SublimationVapor)
+5. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationNgrok/releases/tag/1.0.0) in [brightdigit/SublimationNgrok](https://github.com/brightdigit/SublimationNgrok)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
