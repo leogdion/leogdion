@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brightdigit/DataThespian/pull/1) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-2. 💪 Opened PR [#1](https://github.com/brightdigit/DataThespian/pull/1) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-3. 🗣 Commented on [#26](https://github.com/hummingbird-project/hummingbird-redis/issues/26#issuecomment-2329715715) in [hummingbird-project/hummingbird-redis](https://github.com/hummingbird-project/hummingbird-redis)
-4. ❗ Opened issue [#26](https://github.com/hummingbird-project/hummingbird-redis/issues/26) in [hummingbird-project/hummingbird-redis](https://github.com/hummingbird-project/hummingbird-redis)
-5. 🚀 Published release [1.0.0](https://github.com/brightdigit/SublimationService/releases/tag/1.0.0) in [brightdigit/SublimationService](https://github.com/brightdigit/SublimationService)
+1. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/DataThespian/releases/tag/1.0.0-alpha.1) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+2. 🎉 Merged PR [#1](https://github.com/brightdigit/DataThespian/pull/1) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+3. 💪 Opened PR [#1](https://github.com/brightdigit/DataThespian/pull/1) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+4. 🗣 Commented on [#26](https://github.com/hummingbird-project/hummingbird-redis/issues/26#issuecomment-2329715715) in [hummingbird-project/hummingbird-redis](https://github.com/hummingbird-project/hummingbird-redis)
+5. ❗ Opened issue [#26](https://github.com/hummingbird-project/hummingbird-redis/issues/26) in [hummingbird-project/hummingbird-redis](https://github.com/hummingbird-project/hummingbird-redis)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
