@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/brightdigit/DataThespian/issues/4) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-2. ❗ Opened issue [#3](https://github.com/brightdigit/DataThespian/issues/3) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-3. ❗ Opened issue [#2](https://github.com/brightdigit/DataThespian/issues/2) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-4. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/RadiantKit/releases/tag/1.0.0-alpha.1) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-5. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/RadiantKit/releases/tag/1.0.0-alpha.1) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+1. 💪 Opened PR [#18](https://github.com/brightdigit/IPSWDownloads/pull/18) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+2. 🎉 Merged PR [#16](https://github.com/brightdigit/IPSWDownloads/pull/16) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+3. ❗ Opened issue [#17](https://github.com/brightdigit/IPSWDownloads/issues/17) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+4. ❗ Opened issue [#4](https://github.com/brightdigit/DataThespian/issues/4) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+5. ❗ Opened issue [#3](https://github.com/brightdigit/DataThespian/issues/3) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
