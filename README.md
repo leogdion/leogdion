@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/brightdigit/SundialKit/issues/23) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-2. 💪 Opened PR [#18](https://github.com/brightdigit/IPSWDownloads/pull/18) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-3. 🎉 Merged PR [#16](https://github.com/brightdigit/IPSWDownloads/pull/16) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-4. ❗ Opened issue [#17](https://github.com/brightdigit/IPSWDownloads/issues/17) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-5. ❗ Opened issue [#4](https://github.com/brightdigit/DataThespian/issues/4) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+1. 🗣 Commented on [#3375](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/3375#issuecomment-2346400549) in [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server)
+2. ❗ Opened issue [#23](https://github.com/brightdigit/SundialKit/issues/23) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+3. 💪 Opened PR [#18](https://github.com/brightdigit/IPSWDownloads/pull/18) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+4. 🎉 Merged PR [#16](https://github.com/brightdigit/IPSWDownloads/pull/16) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+5. ❗ Opened issue [#17](https://github.com/brightdigit/IPSWDownloads/issues/17) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
