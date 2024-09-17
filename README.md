@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/brightdigit/SublimationBonjour/pull/2) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
-2. 🗣 Commented on [#3375](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/3375#issuecomment-2346595217) in [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server)
-3. 🗣 Commented on [#3375](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/3375#issuecomment-2346400549) in [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server)
-4. ❗ Opened issue [#23](https://github.com/brightdigit/SundialKit/issues/23) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. 💪 Opened PR [#18](https://github.com/brightdigit/IPSWDownloads/pull/18) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+1. 🚀 Published release [1.0.1](https://github.com/brightdigit/SublimationBonjour/releases/tag/1.0.1) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
+2. 🎉 Merged PR [#2](https://github.com/brightdigit/SublimationBonjour/pull/2) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
+3. 💪 Opened PR [#2](https://github.com/brightdigit/SublimationBonjour/pull/2) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
+4. 🗣 Commented on [#3375](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/3375#issuecomment-2346595217) in [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server)
+5. 🗣 Commented on [#3375](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/3375#issuecomment-2346400549) in [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
