@@ -18,10 +18,9 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: resume.md
-          output_dir: .tmp
+          output_dir: /
       - name: Commit and push changes
         run: |
-          mv .tmp/* .
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add resume.pdf resume.html
