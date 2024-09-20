@@ -1,0 +1,1308 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+		<title>resume</title>
+		<style>
+			/* PDF Specific */
+
+@media print {
+  body {
+    min-width: initial;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
+
+/* General */
+
+.octicon {
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+.anchor {
+  float: left;
+  line-height: 1;
+  margin-left: -20px;
+  padding-right: 4px;
+}
+
+.anchor:focus {
+  outline: none;
+}
+
+h1 .octicon-link,
+h2 .octicon-link,
+h3 .octicon-link,
+h4 .octicon-link,
+h5 .octicon-link,
+h6 .octicon-link {
+  color: #1b1f23;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+  text-decoration: none;
+}
+
+h1:hover .anchor .octicon-link,
+h2:hover .anchor .octicon-link,
+h3:hover .anchor .octicon-link,
+h4:hover .anchor .octicon-link,
+h5:hover .anchor .octicon-link,
+h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+h1:hover .anchor .octicon-link:before,
+h2:hover .anchor .octicon-link:before,
+h3:hover .anchor .octicon-link:before,
+h4:hover .anchor .octicon-link:before,
+h5:hover .anchor .octicon-link:before,
+h6:hover .anchor .octicon-link:before {
+  width: 16px;
+  height: 16px;
+  content: ' ';
+  display: inline-block;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true'%3E%3Cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-print-color-adjust: exact;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #24292e;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 1rem auto;
+}
+
+details {
+  display: block;
+}
+
+summary {
+  display: list-item;
+}
+
+a {
+  background-color: initial;
+}
+
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+strong {
+  font-weight: inherit;
+  font-weight: bolder;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+img {
+  border-style: none;
+}
+
+code,
+kbd,
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+hr {
+  box-sizing: initial;
+  height: 0;
+  overflow: visible;
+}
+
+input {
+  font: inherit;
+  margin: 0;
+}
+
+input {
+  overflow: visible;
+}
+
+[type='checkbox'] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+strong {
+  font-weight: 600;
+}
+
+hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #dfe2e5;
+}
+
+hr:after,
+hr:before {
+  display: table;
+  content: '';
+}
+
+hr:after {
+  clear: both;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+details summary {
+  cursor: pointer;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  line-height: 10px;
+  color: #444d56;
+  vertical-align: middle;
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #d1d5da;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h1,
+h2 {
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h3,
+h4 {
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h5,
+h6 {
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+blockquote {
+  margin: 0;
+}
+
+ol,
+ul {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ol ol,
+ul ol {
+  list-style-type: lower-roman;
+}
+
+ol ol ol,
+ol ul ol,
+ul ol ol,
+ul ul ol {
+  list-style-type: lower-alpha;
+}
+
+dd {
+  margin-left: 0;
+}
+
+code,
+pre {
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 12px;
+}
+
+pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+:checked + .radio-label {
+  position: relative;
+  z-index: 1;
+  border-color: #0366d6;
+}
+
+.border {
+  border: 1px solid #e1e4e8 !important;
+}
+
+.border-0 {
+  border: 0 !important;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #e1e4e8 !important;
+}
+
+.rounded-1 {
+  border-radius: 3px !important;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+.bg-gray-light {
+  background-color: #fafbfc !important;
+}
+
+.text-gray-light {
+  color: #6a737d !important;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.my-2 {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.py-0 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.pl-1 {
+  padding-left: 4px !important;
+}
+
+.pl-2 {
+  padding-left: 8px !important;
+}
+
+.py-2 {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+.pl-3,
+.px-3 {
+  padding-left: 16px !important;
+}
+
+.px-3 {
+  padding-right: 16px !important;
+}
+
+.pl-4 {
+  padding-left: 24px !important;
+}
+
+.pl-5 {
+  padding-left: 32px !important;
+}
+
+.pl-6 {
+  padding-left: 40px !important;
+}
+
+.f6 {
+  font-size: 12px !important;
+}
+
+.lh-condensed {
+  line-height: 1.25 !important;
+}
+
+.text-bold {
+  font-weight: 600 !important;
+}
+
+.pl-c {
+  color: #6a737d;
+}
+
+.pl-c1,
+.pl-s .pl-v {
+  color: #005cc5;
+}
+
+.pl-e,
+.pl-en {
+  color: #6f42c1;
+}
+
+.pl-s .pl-s1,
+.pl-smi {
+  color: #24292e;
+}
+
+.pl-ent {
+  color: #22863a;
+}
+
+.pl-k {
+  color: #d73a49;
+}
+
+.pl-pds,
+.pl-s,
+.pl-s .pl-pse .pl-s1,
+.pl-sr,
+.pl-sr .pl-cce,
+.pl-sr .pl-sra,
+.pl-sr .pl-sre {
+  color: #032f62;
+}
+
+.pl-smw,
+.pl-v {
+  color: #e36209;
+}
+
+.pl-bu {
+  color: #b31d28;
+}
+
+.pl-ii {
+  color: #fafbfc;
+  background-color: #b31d28;
+}
+
+.pl-c2 {
+  color: #fafbfc;
+  background-color: #d73a49;
+}
+
+.pl-c2:before {
+  content: '^M';
+}
+
+.pl-sr .pl-cce {
+  font-weight: 700;
+  color: #22863a;
+}
+
+.pl-ml {
+  color: #735c0f;
+}
+
+.pl-mh,
+.pl-mh .pl-en,
+.pl-ms {
+  font-weight: 700;
+  color: #005cc5;
+}
+
+.pl-mi {
+  font-style: italic;
+  color: #24292e;
+}
+
+.pl-mb {
+  font-weight: 700;
+  color: #24292e;
+}
+
+.pl-md {
+  color: #b31d28;
+  background-color: #ffeef0;
+}
+
+.pl-mi1 {
+  color: #22863a;
+  background-color: #f0fff4;
+}
+
+.pl-mc {
+  color: #e36209;
+  background-color: #ffebda;
+}
+
+.pl-mi2 {
+  color: #f6f8fa;
+  background-color: #005cc5;
+}
+
+.pl-mdr {
+  font-weight: 700;
+  color: #6f42c1;
+}
+
+.pl-ba {
+  color: #586069;
+}
+
+.pl-sg {
+  color: #959da5;
+}
+
+.pl-corl {
+  text-decoration: underline;
+  color: #032f62;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.my-2 {
+  margin-bottom: 8px !important;
+}
+
+.my-2 {
+  margin-top: 8px !important;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.py-0 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.pl-1 {
+  padding-left: 4px !important;
+}
+
+.pl-2 {
+  padding-left: 8px !important;
+}
+
+.py-2 {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+.pl-3 {
+  padding-left: 16px !important;
+}
+
+.pl-4 {
+  padding-left: 24px !important;
+}
+
+.pl-5 {
+  padding-left: 32px !important;
+}
+
+.pl-6 {
+  padding-left: 40px !important;
+}
+
+.pl-7 {
+  padding-left: 48px !important;
+}
+
+.pl-8 {
+  padding-left: 64px !important;
+}
+
+.pl-9 {
+  padding-left: 80px !important;
+}
+
+.pl-10 {
+  padding-left: 96px !important;
+}
+
+.pl-11 {
+  padding-left: 112px !important;
+}
+
+.pl-12 {
+  padding-left: 128px !important;
+}
+
+hr {
+  border-bottom-color: #eee;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  line-height: 10px;
+  color: #444d56;
+  vertical-align: middle;
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #d1d5da;
+}
+
+body:after,
+body:before {
+  display: table;
+  content: '';
+}
+
+body:after {
+  clear: both;
+}
+
+body > :first-child {
+  margin-top: 0 !important;
+}
+
+body > :last-child {
+  margin-bottom: 0 !important;
+}
+
+a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+blockquote,
+details,
+dl,
+ol,
+p,
+pre,
+table,
+ul {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+hr {
+  height: 0.25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: #e1e4e8;
+  border: 0;
+}
+
+blockquote {
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
+}
+
+blockquote > :first-child {
+  margin-top: 0;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h1,
+h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eaecef;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: 0.875em;
+}
+
+h6 {
+  font-size: 0.85em;
+  color: #6a737d;
+}
+
+ol,
+ul {
+  padding-left: 2em;
+}
+
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li {
+  word-wrap: break-all;
+}
+
+li > p {
+  margin-top: 16px;
+}
+
+li + li {
+  margin-top: 0.25em;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 600;
+}
+
+dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+}
+
+table th {
+  font-weight: 600;
+}
+
+table td,
+table th {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+img {
+  max-width: 80%;
+  box-sizing: initial;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+}
+
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(27, 31, 35, 0.05);
+  border-radius: 3px;
+}
+
+pre {
+  word-wrap: normal;
+}
+
+pre > code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  -webkit-print-color-adjust: exact;
+  background: #f8f8f8;
+}
+
+.hljs pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.hljs pre,
+pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f6f8fa;
+  -webkit-print-color-adjust: exact;
+
+  border-radius: 3px;
+}
+
+pre code {
+  display: inline;
+  max-width: auto;
+  padding: 0;
+  margin: 0;
+  overflow: visible;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: initial;
+  border: 0;
+}
+
+.commit-tease-sha {
+  display: inline-block;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 90%;
+  color: #444d56;
+}
+
+.full-commit .btn-outline:not(:disabled):hover {
+  color: #005cc5;
+  border-color: #005cc5;
+}
+
+.blob-wrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.blob-wrapper-embedded {
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.blob-num {
+  width: 1%;
+  min-width: 50px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 12px;
+  line-height: 20px;
+  color: rgba(27, 31, 35, 0.3);
+  text-align: right;
+  white-space: nowrap;
+  vertical-align: top;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.blob-num:hover {
+  color: rgba(27, 31, 35, 0.6);
+}
+
+.blob-num:before {
+  content: attr(data-line-number);
+}
+
+.blob-code {
+  position: relative;
+  padding-right: 10px;
+  padding-left: 10px;
+  line-height: 20px;
+  vertical-align: top;
+}
+
+.blob-code-inner {
+  overflow: visible;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 12px;
+  color: #24292e;
+  word-wrap: normal;
+  white-space: pre;
+}
+
+.pl-token.active,
+.pl-token:hover {
+  cursor: pointer;
+  background: #ffea7f;
+}
+
+.tab-size[data-tab-size='1'] {
+  -moz-tab-size: 1;
+  tab-size: 1;
+}
+
+.tab-size[data-tab-size='2'] {
+  -moz-tab-size: 2;
+  tab-size: 2;
+}
+
+.tab-size[data-tab-size='3'] {
+  -moz-tab-size: 3;
+  tab-size: 3;
+}
+
+.tab-size[data-tab-size='4'] {
+  -moz-tab-size: 4;
+  tab-size: 4;
+}
+
+.tab-size[data-tab-size='5'] {
+  -moz-tab-size: 5;
+  tab-size: 5;
+}
+
+.tab-size[data-tab-size='6'] {
+  -moz-tab-size: 6;
+  tab-size: 6;
+}
+
+.tab-size[data-tab-size='7'] {
+  -moz-tab-size: 7;
+  tab-size: 7;
+}
+
+.tab-size[data-tab-size='8'] {
+  -moz-tab-size: 8;
+  tab-size: 8;
+}
+
+.tab-size[data-tab-size='9'] {
+  -moz-tab-size: 9;
+  tab-size: 9;
+}
+
+.tab-size[data-tab-size='10'] {
+  -moz-tab-size: 10;
+  tab-size: 10;
+}
+
+.tab-size[data-tab-size='11'] {
+  -moz-tab-size: 11;
+  tab-size: 11;
+}
+
+.tab-size[data-tab-size='12'] {
+  -moz-tab-size: 12;
+  tab-size: 12;
+}
+
+.task-list-item {
+  list-style-type: none;
+}
+
+.task-list-item + .task-list-item {
+  margin-top: 3px;
+}
+
+.task-list-item input {
+  margin: 0 0.2em 0.25em -1.6em;
+  vertical-align: middle;
+}
+/*
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+*/
+  
+  .hljs-comment,
+  .hljs-quote {
+    color: #998;
+    font-style: italic;
+  }
+  
+  .hljs-keyword,
+  .hljs-selector-tag,
+  .hljs-subst {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .hljs-number,
+  .hljs-literal,
+  .hljs-variable,
+  .hljs-template-variable,
+  .hljs-tag .hljs-attr {
+    color: #008080;
+  }
+  
+  .hljs-string,
+  .hljs-doctag {
+    color: #d14;
+  }
+  
+  .hljs-title,
+  .hljs-section,
+  .hljs-selector-id {
+    color: #900;
+    font-weight: bold;
+  }
+  
+  .hljs-subst {
+    font-weight: normal;
+  }
+  
+  .hljs-type,
+  .hljs-class .hljs-title {
+    color: #458;
+    font-weight: bold;
+  }
+  
+  .hljs-tag,
+  .hljs-name,
+  .hljs-attribute {
+    color: #000080;
+    font-weight: normal;
+  }
+  
+  .hljs-regexp,
+  .hljs-link {
+    color: #009926;
+  }
+  
+  .hljs-symbol,
+  .hljs-bullet {
+    color: #990073;
+  }
+  
+  .hljs-built_in,
+  .hljs-builtin-name {
+    color: #0086b3;
+  }
+  
+  .hljs-meta {
+    color: #999;
+    font-weight: bold;
+  }
+  
+  .hljs-deletion {
+    background: #fdd;
+  }
+  
+  .hljs-addition {
+    background: #dfd;
+  }
+  
+  .hljs-emphasis {
+    font-style: italic;
+  }
+  
+  .hljs-strong {
+    font-weight: bold;
+  }
+		</style>
+	</head>
+	<body>
+		<nav id="table-of-contents">
+			
+		</nav>
+		<main>
+			<h1 id="leo-george-dion" tabindex="-1"><a class="anchor" href="#leo-george-dion" aria-hidden="true"><span class="octicon octicon-link"></span></a> Leo George Dion</h1>
+<p>leogdion@brightdigit.com</p>
+<p><strong>brightdigit.com</strong></p>
+<p><strong>517.325.3123</strong></p>
+<hr>
+<h2 id="experience" tabindex="-1"><a class="anchor" href="#experience" aria-hidden="true"><span class="octicon octicon-link"></span></a> Experience</h2>
+<h3 id="brightdigit" tabindex="-1"><a class="anchor" href="#brightdigit" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://brightdigit.com">BrightDigit</a></h3>
+<p><em>2012-</em></p>
+<p><a href="https://brightdigit.com">Official Web Site - https://brightdigit.com</a></p>
+<p><a href="https://itunes.apple.com/bz/developer/brightdigit/id951071114">App Store - https://itunes.apple.com/bz/developer/brightdigit/id951071114</a></p>
+<p><a href="https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g">YouTube Channel - https://www.youtube.com/channel/UCnl3jF6GHAvlj1MZyb6Ka9g</a></p>
+<p><a href="https://www.empowerapps.show">Podcast - https://www.empowerapps.show</a></p>
+<p><strong>Principal and CEO</strong></p>
+<p>Since 2012, BrightDigit is focused on developing applications in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.</p>
+<ul>
+<li>Marketing to potential clients through publications, videos, and podcasts on Apple-centric topics which focus on developers as well as businesses running Apple hardware</li>
+<li>Presenting at conferences and meetups on intermediate and challenging technical topics concerning Swift</li>
+<li>Managing other people in the areas of software development, marketing, and media production</li>
+</ul>
+<h4 id="clients" tabindex="-1"><a class="anchor" href="#clients" aria-hidden="true"><span class="octicon octicon-link"></span></a> Clients</h4>
+<h5 id="meijer-ios-swift" tabindex="-1"><a class="anchor" href="#meijer-ios-swift" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="http://meijer.com/">Meijer</a> <em>iOS / Swift</em></h5>
+<p><em>Update and Collaborate on Team Best Practices</em></p>
+<ul>
+<li>Guide the team on updating codebase from Objective-C and UIKit to Swift and SwiftUI</li>
+<li>Teach and Train the Team on Best Practices</li>
+<li>Collaborate outside of IT to get clear understand of business and models</li>
+</ul>
+<h5 id="gbeat-cto" tabindex="-1"><a class="anchor" href="#gbeat-cto" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://gbeat.com">gBeat</a> <em>CTO</em></h5>
+<p><em>Build entire platform for iOS and Web</em></p>
+<ul>
+<li>Lead Development of Server, Web, iOS, and Android Development for 10 person team</li>
+<li>Help Guide Development Approach for outside Clients</li>
+<li>Maintain and Update Code Base while setting up Continuous Integration Services</li>
+</ul>
+<h5 id="asset-health-ios-swift" tabindex="-1"><a class="anchor" href="#asset-health-ios-swift" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="http://assethealth.info">Asset Health</a> <em>iOS / Swift</em></h5>
+<p><a href="http://assethealth.info">Official Web Site - http://assethealth.info</a></p>
+<p><em>Track and Integrate with Employers Health Data</em></p>
+<ul>
+<li>help bring Adobe XD designs to life using Interface Build as well as coded user interfaces in Swift</li>
+<li>work with project managers and lead developers on timelines and the best way to actualize requirements</li>
+<li>communicate with the client team on regular basis on the unique differences of the iOS platform</li>
+</ul>
+<h5 id="conferencesio-macos-swift" tabindex="-1"><a class="anchor" href="#conferencesio-macos-swift" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://www.conferences.io">conferences.io</a> <em>macOS / Swift</em></h5>
+<p><em>Real-Time Audience Engagement Application for Presentations</em></p>
+<p><a href="https://www.conferences.io">Official Web Site - https://www.conferences.io</a></p>
+<ul>
+<li>Building and Maintaining a macOS port for conferences.io in Swift</li>
+<li>Communicating on a regular basis with the client's product manager on the capabilities and limitations of macOS, Keynote, Powerpoint, and the AppleScript API</li>
+<li>Automate the process of building and deploying the app to Amazon S3</li>
+<li>Build and design a user interface using Storyboards and AppKit</li>
+</ul>
+<h5 id="jackson-national-life-ios-objective-c" tabindex="-1"><a class="anchor" href="#jackson-national-life-ios-objective-c" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://www.jackson.com/index.xhtml">Jackson National Life</a> <em>iOS / Objective-C</em></h5>
+<p><em>Sales Team Application for Showcasing and Presenting Product Material</em></p>
+<p><a href="https://itunes.apple.com/us/app/jackson/id920821928?mt=8">App Store - https://itunes.apple.com/us/app/jackson/id920821928?mt=8</a></p>
+<ul>
+<li>Architect and team lead for Jackson National Life’s iPad application</li>
+<li>Design an Objective-C API for easy for easy implementation by the client on the  Xamarian platform</li>
+<li>Implement user interface designs from the client using Xcode and Interface Builder</li>
+</ul>
+<h5 id="cheeney-media-concepts-ios-swift" tabindex="-1"><a class="anchor" href="#cheeney-media-concepts-ios-swift" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://cmc2.tv">Cheeney Media Concepts</a> <em>iOS / Swift</em></h5>
+<p><em>CE/CME Genius - Medical Continuing Education Tracking</em></p>
+<p><a href="https://cmc2.tv">Official Web Site - https://cmc2.tv</a></p>
+<p><a href="https://itunes.apple.com/us/developer/cmc-interactive/id1027986564">App Store - https://itunes.apple.com/us/developer/cmc-interactive/id1027986564</a></p>
+<ul>
+<li>work with the client team on porting Android applications to iOS in Swift</li>
+<li>design consistent API and database structure for both Android and iOS</li>
+<li>use CoreData and EventKit API to design a local storage database and the ability to create reminders for users</li>
+</ul>
+<h3 id="organizations-and-products" tabindex="-1"><a class="anchor" href="#organizations-and-products" aria-hidden="true"><span class="octicon octicon-link"></span></a> Organizations and Products</h3>
+<h4 id="empowerappsshow---official-brightdigit-podcast" tabindex="-1"><a class="anchor" href="#empowerappsshow---official-brightdigit-podcast" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://brightdigit.com/episodes/">EmpowerApps.Show</a> - Official BrightDigit Podcast</h4>
+<p><a href="https://www.empowerapps.show">Official Web Site - https://www.empowerapps.show</a></p>
+<p><a href="https://itunes.apple.com/us/podcast/empower-apps/id1437435392?mt=2">Apple Podcasts - https://itunes.apple.com/us/podcast/empower-apps/id1437435392?mt=2</a></p>
+<p><strong>Official Producer</strong></p>
+<p><em>2017-</em></p>
+<ul>
+<li>Arrange and Choose Topics of Interest to the Business and Developer Community centered around Apple products</li>
+<li>Produce and Edit Pre-Show and Post-Show Notes</li>
+<li>Edit and Produce Deliverable Audio and Video for Audience Consumption</li>
+<li>Work with Audio Editor and Outside Marketing Personnel</li>
+<li>Schedule and Communicate with Guests on Show Content and Protocol</li>
+<li>Marketing and Manage Social Media of Episodes and Content</li>
+</ul>
+<h3 id="previous-employers" tabindex="-1"><a class="anchor" href="#previous-employers" aria-hidden="true"><span class="octicon octicon-link"></span></a> Previous Employers</h3>
+<h4 id="idv-solutions" tabindex="-1"><a class="anchor" href="#idv-solutions" aria-hidden="true"><span class="octicon octicon-link"></span></a> IDV Solutions</h4>
+<p><strong>Senior Software Developer</strong></p>
+<p>February 2007 - July 2012</p>
+<ul>
+<li>Develop mobile applications for the iPad</li>
+<li>Use .Net and JavaScript to create easy-to-use development tools for businesses</li>
+</ul>
+<h4 id="state-of-michigan" tabindex="-1"><a class="anchor" href="#state-of-michigan" aria-hidden="true"><span class="octicon octicon-link"></span></a> State of Michigan</h4>
+<p><strong>Software Developer</strong></p>
+<p>February 2006 - February 2007</p>
+<h4 id="corecomm" tabindex="-1"><a class="anchor" href="#corecomm" aria-hidden="true"><span class="octicon octicon-link"></span></a> CoreComm</h4>
+<p><strong>Project Developer</strong></p>
+<p>October 2003 – February 2006</p>
+<p><strong>Telephone Repair Assistant</strong></p>
+<p>July 2001 – October 2003</p>
+<h2 id="education" tabindex="-1"><a class="anchor" href="#education" aria-hidden="true"><span class="octicon octicon-link"></span></a> Education</h2>
+<h3 id="michigan-state-university" tabindex="-1"><a class="anchor" href="#michigan-state-university" aria-hidden="true"><span class="octicon octicon-link"></span></a> Michigan State University</h3>
+<p><strong>M.A., Digital Media and Art Technology</strong></p>
+<p>December 2005</p>
+<p><strong>B.S., Computer Science</strong></p>
+<p>May 2003</p>
+<h2 id="products-and-open-source-projects" tabindex="-1"><a class="anchor" href="#products-and-open-source-projects" aria-hidden="true"><span class="octicon octicon-link"></span></a> Products and Open Source Projects</h2>
+<h4 id="bushel" tabindex="-1"><a class="anchor" href="#bushel" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://getbushel.app">Bushel</a></h4>
+<p><strong>macOS</strong> | <strong>SwiftUI</strong> | <strong>Virtualization</strong></p>
+<p><em>Create Unbreakable macOS Apps</em></p>
+<p>Bushel is the macOS virtual machine app for developers who want to be rigorous and uncompromising in their app testing. Bushel is focused on giving you the complete, native capabilities of the operating system for all your testing requirements.</p>
+<h4 id="heartwitch" tabindex="-1"><a class="anchor" href="#heartwitch" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://heartwitch.app">Heartwitch</a></h4>
+<p><strong>watchOS</strong> | <strong>web</strong> | <strong>Vapor</strong> | <strong>HealthKit</strong> | <strong>Heroku</strong> | <strong>PostgreSQL</strong></p>
+<p><em>Livestream Your Health Stats Straight From Your Apple Watch</em></p>
+<p>Heartwitch is a combination Apple Watch and Web App for sharing your health data online.</p>
+<p>Video game live streaming has become a mainstream form of entertainment, with viewers liking to see how streamers behave and react to gameplay. With Heartwitch, viewers can see how the streamer reacts on a physical level.</p>
+<p>See the streamer’s heart rate shift when hiding from a monster, driving a racecar around a tight bend, or as their favorite character dies in their arms.</p>
+<p>Unlike other apps that capture user health data, there is no need for extra hardware. It uses the built-in sensors of the Apple Watch to detect your heart rate and send it through our servers directly to your web browser.</p>
+<h4 id="contributewordpress" tabindex="-1"><a class="anchor" href="#contributewordpress" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/ContributeWordPress">ContributeWordPress</a></h4>
+<p><strong>macOS</strong> | <strong>linux</strong></p>
+<p>Import your WordPress site into Publish.</p>
+<p>ContributeWordPress provides an easy to use API for importing a WordPress site into Publish.</p>
+<p>ContributeWordPress uses the exported XML (also referred to as WXR file) to import content into your existing Publish site.</p>
+<h4 id="felinepine" tabindex="-1"><a class="anchor" href="#felinepine" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/FelinePine">FelinePine</a></h4>
+<p><strong>macOS</strong> | <strong>iOS</strong> | <strong>watchOS</strong> | <strong>tvOS</strong> | <strong>web</strong></p>
+<p>FelinePine provides an easy-to-use API for setting up logging and log categories across your architecture.</p>
+<h4 id="mistkit" tabindex="-1"><a class="anchor" href="#mistkit" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/MistKit">MistKit</a></h4>
+<p><strong>web</strong> | <strong>CloudKit</strong></p>
+<p><em>Swift Package for Service-Side &amp; Command-Line Access to the Apple CloudKit framework</em></p>
+<p>Use MistKit for</p>
+<ul>
+<li>Easily migrate data to and from CloudKit</li>
+<li>Building Command-Line Applications</li>
+<li>Running apps on non-Apple operating systems</li>
+<li>Server-side integration (via Vapor)</li>
+<li>Access serverless computing (via AWS Lambda)</li>
+<li>And more!</li>
+</ul>
+<h4 id="npmpublishplugin" tabindex="-1"><a class="anchor" href="#npmpublishplugin" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/NPMPublishPlugin">NPMPublishPlugin</a></h4>
+<p><strong>macOS</strong> | <strong>linux</strong></p>
+<p>A Publish plugin that makes it easy to run npm commands for any Publish website.</p>
+<p>NPMPublishPlugin allows you to integrate an NPM package into your Publish site. If you require javascript or css to be built for your site, this is the ideal plugin for you.</p>
+<h4 id="packagedsl" tabindex="-1"><a class="anchor" href="#packagedsl" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/PackageDSL">PackageDSL</a></h4>
+<p><strong>macOS</strong> | <strong>linux</strong> | <strong>iOS</strong> | <strong>watchOS</strong> | <strong>tvOS</strong></p>
+<p>Simplify the management of your Package.swift file with PackageDSL. I was having a difficult time managing a large Package.swift file. PackageDSL allows you to setup individual targets, products, and dependencies using this DSL and create an easily organized, simplified, and easy to maintain Package for your Swift project.</p>
+<h4 id="simulatorservices" tabindex="-1"><a class="anchor" href="#simulatorservices" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/SimulatorServices">SimulatorServices</a></h4>
+<p><strong>macOS</strong></p>
+<p>SimulatorServices provides an easy to use API for managing, querying, and accessing simulators on your Mac.</p>
+<p>SimulatorServices allows you to execute subcommands to simctl directly in Swift while offering an easy to use API for parsing and passing arguments.</p>
+<p>SimulatorServices uses the SimCtl object to pass subcommands. Each subcommand objects takes custom arguments or property and can parse the standard output into an easy to use Swift object. There are currently two supported subcommands: GetAppContainers and List.</p>
+<h4 id="stealthystash" tabindex="-1"><a class="anchor" href="#stealthystash" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/StealthyStash">StealthyStash</a></h4>
+<p><strong>macOS</strong> | <strong>iOS</strong> | <strong>watchOS</strong> | <strong>tvOS</strong></p>
+<p>StealthyStash provides an pluggable easy abstract layer for accessing Keychain data as well as an API for encoding and decoding complex data in the Keychain.</p>
+<p>StealthyStash supports the adding, updating, and querying for both generic and internet passwords.</p>
+<h4 id="sublimation" tabindex="-1"><a class="anchor" href="#sublimation" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/Sublimation">Sublimation</a></h4>
+<p><strong>macOS</strong> | <strong>iOS</strong> | <strong>watchOS</strong> | <strong>tvOS</strong> | <strong>linux</strong></p>
+<p>Share your local development server easily with your Apple devices.</p>
+<p>When you are developing a full stack Swift application, you want to easily test and debug your application on both the device (iPhone, Apple Watch, iPad, etc...) as well as your development server. If you are using simulator then setting your host server to localhost will work but often we need to test on an actual device. You can either be an IT expert your local network's DNS or you can use Sublimation to easily connect your local server to your device.</p>
+<h4 id="sundialkit" tabindex="-1"><a class="anchor" href="#sundialkit" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/SundialKit">SundialKit</a></h4>
+<p><strong>iOS</strong> | <strong>watchOS</strong></p>
+<p>Reactive communications library across Apple platforms.</p>
+<p>For easier use in reactive user interfaces, especially with SwiftUI and Combine, I've created a library which abstracts and maps common connectivity APIs. Particularly in my app Heartwitch, I mapped the functionality of WatchConnectivity and Network over to track the user's ability to connect to the Internet as well as the ability for their iPhone to connect to their Apple Watch via WatchConnectivity</p>
+<h4 id="syndikit" tabindex="-1"><a class="anchor" href="#syndikit" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/SyndiKit">SyndiKit</a></h4>
+<p><strong>macOS</strong> | <strong>iOS</strong> | <strong>watchOS</strong> | <strong>tvOS</strong> | <strong>linux</strong></p>
+<p>Built on top of XMLCoder, SyndiKit can be used to import and read site data whether from a WordPress site, RSS feeds, YouTube channel or podcast.</p>
+<p>Features include:</p>
+<ul>
+<li>Import of RSS 2.0, Atom, and JSONFeed formats</li>
+<li>Extensions for iTunes-compatabile podcasts, YouTube channels, as well as WordPress export data</li>
+<li>User-friendly errors</li>
+<li>Abstractions for format-agnostic parsing</li>
+</ul>
+<h4 id="thirtyto" tabindex="-1"><a class="anchor" href="#thirtyto" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/ThirtyTo">ThirtyTo</a></h4>
+<p><strong>macOS</strong> | <strong>iOS</strong> | <strong>watchOS</strong> | <strong>tvOS</strong> | <strong>linux</strong></p>
+<p>Swift Package for using Base32Crockford Encoding for Data and Identifiers.</p>
+<p>ThirtyTo provides a way to encode data and create identifiers which is both efficient and human-readable. While Base64 is more efficient it is not very human-readable with both both upper case and lower case letters as well as punctuation.</p>
+<p>Base32Crockford offers the most reasonable compromise when it comes to encoding data. Being a super set of Base16, it uses all ten digits and 22 of the 26 Latin upper case characters.</p>
+<h4 id="transistorpublishplugin" tabindex="-1"><a class="anchor" href="#transistorpublishplugin" aria-hidden="true"><span class="octicon octicon-link"></span></a> <a href="https://github.com/brightdigit/TransistorPublishPlugin">TransistorPublishPlugin</a></h4>
+<p><strong>macOS</strong> | <strong>linux</strong></p>
+<p>A Publish plugin that makes it easy to embed Transistor podcasts in your posts on any Publish website.</p>
+<p>Using blockquotes in your markdown, you can easily embed the Transistor podcast player in your website.</p>
+<h2 id="skills" tabindex="-1"><a class="anchor" href="#skills" aria-hidden="true"><span class="octicon octicon-link"></span></a> Skills</h2>
+<h3 id="languages" tabindex="-1"><a class="anchor" href="#languages" aria-hidden="true"><span class="octicon octicon-link"></span></a> Languages</h3>
+<p><strong>Swift</strong> | <strong>Bash Scripting</strong> | <strong>JavaScript</strong> | <strong>TypeScript</strong> | <strong>Objective-C</strong> | <strong>HTML5</strong> | <strong>CSS3</strong></p>
+<h3 id="tools" tabindex="-1"><a class="anchor" href="#tools" aria-hidden="true"><span class="octicon octicon-link"></span></a> Tools</h3>
+<p><strong>Xcode</strong> | <strong>Interface Builder</strong> | <strong>iTunes Connect</strong> | <strong>Gitlab CI</strong> | <strong>Github Actions</strong> | <strong>Fastlane</strong> | <strong>Final Cut Pro</strong></p>
+<h3 id="frameworks-and-apis" tabindex="-1"><a class="anchor" href="#frameworks-and-apis" aria-hidden="true"><span class="octicon octicon-link"></span></a> Frameworks and APIs</h3>
+<h4 id="apple-and-swift-development" tabindex="-1"><a class="anchor" href="#apple-and-swift-development" aria-hidden="true"><span class="octicon octicon-link"></span></a> Apple and Swift Development</h4>
+<p><strong>SwiftUI</strong> | <strong>Combine</strong> | <strong>SwiftData</strong> |  <strong>Cocoa Touch</strong> | <strong>Cocoa</strong> | <strong>UIKit</strong> | <strong>AppKit</strong> | <strong>Core Location</strong> | <strong>Vapor</strong> | <strong>Core Data</strong> | <strong>Networking</strong> | <strong>HealthKit and Fitness</strong> | <strong>CloudKit</strong> | <strong>Codable</strong> |
+<strong>Storyboards</strong> | <strong>Auto Layouts and Adaptive Design</strong> | <strong>WatchKit</strong> | <strong>User Notifications</strong> | <strong>Homebrew</strong> | <strong>Jazzy</strong> | <strong>XPC</strong></p>
+<h4 id="other-frameworks-and-tools" tabindex="-1"><a class="anchor" href="#other-frameworks-and-tools" aria-hidden="true"><span class="octicon octicon-link"></span></a> Other Frameworks and Tools</h4>
+<p><strong>Google Analytics</strong> | <strong>VueJs</strong> | <strong>NodeJs</strong> | <strong>Amazon Web Services</strong></p>
+<h3 id="databases" tabindex="-1"><a class="anchor" href="#databases" aria-hidden="true"><span class="octicon octicon-link"></span></a> Databases</h3>
+<p><strong>PostgreSQL</strong> | <strong>MySQL</strong>  | MsSQL | Oracle</p>
+<hr>
+<ul>
+<li>references available on request</li>
+</ul>
+
+		</main>
+	</body>
+</html>
