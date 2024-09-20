@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'resume.md'
+      - '.github/workflows/convert-resume.yml'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -17,6 +18,7 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: resume.md
+          output_dir: ""
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
