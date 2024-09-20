@@ -1,0 +1,28 @@
+name: Convert Resume to PDF and HTML
+
+on:
+  push:
+    paths:
+      - 'resume.md'
+      - '.github/workflows/convert-resume.yml'
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  convert_resume:
+    name: Convert Resume
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Convert to PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: resume.md
+          output_dir: /
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions [bot]"
+          git add resume.pdf resume.html
+          git commit -m "Update resume PDF and HTML" || echo "No changes to commit"
+          git push
