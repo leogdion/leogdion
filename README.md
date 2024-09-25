@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/mattpolzin/OpenAPIReflection/pull/8#issuecomment-2371508127) in [mattpolzin/OpenAPIReflection](https://github.com/mattpolzin/OpenAPIReflection)
-2. 🚀 Published release [2.0.0](https://github.com/brightdigit/Sublimation/releases/tag/2.0.0) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-3. 🎉 Merged PR [#51](https://github.com/brightdigit/Sublimation/pull/51) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-4. 🎉 Merged PR [#5](https://github.com/leogdion/leogdion/pull/5) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
-5. 💪 Opened PR [#5](https://github.com/leogdion/leogdion/pull/5) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
+1. ❗ Opened issue [#5](https://github.com/brightdigit/RadiantKit/issues/5) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+2. 🗣 Commented on [#8](https://github.com/mattpolzin/OpenAPIReflection/pull/8#issuecomment-2371508127) in [mattpolzin/OpenAPIReflection](https://github.com/mattpolzin/OpenAPIReflection)
+3. 🚀 Published release [2.0.0](https://github.com/brightdigit/Sublimation/releases/tag/2.0.0) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+4. 🎉 Merged PR [#51](https://github.com/brightdigit/Sublimation/pull/51) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+5. 🎉 Merged PR [#5](https://github.com/leogdion/leogdion/pull/5) in [leogdion/leogdion](https://github.com/leogdion/leogdion)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
