@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.1](https://github.com/brightdigit/Sublimation/releases/tag/2.0.1) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-2. 🎉 Merged PR [#52](https://github.com/brightdigit/Sublimation/pull/52) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-3. 💪 Opened PR [#18](https://github.com/brightdigit/FelinePine/pull/18) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-4. 🎉 Merged PR [#17](https://github.com/brightdigit/FelinePine/pull/17) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-5. 💪 Opened PR [#17](https://github.com/brightdigit/FelinePine/pull/17) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+1. 🚀 Published release [1.0.0-beta.3](https://github.com/brightdigit/FelinePine/releases/tag/1.0.0-beta.3) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+2. 🎉 Merged PR [#18](https://github.com/brightdigit/FelinePine/pull/18) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+3. 🚀 Published release [2.0.1](https://github.com/brightdigit/Sublimation/releases/tag/2.0.1) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+4. 🎉 Merged PR [#52](https://github.com/brightdigit/Sublimation/pull/52) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+5. 💪 Opened PR [#18](https://github.com/brightdigit/FelinePine/pull/18) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
