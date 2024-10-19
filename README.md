@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/brightdigit/FelinePine/pull/16) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-2. 💪 Opened PR [#16](https://github.com/brightdigit/FelinePine/pull/16) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-3. 💪 Opened PR [#3](https://github.com/brightdigit/SublimationBonjour/pull/3) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
-4. 💪 Opened PR [#52](https://github.com/brightdigit/Sublimation/pull/52) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-5. ❗ Opened issue [#11](https://github.com/brightdigit/DataThespian/issues/11) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+1. 💪 Opened PR [#17](https://github.com/brightdigit/FelinePine/pull/17) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+2. 🎉 Merged PR [#15](https://github.com/brightdigit/FelinePine/pull/15) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+3. 🎉 Merged PR [#16](https://github.com/brightdigit/FelinePine/pull/16) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+4. 💪 Opened PR [#16](https://github.com/brightdigit/FelinePine/pull/16) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+5. 💪 Opened PR [#3](https://github.com/brightdigit/SublimationBonjour/pull/3) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
