@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0-beta.4](https://github.com/brightdigit/FelinePine/releases/tag/1.0.0-beta.4) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-2. 🎉 Merged PR [#19](https://github.com/brightdigit/FelinePine/pull/19) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-3. 🚀 Published release [1.0.2](https://github.com/brightdigit/SublimationBonjour/releases/tag/1.0.2) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
-4. 🎉 Merged PR [#3](https://github.com/brightdigit/SublimationBonjour/pull/3) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
-5. 💪 Opened PR [#19](https://github.com/brightdigit/FelinePine/pull/19) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+1. 🗣 Commented on [#1108](https://github.com/swiftlang/vscode-swift/issues/1108#issuecomment-2426462267) in [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift)
+2. 🔒 Closed issue [#1108](https://github.com/swiftlang/vscode-swift/issues/1108) in [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift)
+3. 🚀 Published release [1.0.0-beta.4](https://github.com/brightdigit/FelinePine/releases/tag/1.0.0-beta.4) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+4. 🎉 Merged PR [#19](https://github.com/brightdigit/FelinePine/pull/19) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+5. 🚀 Published release [1.0.2](https://github.com/brightdigit/SublimationBonjour/releases/tag/1.0.2) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
