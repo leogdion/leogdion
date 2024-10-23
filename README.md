@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/brightdigit/FelinePine/pull/21) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-2. 💪 Opened PR [#1](https://github.com/brightdigit/FelinePineLogging/pull/1) in [brightdigit/FelinePineLogging](https://github.com/brightdigit/FelinePineLogging)
-3. 💪 Opened PR [#20](https://github.com/brightdigit/FelinePine/pull/20) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
-4. 🗣 Commented on [#1108](https://github.com/swiftlang/vscode-swift/issues/1108#issuecomment-2426462267) in [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift)
-5. 🔒 Closed issue [#1108](https://github.com/swiftlang/vscode-swift/issues/1108) in [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift)
+1. 🎉 Merged PR [#21](https://github.com/brightdigit/FelinePine/pull/21) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+2. 💪 Opened PR [#21](https://github.com/brightdigit/FelinePine/pull/21) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+3. 💪 Opened PR [#1](https://github.com/brightdigit/FelinePineLogging/pull/1) in [brightdigit/FelinePineLogging](https://github.com/brightdigit/FelinePineLogging)
+4. 💪 Opened PR [#20](https://github.com/brightdigit/FelinePine/pull/20) in [brightdigit/FelinePine](https://github.com/brightdigit/FelinePine)
+5. 🗣 Commented on [#1108](https://github.com/swiftlang/vscode-swift/issues/1108#issuecomment-2426462267) in [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
