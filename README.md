@@ -31,7 +31,7 @@
 
 👨‍💻 I am always open to new oppurtunities to please do [contact me](mailto:leo@brightdigit.com?subject=I%20am%20interested%20in%20a%20Swift%20Developer) if you are looking for a Swift developer
 
-📄 My [resume can be found here](https://github.com/leogdion/leogdion/blob/main/resume.md) [[pdf]](https://raw.githubusercontent.com/leogdion/leogdion/refs/heads/main/resume.pdf)
+📄 My [resume can be found here](https://github.com/leogdion/leogdion/blob/main/resume.md) [[pdf]](https://raw.githubusercontent.com/leogdion/leogdion/refs/heads/main/resume.pdf) [[docx]](https://raw.githubusercontent.com/leogdion/leogdion/refs/heads/main/resume.docx)
 
 ## My Apps
 
