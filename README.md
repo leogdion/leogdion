@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/brightdigit/IPSWDownloads/pull/26) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-2. 💪 Opened PR [#26](https://github.com/brightdigit/IPSWDownloads/pull/26) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-3. 💪 Opened PR [#25](https://github.com/brightdigit/IPSWDownloads/pull/25) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-4. 🎉 Merged PR [#18](https://github.com/brightdigit/IPSWDownloads/pull/18) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-5. ❗ Opened issue [#14](https://github.com/brightdigit/DataThespian/issues/14) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+1. 🎉 Merged PR [#24](https://github.com/brightdigit/IPSWDownloads/pull/24) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+2. 🎉 Merged PR [#26](https://github.com/brightdigit/IPSWDownloads/pull/26) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+3. 💪 Opened PR [#26](https://github.com/brightdigit/IPSWDownloads/pull/26) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+4. 💪 Opened PR [#25](https://github.com/brightdigit/IPSWDownloads/pull/25) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+5. 🎉 Merged PR [#18](https://github.com/brightdigit/IPSWDownloads/pull/18) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
