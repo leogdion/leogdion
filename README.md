@@ -105,11 +105,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [Full Stack Lyriq with Adegboyega Olusunmade](https://share.transistor.fm/s/ac8d5be9)
 - [Ludicrous Types with Nick Lockwood](https://share.transistor.fm/s/16c79a30)
 - [Debugging Your Job Search with Jaim Zuber](https://share.transistor.fm/s/a02298d8)
 - [The Great SwiftUI Migration - Part 2 with Ben Scheirman](https://share.transistor.fm/s/b8e0abe9)
 - [The Great SwiftUI Migration - Part 1 with Ben Scheirman](https://share.transistor.fm/s/78f738aa)
-- [The Case of the Crimson Test Suite with Daniel Steinberg](https://share.transistor.fm/s/8fba09ff)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 ## Recent Activity
