@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/brightdigit/PackageDSL/pull/26) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-2. 💪 Opened PR [#26](https://github.com/brightdigit/PackageDSL/pull/26) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-3. ❗ Opened issue [#25](https://github.com/brightdigit/PackageDSL/issues/25) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-4. 🎉 Merged PR [#1](https://github.com/brightdigit/BushelDocs/pull/1) in [brightdigit/BushelDocs](https://github.com/brightdigit/BushelDocs)
-5. ❗ Opened issue [#3](https://github.com/brightdigit/BushelDocs/issues/3) in [brightdigit/BushelDocs](https://github.com/brightdigit/BushelDocs)
+1. 🔒 Closed issue [#3](https://github.com/brightdigit/BushelDocs/issues/3) in [brightdigit/BushelDocs](https://github.com/brightdigit/BushelDocs)
+2. 🎉 Merged PR [#4](https://github.com/brightdigit/BushelDocs/pull/4) in [brightdigit/BushelDocs](https://github.com/brightdigit/BushelDocs)
+3. 💪 Opened PR [#4](https://github.com/brightdigit/BushelDocs/pull/4) in [brightdigit/BushelDocs](https://github.com/brightdigit/BushelDocs)
+4. 🎉 Merged PR [#26](https://github.com/brightdigit/PackageDSL/pull/26) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+5. 💪 Opened PR [#26](https://github.com/brightdigit/PackageDSL/pull/26) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
