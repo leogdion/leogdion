@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/brightdigit/PackageDSLKit/issues/9) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
-2. ❗ Opened issue [#8](https://github.com/brightdigit/PackageDSLKit/issues/8) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
-3. ❗ Opened issue [#7](https://github.com/brightdigit/PackageDSLKit/issues/7) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
-4. 💪 Opened PR [#6](https://github.com/brightdigit/PackageDSLKit/pull/6) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
-5. 🎉 Merged PR [#5](https://github.com/brightdigit/PackageDSLKit/pull/5) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
+1. 💪 Opened PR [#1127](https://github.com/daveverwer/iOSDevDirectory/pull/1127) in [daveverwer/iOSDevDirectory](https://github.com/daveverwer/iOSDevDirectory)
+2. ❗ Opened issue [#9](https://github.com/brightdigit/PackageDSLKit/issues/9) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
+3. ❗ Opened issue [#8](https://github.com/brightdigit/PackageDSLKit/issues/8) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
+4. ❗ Opened issue [#7](https://github.com/brightdigit/PackageDSLKit/issues/7) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
+5. 💪 Opened PR [#6](https://github.com/brightdigit/PackageDSLKit/pull/6) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
