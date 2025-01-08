@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/brightdigit/DataThespian/pull/24) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-2. ❗ Opened issue [#23](https://github.com/brightdigit/DataThespian/issues/23) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-3. 💪 Opened PR [#22](https://github.com/brightdigit/DataThespian/pull/22) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-4. 💪 Opened PR [#1127](https://github.com/daveverwer/iOSDevDirectory/pull/1127) in [daveverwer/iOSDevDirectory](https://github.com/daveverwer/iOSDevDirectory)
-5. ❗ Opened issue [#9](https://github.com/brightdigit/PackageDSLKit/issues/9) in [brightdigit/PackageDSLKit](https://github.com/brightdigit/PackageDSLKit)
+1. 💪 Opened PR [#25](https://github.com/brightdigit/DataThespian/pull/25) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+2. 🔒 Closed issue [#20](https://github.com/brightdigit/DataThespian/issues/20) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+3. 🎉 Merged PR [#22](https://github.com/brightdigit/DataThespian/pull/22) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+4. 🎉 Merged PR [#24](https://github.com/brightdigit/DataThespian/pull/24) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+5. 💪 Opened PR [#24](https://github.com/brightdigit/DataThespian/pull/24) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
