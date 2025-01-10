@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/brightdigit/RadiantKit/issues/15) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-2. ❗ Opened issue [#29](https://github.com/brightdigit/DataThespian/issues/29) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-3. ❗ Opened issue [#28](https://github.com/brightdigit/DataThespian/issues/28) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-4. 🚀 Published release [1.0.0](https://github.com/brightdigit/DataThespian/releases/tag/1.0.0) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-5. ❗ Opened issue [#27](https://github.com/brightdigit/DataThespian/issues/27) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+1. 💪 Opened PR [#56](https://github.com/brightdigit/BushelKit/pull/56) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. 💪 Opened PR [#16](https://github.com/brightdigit/RadiantKit/pull/16) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+3. ❗ Opened issue [#15](https://github.com/brightdigit/RadiantKit/issues/15) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+4. ❗ Opened issue [#29](https://github.com/brightdigit/DataThespian/issues/29) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+5. ❗ Opened issue [#28](https://github.com/brightdigit/DataThespian/issues/28) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
