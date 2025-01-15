@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/brightdigit/OSVer/pull/2) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
-2. 🎉 Merged PR [#1](https://github.com/brightdigit/OSVer/pull/1) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
-3. 💪 Opened PR [#1](https://github.com/brightdigit/OSVer/pull/1) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
-4. 🚀 Published release [1.0.0](https://github.com/brightdigit/FelinePineSwift/releases/tag/1.0.0) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
-5. 🚀 Published release [1.0.0](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+1. 🎉 Merged PR [#2](https://github.com/brightdigit/OSVer/pull/2) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
+2. 💪 Opened PR [#3](https://github.com/brightdigit/OSVer/pull/3) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
+3. 💪 Opened PR [#2](https://github.com/brightdigit/OSVer/pull/2) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
+4. 🎉 Merged PR [#1](https://github.com/brightdigit/OSVer/pull/1) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
+5. 💪 Opened PR [#1](https://github.com/brightdigit/OSVer/pull/1) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
