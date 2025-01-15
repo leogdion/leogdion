@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/brightdigit/FelinePineSwift/releases/tag/1.0.0) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
-2. 🚀 Published release [1.0.0](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-3. 🎉 Merged PR [#3](https://github.com/brightdigit/FelinePineSwift/pull/3) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
-4. 💪 Opened PR [#3](https://github.com/brightdigit/FelinePineSwift/pull/3) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
-5. ❗ Opened issue [#38](https://github.com/brightdigit/IPSWDownloads/issues/38) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+1. 💪 Opened PR [#1](https://github.com/brightdigit/OSVer/pull/1) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
+2. 🚀 Published release [1.0.0](https://github.com/brightdigit/FelinePineSwift/releases/tag/1.0.0) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
+3. 🚀 Published release [1.0.0](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.0) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+4. 🎉 Merged PR [#3](https://github.com/brightdigit/FelinePineSwift/pull/3) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
+5. 💪 Opened PR [#3](https://github.com/brightdigit/FelinePineSwift/pull/3) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
