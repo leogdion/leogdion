@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/brightdigit/FelinePineSwift/pull/3) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
-2. ❗ Opened issue [#38](https://github.com/brightdigit/IPSWDownloads/issues/38) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-3. ❌ Closed PR [#35](https://github.com/brightdigit/IPSWDownloads/pull/35) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-4. ❌ Closed PR [#36](https://github.com/brightdigit/IPSWDownloads/pull/36) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-5. 🎉 Merged PR [#37](https://github.com/brightdigit/IPSWDownloads/pull/37) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+1. 🎉 Merged PR [#3](https://github.com/brightdigit/FelinePineSwift/pull/3) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
+2. 💪 Opened PR [#3](https://github.com/brightdigit/FelinePineSwift/pull/3) in [brightdigit/FelinePineSwift](https://github.com/brightdigit/FelinePineSwift)
+3. ❗ Opened issue [#38](https://github.com/brightdigit/IPSWDownloads/issues/38) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+4. ❌ Closed PR [#35](https://github.com/brightdigit/IPSWDownloads/pull/35) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
+5. ❌ Closed PR [#36](https://github.com/brightdigit/IPSWDownloads/pull/36) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
