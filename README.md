@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.1](https://github.com/brightdigit/IPSWDownloads/releases/tag/1.0.1) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-2. 🎉 Merged PR [#41](https://github.com/brightdigit/IPSWDownloads/pull/41) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-3. 💪 Opened PR [#41](https://github.com/brightdigit/IPSWDownloads/pull/41) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-4. ❗ Opened issue [#40](https://github.com/brightdigit/IPSWDownloads/issues/40) in [brightdigit/IPSWDownloads](https://github.com/brightdigit/IPSWDownloads)
-5. 🚀 Published release [1.0.0](https://github.com/brightdigit/OSVer/releases/tag/1.0.0) in [brightdigit/OSVer](https://github.com/brightdigit/OSVer)
+1. 🚀 Published release [2.0.2-beta.1](https://github.com/brightdigit/BushelKit/releases/tag/2.0.2-beta.1) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. ❗ Opened issue [#7](https://github.com/brightdigit/FeatherQuill/issues/7) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+3. ❌ Closed PR [#2](https://github.com/brightdigit/FeatherQuill/pull/2) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+4. 🎉 Merged PR [#63](https://github.com/brightdigit/BushelKit/pull/63) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. ❗ Opened issue [#64](https://github.com/brightdigit/BushelKit/issues/64) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
