@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.2-beta.1](https://github.com/brightdigit/BushelKit/releases/tag/2.0.2-beta.1) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. ❗ Opened issue [#7](https://github.com/brightdigit/FeatherQuill/issues/7) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-3. ❌ Closed PR [#2](https://github.com/brightdigit/FeatherQuill/pull/2) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-4. 🎉 Merged PR [#63](https://github.com/brightdigit/BushelKit/pull/63) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-5. ❗ Opened issue [#64](https://github.com/brightdigit/BushelKit/issues/64) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+1. 🔒 Closed issue [#58](https://github.com/brightdigit/BushelKit/issues/58) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. 🔒 Closed issue [#60](https://github.com/brightdigit/BushelKit/issues/60) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. 🔒 Closed issue [#59](https://github.com/brightdigit/BushelKit/issues/59) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+4. 🔒 Closed issue [#55](https://github.com/brightdigit/BushelKit/issues/55) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. 🔒 Closed issue [#54](https://github.com/brightdigit/BushelKit/issues/54) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
