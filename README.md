@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/brightdigit/getbushel.app/pull/9) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-2. 💪 Opened PR [#9](https://github.com/brightdigit/getbushel.app/pull/9) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-3. 🔒 Closed issue [#6](https://github.com/brightdigit/getbushel.app/issues/6) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-4. 🎉 Merged PR [#8](https://github.com/brightdigit/getbushel.app/pull/8) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-5. 🔒 Closed issue [#58](https://github.com/brightdigit/BushelKit/issues/58) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+1. 💪 Opened PR [#6](https://github.com/brightdigit/AviaryInsights/pull/6) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+2. 💪 Opened PR [#8](https://github.com/brightdigit/FeatherQuill/pull/8) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+3. 🎉 Merged PR [#9](https://github.com/brightdigit/getbushel.app/pull/9) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
+4. 💪 Opened PR [#9](https://github.com/brightdigit/getbushel.app/pull/9) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
+5. 🔒 Closed issue [#6](https://github.com/brightdigit/getbushel.app/issues/6) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
