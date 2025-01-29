@@ -95,11 +95,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 in Review and What&#39;s Next in 2025](https://brightdigit.com/articles/year-in-review-2024)
 - [SwiftData CRUD Operations with ModelActor](https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor)
 - [Being Sendable with SwiftData](https://brightdigit.com/tutorials/swiftdata-sendable)
 - [Bushel v1.2.0 - Exciting New Features for WWDC 2024!](https://brightdigit.com/articles/bushel-v120-release-wwdc2024)
 - [Swift 6 Incomplete Migration Guide for Dummies](https://brightdigit.com/tutorials/swift-6-async-await-actors-fixes)
-- [Using ModelActor in SwiftData](https://brightdigit.com/tutorials/swiftdata-modelactor)
 <!-- BLOG-POST-LIST:END -->
 
 
