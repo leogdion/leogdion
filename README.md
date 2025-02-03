@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/brightdigit/PackageDSL/pull/30) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-2. 💪 Opened PR [#30](https://github.com/brightdigit/PackageDSL/pull/30) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-3. 🔒 Closed issue [#7](https://github.com/brightdigit/FeatherQuill/issues/7) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-4. 🔒 Closed issue [#6](https://github.com/brightdigit/FeatherQuill/issues/6) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
-5. 🎉 Merged PR [#11](https://github.com/brightdigit/AviaryInsights/pull/11) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+1. ❗ Opened issue [#31](https://github.com/brightdigit/PackageDSL/issues/31) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+2. 🎉 Merged PR [#30](https://github.com/brightdigit/PackageDSL/pull/30) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+3. 💪 Opened PR [#30](https://github.com/brightdigit/PackageDSL/pull/30) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+4. 🔒 Closed issue [#7](https://github.com/brightdigit/FeatherQuill/issues/7) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
+5. 🔒 Closed issue [#6](https://github.com/brightdigit/FeatherQuill/issues/6) in [brightdigit/FeatherQuill](https://github.com/brightdigit/FeatherQuill)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
