@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/brightdigit/PackageDSL/pull/43) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-2. ❌ Closed PR [#40](https://github.com/brightdigit/PackageDSL/pull/40) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-3. ❌ Closed PR [#41](https://github.com/brightdigit/PackageDSL/pull/41) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-4. ❌ Closed PR [#42](https://github.com/brightdigit/PackageDSL/pull/42) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-5. 🎉 Merged PR [#11](https://github.com/brightdigit/PackageDSL/pull/11) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+1. 🚀 Published release [0.3.1](https://github.com/brightdigit/PackageDSL/releases/tag/0.3.1) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+2. 🚀 Published release [0.3.1](https://github.com/brightdigit/PackageDSL/releases/tag/0.3.1) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+3. 🎉 Merged PR [#43](https://github.com/brightdigit/PackageDSL/pull/43) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+4. ❌ Closed PR [#40](https://github.com/brightdigit/PackageDSL/pull/40) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+5. ❌ Closed PR [#41](https://github.com/brightdigit/PackageDSL/pull/41) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
