@@ -105,11 +105,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [Swift on Android with Marc Prud&#39;hommeaux](https://share.transistor.fm/s/07242181)
 - [Moving Forward 2025](https://share.transistor.fm/s/29a1400c)
 - [Fear of the Main Thread with Matt Masicotte](https://share.transistor.fm/s/be7700a1)
 - [Practical Year - Part 2 with Donny Wals](https://share.transistor.fm/s/04258f08)
 - [Practical Year - Part 1 with Donny Wals](https://share.transistor.fm/s/5054e174)
-- [Swift, Server Side, Serverless with Sébastien Stormacq](https://share.transistor.fm/s/47ba9790)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 ## Recent Activity
