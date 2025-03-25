@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/mattpolzin/VaporOpenAPI/pull/22) in [mattpolzin/VaporOpenAPI](https://github.com/mattpolzin/VaporOpenAPI)
-2. 💪 Opened PR [#3](https://github.com/brightdigit/RouteGroups/pull/3) in [brightdigit/RouteGroups](https://github.com/brightdigit/RouteGroups)
-3. 🔒 Closed issue [#22](https://github.com/brightdigit/RadiantKit/issues/22) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-4. 🔒 Closed issue [#18](https://github.com/brightdigit/RadiantKit/issues/18) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-5. 🎉 Merged PR [#21](https://github.com/brightdigit/RadiantKit/pull/21) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+1. 🗣 Commented on [#22](https://github.com/mattpolzin/VaporOpenAPI/pull/22#issuecomment-2752394219) in [mattpolzin/VaporOpenAPI](https://github.com/mattpolzin/VaporOpenAPI)
+2. 💪 Opened PR [#22](https://github.com/mattpolzin/VaporOpenAPI/pull/22) in [mattpolzin/VaporOpenAPI](https://github.com/mattpolzin/VaporOpenAPI)
+3. 💪 Opened PR [#3](https://github.com/brightdigit/RouteGroups/pull/3) in [brightdigit/RouteGroups](https://github.com/brightdigit/RouteGroups)
+4. 🔒 Closed issue [#22](https://github.com/brightdigit/RadiantKit/issues/22) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+5. 🔒 Closed issue [#18](https://github.com/brightdigit/RadiantKit/issues/18) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
