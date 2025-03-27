@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/brightdigit/BushelKit/pull/77) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. 🚀 Published release [1.0.0-beta.2](https://github.com/brightdigit/RadiantKit/releases/tag/1.0.0-beta.2) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-3. 🎉 Merged PR [#26](https://github.com/brightdigit/RadiantKit/pull/26) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-4. 💪 Opened PR [#26](https://github.com/brightdigit/RadiantKit/pull/26) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-5. 🎉 Merged PR [#25](https://github.com/brightdigit/RadiantKit/pull/25) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+1. 🚀 Published release [2.0.3-beta.2](https://github.com/brightdigit/BushelKit/releases/tag/2.0.3-beta.2) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. 🎉 Merged PR [#77](https://github.com/brightdigit/BushelKit/pull/77) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. 💪 Opened PR [#77](https://github.com/brightdigit/BushelKit/pull/77) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+4. 🚀 Published release [1.0.0-beta.2](https://github.com/brightdigit/RadiantKit/releases/tag/1.0.0-beta.2) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+5. 🎉 Merged PR [#26](https://github.com/brightdigit/RadiantKit/pull/26) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
