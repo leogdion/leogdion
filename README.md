@@ -114,8 +114,8 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/brightdigit/PackageDSL/pull/66) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-2. 🎉 Merged PR [#64](https://github.com/brightdigit/PackageDSL/pull/64) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+1. ❗ Opened issue [#82](https://github.com/brightdigit/BushelKit/issues/82) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. 🎉 Merged PR [#66](https://github.com/brightdigit/PackageDSL/pull/66) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
 3. 💪 Opened PR [#81](https://github.com/brightdigit/BushelKit/pull/81) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 4. 🎉 Merged PR [#80](https://github.com/brightdigit/BushelKit/pull/80) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 5. 💪 Opened PR [#80](https://github.com/brightdigit/BushelKit/pull/80) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
