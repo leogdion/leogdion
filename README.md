@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.3](https://github.com/brightdigit/BushelKit/releases/tag/2.0.3) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. 🗣 Commented on [#220](https://github.com/twostraws/wwdc/pull/220#issuecomment-2912418689) in [twostraws/wwdc](https://github.com/twostraws/wwdc)
-3. 🗣 Commented on [#220](https://github.com/twostraws/wwdc/pull/220#issuecomment-2912407922) in [twostraws/wwdc](https://github.com/twostraws/wwdc)
-4. 💪 Opened PR [#220](https://github.com/twostraws/wwdc/pull/220) in [twostraws/wwdc](https://github.com/twostraws/wwdc)
-5. 🚀 Published release [2.0.3-beta.5](https://github.com/brightdigit/BushelKit/releases/tag/2.0.3-beta.5) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+1. 🎉 Merged PR [#76](https://github.com/brightdigit/PackageDSL/pull/76) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+2. 🚀 Published release [2.0.3](https://github.com/brightdigit/BushelKit/releases/tag/2.0.3) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. 🗣 Commented on [#220](https://github.com/twostraws/wwdc/pull/220#issuecomment-2912418689) in [twostraws/wwdc](https://github.com/twostraws/wwdc)
+4. 🗣 Commented on [#220](https://github.com/twostraws/wwdc/pull/220#issuecomment-2912407922) in [twostraws/wwdc](https://github.com/twostraws/wwdc)
+5. 💪 Opened PR [#220](https://github.com/twostraws/wwdc/pull/220) in [twostraws/wwdc](https://github.com/twostraws/wwdc)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
