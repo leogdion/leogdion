@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/brightdigit/BushelKit/pull/92) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. ❗ Opened issue [#91](https://github.com/brightdigit/BushelKit/issues/91) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-3. ❗ Opened issue [#90](https://github.com/brightdigit/BushelKit/issues/90) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-4. 🎉 Merged PR [#76](https://github.com/brightdigit/PackageDSL/pull/76) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-5. 🚀 Published release [2.0.3](https://github.com/brightdigit/BushelKit/releases/tag/2.0.3) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+1. 🔒 Closed issue [#91](https://github.com/brightdigit/BushelKit/issues/91) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. 🎉 Merged PR [#92](https://github.com/brightdigit/BushelKit/pull/92) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. ❗ Opened issue [#93](https://github.com/brightdigit/BushelKit/issues/93) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+4. 💪 Opened PR [#92](https://github.com/brightdigit/BushelKit/pull/92) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. ❗ Opened issue [#91](https://github.com/brightdigit/BushelKit/issues/91) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
