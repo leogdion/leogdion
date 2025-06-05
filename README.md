@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/brightdigit/DataThespian/pull/45) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-2. 💪 Opened PR [#45](https://github.com/brightdigit/DataThespian/pull/45) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-3. 💪 Opened PR [#44](https://github.com/brightdigit/DataThespian/pull/44) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-4. 🔒 Closed issue [#21](https://github.com/brightdigit/DataThespian/issues/21) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-5. 🎉 Merged PR [#43](https://github.com/brightdigit/DataThespian/pull/43) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+1. 🎉 Merged PR [#74](https://github.com/brightdigit/PackageDSL/pull/74) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+2. 🎉 Merged PR [#75](https://github.com/brightdigit/PackageDSL/pull/75) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+3. ❌ Closed PR [#77](https://github.com/brightdigit/PackageDSL/pull/77) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+4. 🚀 Published release [v1.1.0](https://github.com/brightdigit/swift-build/releases/tag/v1.1.0) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. 🎉 Merged PR [#45](https://github.com/brightdigit/DataThespian/pull/45) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
