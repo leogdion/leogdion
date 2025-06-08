@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/brightdigit/BushelKit/pull/100) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. ❌ Closed PR [#78](https://github.com/brightdigit/PackageDSL/pull/78) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
-3. 🚀 Published release [v1.1.1](https://github.com/brightdigit/swift-build/releases/tag/v1.1.1) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-4. 🎉 Merged PR [#10](https://github.com/brightdigit/swift-build/pull/10) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-5. 💪 Opened PR [#10](https://github.com/brightdigit/swift-build/pull/10) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+1. 🚀 Published release [1.0.1](https://github.com/brightdigit/DataThespian/releases/tag/1.0.1) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+2. 💪 Opened PR [#100](https://github.com/brightdigit/BushelKit/pull/100) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. ❌ Closed PR [#78](https://github.com/brightdigit/PackageDSL/pull/78) in [brightdigit/PackageDSL](https://github.com/brightdigit/PackageDSL)
+4. 🚀 Published release [v1.1.1](https://github.com/brightdigit/swift-build/releases/tag/v1.1.1) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. 🎉 Merged PR [#10](https://github.com/brightdigit/swift-build/pull/10) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
