@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/leogdion/SwiftBuilder/pull/2) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
-2. 💪 Opened PR [#2](https://github.com/leogdion/SwiftBuilder/pull/2) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
-3. 🎉 Merged PR [#1](https://github.com/leogdion/SwiftBuilder/pull/1) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
-4. 💪 Opened PR [#1](https://github.com/leogdion/SwiftBuilder/pull/1) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
-5. 🗣 Commented on [#103](https://github.com/brightdigit/BushelKit/issues/103#issuecomment-2976514146) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+1. ❗ Opened issue [#10](https://github.com/leogdion/SwiftBuilder/issues/10) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
+2. ❗ Opened issue [#9](https://github.com/leogdion/SwiftBuilder/issues/9) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
+3. ❗ Opened issue [#8](https://github.com/leogdion/SwiftBuilder/issues/8) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
+4. ❗ Opened issue [#7](https://github.com/leogdion/SwiftBuilder/issues/7) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
+5. ❗ Opened issue [#6](https://github.com/leogdion/SwiftBuilder/issues/6) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
