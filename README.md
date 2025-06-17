@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/leogdion/SyntaxKit/issues/7) in [leogdion/SyntaxKit](https://github.com/leogdion/SyntaxKit)
-2. 🎉 Merged PR [#14](https://github.com/leogdion/SyntaxKit/pull/14) in [leogdion/SyntaxKit](https://github.com/leogdion/SyntaxKit)
-3. 💪 Opened PR [#14](https://github.com/leogdion/SyntaxKit/pull/14) in [leogdion/SyntaxKit](https://github.com/leogdion/SyntaxKit)
-4. 💪 Opened PR [#13](https://github.com/leogdion/SwiftBuilder/pull/13) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
-5. 🔒 Closed issue [#11](https://github.com/leogdion/SwiftBuilder/issues/11) in [leogdion/SwiftBuilder](https://github.com/leogdion/SwiftBuilder)
+1. 🔒 Closed issue [#4](https://github.com/brightdigit/SyntaxKit/issues/4) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+2. 🔒 Closed issue [#3](https://github.com/brightdigit/SyntaxKit/issues/3) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+3. 🎉 Merged PR [#13](https://github.com/brightdigit/SyntaxKit/pull/13) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+4. 🔒 Closed issue [#7](https://github.com/leogdion/SyntaxKit/issues/7) in [leogdion/SyntaxKit](https://github.com/leogdion/SyntaxKit)
+5. 🎉 Merged PR [#14](https://github.com/leogdion/SyntaxKit/pull/14) in [leogdion/SyntaxKit](https://github.com/leogdion/SyntaxKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
