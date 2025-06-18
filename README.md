@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/brightdigit/SyntaxKit/pull/16#issuecomment-2980346352) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-2. 💪 Opened PR [#16](https://github.com/brightdigit/SyntaxKit/pull/16) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-3. 🔒 Closed issue [#8](https://github.com/brightdigit/SyntaxKit/issues/8) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-4. 🔒 Closed issue [#6](https://github.com/brightdigit/SyntaxKit/issues/6) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-5. 🎉 Merged PR [#15](https://github.com/brightdigit/SyntaxKit/pull/15) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+1. ❗ Opened issue [#18](https://github.com/brightdigit/SyntaxKit/issues/18) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+2. 🗣 Commented on [#16](https://github.com/brightdigit/SyntaxKit/pull/16#issuecomment-2980346352) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+3. 💪 Opened PR [#16](https://github.com/brightdigit/SyntaxKit/pull/16) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+4. 🔒 Closed issue [#8](https://github.com/brightdigit/SyntaxKit/issues/8) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+5. 🔒 Closed issue [#6](https://github.com/brightdigit/SyntaxKit/issues/6) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
