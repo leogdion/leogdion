@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.2.0-beta.3](https://github.com/brightdigit/BushelKit/releases/tag/2.2.0-beta.3) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. 🚀 Published release [2.2.0-beta.2](https://github.com/brightdigit/BushelKit/releases/tag/2.2.0-beta.2) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-3. 🎉 Merged PR [#109](https://github.com/brightdigit/BushelKit/pull/109) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-4. 🎉 Merged PR [#75](https://github.com/brightdigit/SyndiKit/pull/75) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-5. 🎉 Merged PR [#76](https://github.com/brightdigit/SyndiKit/pull/76) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1. 🗣 Commented on [#5517](https://github.com/getsentry/sentry-cocoa/issues/5517#issuecomment-3019280753) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+2. 💪 Opened PR [#5521](https://github.com/getsentry/sentry-cocoa/pull/5521) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+3. 🚀 Published release [2.2.0-beta.3](https://github.com/brightdigit/BushelKit/releases/tag/2.2.0-beta.3) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+4. 🚀 Published release [2.2.0-beta.2](https://github.com/brightdigit/BushelKit/releases/tag/2.2.0-beta.2) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. 🎉 Merged PR [#109](https://github.com/brightdigit/BushelKit/pull/109) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
