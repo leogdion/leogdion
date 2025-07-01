@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](https://github.com/brightdigit/SyndiKit/pull/80) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 💪 Opened PR [#79](https://github.com/brightdigit/SyndiKit/pull/79) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 💪 Opened PR [#78](https://github.com/brightdigit/SyndiKit/pull/78) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-4. 🗣 Commented on [#5517](https://github.com/getsentry/sentry-cocoa/issues/5517#issuecomment-3019425865) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
-5. 🗣 Commented on [#5517](https://github.com/getsentry/sentry-cocoa/issues/5517#issuecomment-3019280753) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+1. 💪 Opened PR [#81](https://github.com/brightdigit/SyndiKit/pull/81) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. 🎉 Merged PR [#79](https://github.com/brightdigit/SyndiKit/pull/79) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. ❌ Closed PR [#80](https://github.com/brightdigit/SyndiKit/pull/80) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 💪 Opened PR [#80](https://github.com/brightdigit/SyndiKit/pull/80) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 💪 Opened PR [#79](https://github.com/brightdigit/SyndiKit/pull/79) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
