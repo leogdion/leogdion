@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/brightdigit/SyndiKit/pull/78#issuecomment-3032033494) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 🗣 Commented on [#78](https://github.com/brightdigit/SyndiKit/pull/78#issuecomment-3032029512) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 🎉 Merged PR [#82](https://github.com/brightdigit/SyndiKit/pull/82) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-4. 🗣 Commented on [#82](https://github.com/brightdigit/SyndiKit/pull/82#issuecomment-3032004033) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-5. 💪 Opened PR [#82](https://github.com/brightdigit/SyndiKit/pull/82) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1. 🗣 Commented on [#5517](https://github.com/getsentry/sentry-cocoa/issues/5517#issuecomment-3032074499) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+2. 🗣 Commented on [#78](https://github.com/brightdigit/SyndiKit/pull/78#issuecomment-3032067848) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 🗣 Commented on [#78](https://github.com/brightdigit/SyndiKit/pull/78#issuecomment-3032033494) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 🗣 Commented on [#78](https://github.com/brightdigit/SyndiKit/pull/78#issuecomment-3032029512) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🎉 Merged PR [#82](https://github.com/brightdigit/SyndiKit/pull/82) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
