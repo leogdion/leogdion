@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/brightdigit/SyndiKit/pull/85) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/XMLCoder/releases/tag/1.0.0-alpha.1) in [brightdigit/XMLCoder](https://github.com/brightdigit/XMLCoder)
-3. ❌ Closed PR [#291](https://github.com/CoreOffice/XMLCoder/pull/291) in [CoreOffice/XMLCoder](https://github.com/CoreOffice/XMLCoder)
-4. 💪 Opened PR [#292](https://github.com/CoreOffice/XMLCoder/pull/292) in [CoreOffice/XMLCoder](https://github.com/CoreOffice/XMLCoder)
-5. 🎉 Merged PR [#2](https://github.com/brightdigit/XMLCoder/pull/2) in [brightdigit/XMLCoder](https://github.com/brightdigit/XMLCoder)
+1. 🗣 Commented on [#1007](https://github.com/swiftlang/swift-source-compat-suite/pull/1007#issuecomment-3085355213) in [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite)
+2. 🚀 Published release [0.6.0](https://github.com/brightdigit/SyndiKit/releases/tag/0.6.0) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 🎉 Merged PR [#85](https://github.com/brightdigit/SyndiKit/pull/85) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 💪 Opened PR [#85](https://github.com/brightdigit/SyndiKit/pull/85) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/XMLCoder/releases/tag/1.0.0-alpha.1) in [brightdigit/XMLCoder](https://github.com/brightdigit/XMLCoder)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
