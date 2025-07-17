@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/brightdigit/DataThespian/pull/46) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-2. 🚀 Published release [2.2.0](https://github.com/brightdigit/BushelKit/releases/tag/2.2.0) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-3. 🗣 Commented on [#1007](https://github.com/swiftlang/swift-source-compat-suite/pull/1007#issuecomment-3050011842) in [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite)
-4. 💪 Opened PR [#46](https://github.com/brightdigit/DataThespian/pull/46) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-5. 💪 Opened PR [#1007](https://github.com/swiftlang/swift-source-compat-suite/pull/1007) in [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite)
+1. ❗ Opened issue [#110](https://github.com/brightdigit/BushelKit/issues/110) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. ❌ Closed PR [#46](https://github.com/brightdigit/DataThespian/pull/46) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+3. 🚀 Published release [2.2.0](https://github.com/brightdigit/BushelKit/releases/tag/2.2.0) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+4. 🗣 Commented on [#1007](https://github.com/swiftlang/swift-source-compat-suite/pull/1007#issuecomment-3050011842) in [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite)
+5. 💪 Opened PR [#46](https://github.com/brightdigit/DataThespian/pull/46) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
