@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#110](https://github.com/brightdigit/BushelKit/issues/110) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. ❌ Closed PR [#46](https://github.com/brightdigit/DataThespian/pull/46) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
-3. 🚀 Published release [2.2.0](https://github.com/brightdigit/BushelKit/releases/tag/2.2.0) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-4. 🗣 Commented on [#1007](https://github.com/swiftlang/swift-source-compat-suite/pull/1007#issuecomment-3050011842) in [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite)
-5. 💪 Opened PR [#46](https://github.com/brightdigit/DataThespian/pull/46) in [brightdigit/DataThespian](https://github.com/brightdigit/DataThespian)
+1. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/XMLCoder/releases/tag/1.0.0-alpha.1) in [brightdigit/XMLCoder](https://github.com/brightdigit/XMLCoder)
+2. ❌ Closed PR [#291](https://github.com/CoreOffice/XMLCoder/pull/291) in [CoreOffice/XMLCoder](https://github.com/CoreOffice/XMLCoder)
+3. 💪 Opened PR [#292](https://github.com/CoreOffice/XMLCoder/pull/292) in [CoreOffice/XMLCoder](https://github.com/CoreOffice/XMLCoder)
+4. 🎉 Merged PR [#2](https://github.com/brightdigit/XMLCoder/pull/2) in [brightdigit/XMLCoder](https://github.com/brightdigit/XMLCoder)
+5. 💪 Opened PR [#2](https://github.com/brightdigit/XMLCoder/pull/2) in [brightdigit/XMLCoder](https://github.com/brightdigit/XMLCoder)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
