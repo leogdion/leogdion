@@ -105,11 +105,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [Milk Diary with Kaya Thomas](https://share.transistor.fm/s/4b583acb)
 - [Swift Testing with Rachel Brindle](https://share.transistor.fm/s/f42a6e1a)
 - [Deconstructing Xcode with xTool with Kabir Oberai](https://share.transistor.fm/s/aa7b0f0c)
 - [Live from CommunityKit WWDC 2025 with Matt Massicotte](https://share.transistor.fm/s/9b2f437d)
 - [v26.0 with Peter Witham](https://share.transistor.fm/s/af438621)
-- [Full Stack Things with Werner Jainek and Vojtěch Rylko](https://share.transistor.fm/s/338c293a)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 ## Recent Activity
