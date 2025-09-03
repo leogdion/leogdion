@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/brightdigit/swift-build/pull/20) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-2. 💪 Opened PR [#92](https://github.com/brightdigit/SyntaxKit/pull/92) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-3. 🎉 Merged PR [#91](https://github.com/brightdigit/SyntaxKit/pull/91) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-4. 💪 Opened PR [#91](https://github.com/brightdigit/SyntaxKit/pull/91) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-5. 🎉 Merged PR [#19](https://github.com/brightdigit/swift-build/pull/19) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+1. 💪 Opened PR [#93](https://github.com/brightdigit/SyntaxKit/pull/93) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+2. 💪 Opened PR [#20](https://github.com/brightdigit/swift-build/pull/20) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+3. 💪 Opened PR [#92](https://github.com/brightdigit/SyntaxKit/pull/92) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+4. 🎉 Merged PR [#91](https://github.com/brightdigit/SyntaxKit/pull/91) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+5. 💪 Opened PR [#91](https://github.com/brightdigit/SyntaxKit/pull/91) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
