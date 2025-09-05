@@ -95,11 +95,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing [swift-build]&lpar;https://github.com/brightdigit/swift-build&rpar;: A GitHub Action for Swift](https://brightdigit.com/tutorials/swift-build)
+- [Introducing swift-build: A GitHub Action for Swift](https://brightdigit.com/tutorials/swift-build)
 - [Should You SwiftData?](https://brightdigit.com/articles/swiftdata-considerations)
 - [Implementing Sign in with Apple in the watchOS Simulator](https://brightdigit.com/tutorials/signin-apple-watchos-simulator)
-- [Setting Up Sign in with Apple with Server Side Swift and SwiftUI](https://brightdigit.com/tutorials/full-stack-sign-in-with-apple)
 - [How Does Server Side Swift Workout in the Real World?](https://brightdigit.com/articles/server-side-swift-workout)
+- [Setting Up Sign in with Apple with Server Side Swift and SwiftUI](https://brightdigit.com/tutorials/full-stack-sign-in-with-apple)
 <!-- BLOG-POST-LIST:END -->
 
 
