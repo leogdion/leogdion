@@ -7,8 +7,11 @@ leogdion@brightdigit.com
 
 ---
 
+
+
 ## Experience
-### [BrightDigit](https://brightdigit.com)
+
+### [BrightDigit](https://brightdigit.com) *Server-Side Swift & AWS Cloud Development*
 *2012-*
 
 [Official Web Site - https://brightdigit.com](https://brightdigit.com)
@@ -21,29 +24,45 @@ leogdion@brightdigit.com
 
 **Principal and CEO**
 
-Since 2012, BrightDigit is focused on developing applications in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.
+Since 2012, BrightDigit specializes in full-stack Swift development, including server-side Swift applications and AWS cloud infrastructure. Currently continuing indie and contract work while employed full-time at Meijer.
 
-* Marketing to potential clients through publications, videos, and podcasts on Apple-centric topics which focus on developers as well as businesses running Apple hardware
-* Presenting at conferences and meetups on intermediate and challenging technical topics concerning Swift
-* Managing other people in the areas of software development, marketing, and media production
+* **Server-Side Swift Development**: Architect and maintain backend services and APIs using Vapor and Hummingbird framework 
+* **AWS Cloud Infrastructure**: Design and implement cloud solutions using AWS services including Lambda, and DynamoDB
+* **Cross-Stack Development**: Lead development across iOS, macOS, watchOS, web, and server platforms using Swift, JavaScript, and modern web technologies
+* **Remote Team Leadership**: Lead distributed development teams and collaborate with clients across multiple time zones
+* **Technical Evangelism**: Present at conferences and produce educational content on server-side Swift and cloud architecture best practices
+
+### [Meijer](http://meijer.com/) *Senior iOS Engineer & Technical Lead* 
+
+*December 2024-*
+
+*Modernizing Retail iOS Application*
+
+* **Technical Leadership**: Guide team migration from Objective-C/UIKit to modern Swift/SwiftUI architecture
+* **Cross-Department Collaboration**: Work with business stakeholders to translate requirements into technical specifications
+* **Mentorship**: Train development team on modern iOS patterns and server-side integration best practices
 
 #### Clients
 
-##### [Meijer](http://meijer.com/) *iOS / Swift* 
-
-*Update and Collaborate on Team Best Practices*
-
-* Guide the team on updating codebase from Objective-C and UIKit to Swift and SwiftUI
-* Teach and Train the Team on Best Practices
-* Collaborate outside of IT to get clear understand of business and models
-
 ##### [gBeat](https://gbeat.com) *CTO*
 
-*Build entire platform for iOS and Web*
+*Full-Stack Platform Architecture for Multi-Platform Applications*
 
-* Lead Development of Server, Web, iOS, and Android Development for 10 person team
-* Help Guide Development Approach for outside Clients
-* Maintain and Update Code Base while setting up Continuous Integration Services
+* **Server-Side Swift Leadership**: Architected and led development of scalable backend services using Vapor framework for 10-person distributed team
+* **AWS Cloud Infrastructure**: Designed and implemented cloud-based solutions with automated deployment pipelines and continuous integration
+* **Cross-Platform API Design**: Built REST APIs and web services supporting iOS, Android, and web clients with shared Swift codebase
+* **watchOS XCFramework Development**: Created watchOS XCFrameworks for React Native consumption by client developers, enabling seamless integration of native watchOS functionality
+* **Team Management**: Led remote development team across multiple time zones with focus on server-side Swift and cloud architecture
+* **DevOps & CI/CD**: Established automated deployment workflows and monitoring systems for production applications
+
+##### [Client Project - AWS Lambda Integration] *Server-Side Swift*
+
+*Server-Side Swift Application with AWS Lambda Backend*
+
+* **Server-Side Swift Development**: Built comprehensive backend services using AWS Lambda framework
+* **AWS Lambda Integration**: Designed and implemented serverless functions
+* **REST API Development**: Created robust APIs for iOS, watchOS, and web client integration with real-time data synchronization
+* **Database Design**: Implemented PostgreSQL and DynamoDB solutions for efficient data storage and retrieval
 
 ##### [Asset Health](http://assethealth.info) *iOS / Swift* 
 
@@ -156,17 +175,17 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 #### [Heartwitch](https://heartwitch.app)
 
-**watchOS** | **web** | **Vapor** | **HealthKit** | **Heroku** | **PostgreSQL**
+**Server-Side Swift** | **Vapor** | **PostgreSQL** | **Heroku** | **AWS** | **HealthKit** | **Web APIs**
 
-*Livestream Your Health Stats Straight From Your Apple Watch*
+*Real-Time Health Data Streaming Platform*
 
-Heartwitch is a combination Apple Watch and Web App for sharing your health data online.
+Heartwitch is a distributed, serverless application that streams health data from Apple Watch to web browsers in real-time. Built with server-side Swift using Vapor framework and deployed on AWS infrastructure.
 
-Video game live streaming has become a mainstream form of entertainment, with viewers liking to see how streamers behave and react to gameplay. With Heartwitch, viewers can see how the streamer reacts on a physical level.
-
-See the streamer’s heart rate shift when hiding from a monster, driving a racecar around a tight bend, or as their favorite character dies in their arms.
-
-Unlike other apps that capture user health data, there is no need for extra hardware. It uses the built-in sensors of the Apple Watch to detect your heart rate and send it through our servers directly to your web browser.
+**Key Technical Achievements:**
+* **Server-Side Swift Architecture**: Designed and implemented scalable backend services using Vapor framework for real-time data processing
+* **Real-Time Web APIs**: Built WebSocket and REST APIs for seamless data transmission between Apple Watch and web clients
+* **Database Design**: Architected PostgreSQL schema for efficient health data storage and retrieval
+* **Cross-Platform Integration**: Seamless integration between watchOS, iOS, and web platforms using shared Swift codebase
 
 #### [ContributeWordPress](https://github.com/brightdigit/ContributeWordPress)
 
@@ -183,6 +202,21 @@ ContributeWordPress uses the exported XML (also referred to as WXR file) to impo
 **macOS** | **iOS** | **watchOS** | **tvOS** | **web**
 
 FelinePine provides an easy-to-use API for setting up logging and log categories across your architecture.
+
+#### [SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+
+**Swift** | **SwiftSyntax** | **Macros** | **Code Generation**
+
+*Generate Swift code programmatically with declarative syntax*
+
+SyntaxKit is a Swift package that provides a type-safe, result builder-based API for generating Swift code structures. Designed for macro development, model transformers, and migration utilities where you need to programmatically create Swift code.
+
+**Key Features:**
+* **Swift Macro Development**: Type-safe API for building Swift macros and compiler plugins
+* **Result Builder Syntax**: Declarative code generation using Swift's result builder pattern
+* **SwiftSyntax Integration**: Built on top of SwiftSyntax for robust AST manipulation
+* **Code Generation Tools**: Perfect for generating Swift code from external schemas, APIs, and configurations
+* **Developer Tools**: Enables creation of code generators and transformers for complex Swift projects
 
 #### [MistKit](https://github.com/brightdigit/MistKit)
 
@@ -282,28 +316,35 @@ Using blockquotes in your markdown, you can easily embed the Transistor podcast 
 
 ## Skills
 
+### Server-Side Swift & Cloud Development
+
+**Vapor Framework** | **Server-Side Swift** | **REST APIs** | **WebSocket** | **JSON APIs** | **CloudKit** | **Codable** | **Networking**
+
+### AWS Cloud Services
+
+**AWS Lambda** | **DynamoDB** | **S3** | **EC2**
+
 ### Languages
 
-**Swift** | **Bash Scripting** | **JavaScript** | **TypeScript** | **Objective-C** | **HTML5** | **CSS3** 
+**Swift** | **JavaScript** | **TypeScript** | **Objective-C** | **HTML5** | **CSS3** | **Bash Scripting**
 
-### Tools
+### Development Tools & DevOps
 
-**Xcode** | **Interface Builder** | **iTunes Connect** | **Gitlab CI** | **Github Actions** | **Fastlane** | **Final Cut Pro**
+**Gitlab CI** | **Github Actions** | **Fastlane** | **Xcode** | **Docker** | **Homebrew** | **Jazzy** | **Final Cut Pro**
 
 ### Frameworks and APIs
 
-#### Apple and Swift Development
+#### Apple Development
 
-**SwiftUI** | **Combine** | **SwiftData** |  **Cocoa Touch** | **Cocoa** | **UIKit** | **AppKit** | **Core Location** | **Vapor** | **Core Data** | **Networking** | **HealthKit and Fitness** | **CloudKit** | **Codable** |
-**Storyboards** | **Auto Layouts and Adaptive Design** | **WatchKit** | **User Notifications** | **Homebrew** | **Jazzy** | **XPC**
+**SwiftUI** | **Combine** | **SwiftData** | **UIKit** | **AppKit** | **Cocoa Touch** | **Cocoa** | **Core Data** | **HealthKit** | **WatchKit** | **User Notifications** | **XPC**
 
-#### Other Frameworks and Tools
+#### Web Technologies
 
-**Google Analytics** | **VueJs** | **NodeJs** | **Amazon Web Services** 
+**Node.js** | **Vue.js** | **React** | **Google Analytics** | **REST APIs** | **WebSocket** | **JSON**
 
-### Databases
+### Databases & Data Management
 
-**PostgreSQL** | **MySQL**  | MsSQL | Oracle
+**PostgreSQL** | **MySQL** | **DynamoDB** | **CloudKit** | **MsSQL** | **Oracle**
 
 ---
 * references available on request
