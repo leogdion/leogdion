@@ -8,6 +8,17 @@ leogdion@brightdigit.com
 ---
 
 ## Experience
+
+### [Meijer](http://meijer.com/) *iOS / Swift* 
+
+*December 2024-*
+
+*Update and Collaborate on Team Best Practices*
+
+* Guide the team on updating codebase from Objective-C and UIKit to Swift and SwiftUI
+* Teach and Train the Team on Best Practices
+* Collaborate outside of IT to get clear understand of business and models
+
 ### [BrightDigit](https://brightdigit.com)
 *2012-*
 
@@ -21,21 +32,13 @@ leogdion@brightdigit.com
 
 **Principal and CEO**
 
-Since 2012, BrightDigit is focused on developing applications in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac.
+Since 2012, BrightDigit is focused on developing applications in the Apple space such as the iPhone, iPad, Apple Watch, and the Mac. Currently continuing indie and contract work while employed full-time at Meijer.
 
 * Marketing to potential clients through publications, videos, and podcasts on Apple-centric topics which focus on developers as well as businesses running Apple hardware
 * Presenting at conferences and meetups on intermediate and challenging technical topics concerning Swift
 * Managing other people in the areas of software development, marketing, and media production
 
 #### Clients
-
-##### [Meijer](http://meijer.com/) *iOS / Swift* 
-
-*Update and Collaborate on Team Best Practices*
-
-* Guide the team on updating codebase from Objective-C and UIKit to Swift and SwiftUI
-* Teach and Train the Team on Best Practices
-* Collaborate outside of IT to get clear understand of business and models
 
 ##### [gBeat](https://gbeat.com) *CTO*
 
