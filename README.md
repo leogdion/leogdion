@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/brightdigit/StealthyStash/pull/25) in [brightdigit/StealthyStash](https://github.com/brightdigit/StealthyStash)
-2. 💪 Opened PR [#11](https://github.com/brightdigit/SublimationBonjour/pull/11) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
-3. 💪 Opened PR [#23](https://github.com/brightdigit/StealthyStash/pull/23) in [brightdigit/StealthyStash](https://github.com/brightdigit/StealthyStash)
-4. ❌ Closed PR [#20](https://github.com/brightdigit/StealthyStash/pull/20) in [brightdigit/StealthyStash](https://github.com/brightdigit/StealthyStash)
-5. 🎉 Merged PR [#16](https://github.com/brightdigit/StealthyStash/pull/16) in [brightdigit/StealthyStash](https://github.com/brightdigit/StealthyStash)
+1. 🎉 Merged PR [#15](https://github.com/brightdigit/StealthyStash/pull/15) in [brightdigit/StealthyStash](https://github.com/brightdigit/StealthyStash)
+2. 🎉 Merged PR [#8](https://github.com/brightdigit/SublimationBonjour/pull/8) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
+3. 🎉 Merged PR [#25](https://github.com/brightdigit/StealthyStash/pull/25) in [brightdigit/StealthyStash](https://github.com/brightdigit/StealthyStash)
+4. 💪 Opened PR [#11](https://github.com/brightdigit/SublimationBonjour/pull/11) in [brightdigit/SublimationBonjour](https://github.com/brightdigit/SublimationBonjour)
+5. 💪 Opened PR [#23](https://github.com/brightdigit/StealthyStash/pull/23) in [brightdigit/StealthyStash](https://github.com/brightdigit/StealthyStash)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
