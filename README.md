@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/brightdigit/swift-build/pull/47) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-2. ❗ Opened issue [#41](https://github.com/brightdigit/SundialKit/issues/41) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-3. 🔒 Closed issue [#21](https://github.com/brightdigit/SundialKit/issues/21) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-4. ❗ Opened issue [#40](https://github.com/brightdigit/SundialKit/issues/40) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. ❗ Opened issue [#39](https://github.com/brightdigit/SundialKit/issues/39) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+1. 🎉 Merged PR [#48](https://github.com/brightdigit/swift-build/pull/48) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+2. 💪 Opened PR [#48](https://github.com/brightdigit/swift-build/pull/48) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+3. 🎉 Merged PR [#47](https://github.com/brightdigit/swift-build/pull/47) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+4. ❗ Opened issue [#41](https://github.com/brightdigit/SundialKit/issues/41) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. 🔒 Closed issue [#21](https://github.com/brightdigit/SundialKit/issues/21) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
