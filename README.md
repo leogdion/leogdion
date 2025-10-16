@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+1. ❌ Closed PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 2. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 3. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 4. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. 💪 Opened PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
