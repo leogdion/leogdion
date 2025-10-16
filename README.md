@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#117](https://github.com/brightdigit/BushelKit/issues/117) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. 💪 Opened PR [#44](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-3. ❗ Opened issue [#43](https://github.com/brightdigit/SundialKit/issues/43) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-4. 🔒 Closed issue [#41](https://github.com/brightdigit/SundialKit/issues/41) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. 🔒 Closed issue [#39](https://github.com/brightdigit/SundialKit/issues/39) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+1. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+2. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+3. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+4. ❌ Labeled PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. 💪 Opened PR [#45](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
