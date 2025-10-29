@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.3.0](https://github.com/brightdigit/BushelKit/releases/tag/2.3.0) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. 🔒 Closed issue [#36](https://github.com/brightdigit/SundialKit/issues/36) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-3. 🗣 Commented on [#36](https://github.com/brightdigit/SundialKit/issues/36#issuecomment-3448968952) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-4. 🗣 Commented on [#35](https://github.com/brightdigit/SundialKit/issues/35#issuecomment-3448968865) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. 🔒 Closed issue [#35](https://github.com/brightdigit/SundialKit/issues/35) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+1. 💪 Opened PR [#51](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+2. 🚀 Published release [2.3.0](https://github.com/brightdigit/BushelKit/releases/tag/2.3.0) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. 🔒 Closed issue [#36](https://github.com/brightdigit/SundialKit/issues/36) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+4. 🗣 Commented on [#36](https://github.com/brightdigit/SundialKit/issues/36#issuecomment-3448968952) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. 🗣 Commented on [#35](https://github.com/brightdigit/SundialKit/issues/35#issuecomment-3448968865) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
