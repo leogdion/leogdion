@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/brightdigit/getbushel.app/issues/10) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-2. 🔒 Closed issue [#2](https://github.com/brightdigit/getbushel.app/issues/2) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-3. ❗ Opened issue [#24](https://github.com/brightdigit/getbushel.app/issues/24) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-4. ❗ Opened issue [#23](https://github.com/brightdigit/getbushel.app/issues/23) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
-5. ❗ Opened issue [#22](https://github.com/brightdigit/getbushel.app/issues/22) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
+1. 💪 Opened PR [#1](undefined) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+2. 💪 Opened PR [#52](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+3. 🔒 Closed issue [#10](https://github.com/brightdigit/getbushel.app/issues/10) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
+4. 🔒 Closed issue [#2](https://github.com/brightdigit/getbushel.app/issues/2) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
+5. ❗ Opened issue [#24](https://github.com/brightdigit/getbushel.app/issues/24) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
