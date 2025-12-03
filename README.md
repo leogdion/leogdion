@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-2. 💪 Opened PR [#76](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-3. ❌ Merged PR [#186](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-4. 💪 Opened PR [#186](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-5. ❗ Opened issue [#105](https://github.com/brightdigit/SyntaxKit/issues/105) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+1. ❌ Merged PR [#76](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+2. ❌ Merged PR [#7](undefined) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+3. 💪 Opened PR [#7](undefined) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+4. 💪 Opened PR [#76](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. ❌ Merged PR [#186](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
