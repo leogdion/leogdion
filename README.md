@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-2. 💪 Opened PR [#3](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-3. 💪 Opened PR [#2](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-4. ❗ Opened issue [#1](https://github.com/brightdigit/celestra-website/issues/1) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-5. ❌ Merged PR [#76](undefined) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+1. 🔒 Closed issue [#1](https://github.com/brightdigit/celestra-website/issues/1) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+2. 🚀 Published release [0.1.0](https://github.com/brightdigit/celestra-website/releases/tag/0.1.0) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+3. ❌ Merged PR [#2](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+4. ❌ Merged PR [#3](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+5. 💪 Opened PR [#3](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
