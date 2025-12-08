@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0-alpha.3](https://github.com/brightdigit/MistKit/releases/tag/1.0.0-alpha.3) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-2. ❌ Merged PR [#187](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-3. 💪 Opened PR [#187](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-4. ❗ Opened issue [#4](https://github.com/brightdigit/celestra-website/issues/4) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-5. 🔒 Closed issue [#1](https://github.com/brightdigit/celestra-website/issues/1) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+1. 💪 Opened PR [#188](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. 🚀 Published release [1.0.0-alpha.3](https://github.com/brightdigit/MistKit/releases/tag/1.0.0-alpha.3) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+3. ❌ Merged PR [#187](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+4. 💪 Opened PR [#187](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+5. ❗ Opened issue [#4](https://github.com/brightdigit/celestra-website/issues/4) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
