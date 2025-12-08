@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/brightdigit/celestra-website/issues/4) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-2. 🔒 Closed issue [#1](https://github.com/brightdigit/celestra-website/issues/1) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-3. 🚀 Published release [0.1.0](https://github.com/brightdigit/celestra-website/releases/tag/0.1.0) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-4. ❌ Merged PR [#2](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
-5. ❌ Merged PR [#3](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+1. 💪 Opened PR [#187](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. ❗ Opened issue [#4](https://github.com/brightdigit/celestra-website/issues/4) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+3. 🔒 Closed issue [#1](https://github.com/brightdigit/celestra-website/issues/1) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+4. 🚀 Published release [0.1.0](https://github.com/brightdigit/celestra-website/releases/tag/0.1.0) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
+5. ❌ Merged PR [#2](undefined) in [brightdigit/celestra-website](https://github.com/brightdigit/celestra-website)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
