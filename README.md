@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-2. 💪 Opened PR [#2](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-3. ❌ Merged PR [#2](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-4. 💪 Opened PR [#2](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-5. ❌ Merged PR [#1](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+1. 💪 Opened PR [#3](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+2. 💪 Opened PR [#2](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+3. 💪 Opened PR [#2](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+4. ❌ Merged PR [#2](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+5. 💪 Opened PR [#2](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
