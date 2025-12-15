@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#53](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-2. 💪 Opened PR [#53](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-3. 🔒 Closed issue [#45](https://github.com/brightdigit/swift-build/issues/45) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-4. ❌ Merged PR [#4](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-5. 💪 Opened PR [#4](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+1. 💪 Opened PR [#54](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+2. ❌ Merged PR [#53](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+3. 💪 Opened PR [#53](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+4. 🔒 Closed issue [#45](https://github.com/brightdigit/swift-build/issues/45) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. ❌ Merged PR [#4](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
