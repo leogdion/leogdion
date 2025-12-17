@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/skiptools/swift-android-action/issues/8#issuecomment-3662750617) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
-2. 💪 Opened PR [#3](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-3. 💪 Opened PR [#6](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-4. 💪 Opened PR [#122](undefined) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-5. 💪 Opened PR [#5](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+1.  Labeled issue [#89](https://github.com/brightdigit/SyndiKit/issues/89) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2.  Labeled issue [#89](https://github.com/brightdigit/SyndiKit/issues/89) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. ❗ Opened issue [#89](https://github.com/brightdigit/SyndiKit/issues/89) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 🗣 Commented on [#8](https://github.com/skiptools/swift-android-action/issues/8#issuecomment-3662750617) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
+5. 💪 Opened PR [#3](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
