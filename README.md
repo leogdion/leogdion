@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/skiptools/swift-android-action/issues/9) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
-2. 💪 Opened PR [#55](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-3. 💪 Opened PR [#189](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-4.  Labeled issue [#89](https://github.com/brightdigit/SyndiKit/issues/89) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-5.  Labeled issue [#89](https://github.com/brightdigit/SyndiKit/issues/89) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1. 💪 Opened PR [#56](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+2. 🔒 Closed issue [#9](https://github.com/skiptools/swift-android-action/issues/9) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
+3. ❗ Opened issue [#9](https://github.com/skiptools/swift-android-action/issues/9) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
+4. 💪 Opened PR [#55](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. 💪 Opened PR [#189](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
