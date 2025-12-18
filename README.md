@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-2. 🔒 Closed issue [#9](https://github.com/skiptools/swift-android-action/issues/9) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
-3. ❗ Opened issue [#9](https://github.com/skiptools/swift-android-action/issues/9) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
-4. 💪 Opened PR [#55](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-5. 💪 Opened PR [#189](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. 💪 Opened PR [#57](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+2. ❌ Merged PR [#56](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+3. 💪 Opened PR [#56](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+4. 🔒 Closed issue [#9](https://github.com/skiptools/swift-android-action/issues/9) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
+5. ❗ Opened issue [#9](https://github.com/skiptools/swift-android-action/issues/9) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
