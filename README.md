@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#123](undefined) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. ❌ Merged PR [#189](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-3. 💪 Opened PR [#123](undefined) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-4. 🚀 Published release [v1.4.1](https://github.com/brightdigit/swift-build/releases/tag/v1.4.1) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-5. ❌ Merged PR [#54](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+1. ❌ Merged PR [#3](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+2. ❌ Merged PR [#123](undefined) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. ❌ Merged PR [#189](undefined) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+4. 💪 Opened PR [#123](undefined) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. 🚀 Published release [v1.4.1](https://github.com/brightdigit/swift-build/releases/tag/v1.4.1) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
