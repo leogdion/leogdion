@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#6](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-2. ❌ Closed PR [#125](undefined) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-3. 💪 Opened PR [#126](undefined) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-4. 💪 Opened PR [#6](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-5. ❗ Opened issue [#17](https://github.com/brightdigit/CelestraCloud/issues/17) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+1. ❌ Merged PR [#5](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+2. 💪 Opened PR [#90](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. ❌ Merged PR [#6](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+4. 🗣 Commented on [#86](https://github.com/brightdigit/SyndiKit/issues/86#issuecomment-3679394685) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🗣 Commented on [#293](https://github.com/CoreOffice/XMLCoder/pull/293#issuecomment-3679394507) in [CoreOffice/XMLCoder](https://github.com/CoreOffice/XMLCoder)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
