@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#95](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 💪 Opened PR [#103](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 💪 Opened PR [#9](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-4. ❗ Opened issue [#102](https://github.com/brightdigit/SyndiKit/issues/102) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-5. ❗ Opened issue [#101](https://github.com/brightdigit/SyndiKit/issues/101) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1. 💪 Opened PR [#10](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+2. 🚀 Published release [0.7.0](https://github.com/brightdigit/SyndiKit/releases/tag/0.7.0) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 🔒 Closed issue [#102](https://github.com/brightdigit/SyndiKit/issues/102) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 🔒 Closed issue [#100](https://github.com/brightdigit/SyndiKit/issues/100) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🔒 Closed issue [#101](https://github.com/brightdigit/SyndiKit/issues/101) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
