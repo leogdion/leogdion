@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#105](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 💪 Opened PR [#105](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 💪 Opened PR [#6](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-4. 💪 Opened PR [#20](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-5. 💪 Opened PR [#10](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+1. ❌ Merged PR [#6](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+2. ❌ Merged PR [#105](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 💪 Opened PR [#105](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 💪 Opened PR [#6](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+5. 💪 Opened PR [#20](undefined) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
