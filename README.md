@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#60](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-2. 💪 Opened PR [#60](undefined) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-3. 💪 Opened PR [#94](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-4. 💪 Opened PR [#7](undefined) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-5. ❌ Merged PR [#90](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1. 💪 Opened PR [#95](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. ❌ Merged PR [#93](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. ❌ Merged PR [#94](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. ❗ Opened issue [#12](https://github.com/skiptools/swift-android-action/issues/12) in [skiptools/swift-android-action](https://github.com/skiptools/swift-android-action)
+5. 🚀 Published release [v1.4.2](https://github.com/brightdigit/swift-build/releases/tag/v1.4.2) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
