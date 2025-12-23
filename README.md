@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/brightdigit/BushelCloud/issues/11) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-2. ❗ Opened issue [#21](https://github.com/brightdigit/CelestraCloud/issues/21) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-3. ❌ Merged PR [#6](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-4. ❌ Merged PR [#105](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-5. 💪 Opened PR [#105](undefined) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1.  Labeled issue [#190](https://github.com/brightdigit/MistKit/issues/190) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. ❗ Opened issue [#190](https://github.com/brightdigit/MistKit/issues/190) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+3. ❗ Opened issue [#11](https://github.com/brightdigit/BushelCloud/issues/11) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+4. ❗ Opened issue [#21](https://github.com/brightdigit/CelestraCloud/issues/21) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+5. ❌ Merged PR [#6](undefined) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
