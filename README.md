@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.2](https://github.com/brightdigit/CelestraKit/releases/tag/0.0.2) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-2. 🚀 Published release [0.8.0](https://github.com/brightdigit/SyndiKit/releases/tag/0.8.0) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 🎉 Merged PR [#111](https://github.com/brightdigit/SyndiKit/pull/111) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-4. 🚀 Published release [0.0.1](https://github.com/brightdigit/CelestraKit/releases/tag/0.0.1) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-5. 🎉 Merged PR [#2](https://github.com/brightdigit/CelestraKit/pull/2) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+1. 💪 Opened PR [#32](https://github.com/brightdigit/CelestraCloud/pull/32) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+2. 🎉 Merged PR [#31](https://github.com/brightdigit/CelestraCloud/pull/31) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+3. 🚀 Published release [0.0.2](https://github.com/brightdigit/CelestraKit/releases/tag/0.0.2) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+4. 🚀 Published release [0.8.0](https://github.com/brightdigit/SyndiKit/releases/tag/0.8.0) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🎉 Merged PR [#111](https://github.com/brightdigit/SyndiKit/pull/111) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
