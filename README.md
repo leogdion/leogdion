@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/brightdigit/RadiantKit/pull/38) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-2. ❌ Closed PR [#14](https://github.com/brightdigit/CelestraKit/pull/14) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-3. 💪 Opened PR [#14](https://github.com/brightdigit/CelestraKit/pull/14) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-4. 🎉 Merged PR [#36](https://github.com/brightdigit/RadiantKit/pull/36) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-5. 🔒 Closed issue [#34](https://github.com/brightdigit/RadiantKit/issues/34) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+1. 🎉 Merged PR [#38](https://github.com/brightdigit/RadiantKit/pull/38) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+2. 💪 Opened PR [#38](https://github.com/brightdigit/RadiantKit/pull/38) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+3. ❌ Closed PR [#14](https://github.com/brightdigit/CelestraKit/pull/14) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+4. 💪 Opened PR [#14](https://github.com/brightdigit/CelestraKit/pull/14) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+5. 🎉 Merged PR [#36](https://github.com/brightdigit/RadiantKit/pull/36) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
