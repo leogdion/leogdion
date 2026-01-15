@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/brightdigit/swift-build/pull/79) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-2. 🗣 Commented on [#78](https://github.com/brightdigit/swift-build/pull/78#issuecomment-3756390027) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-3. 💪 Opened PR [#78](https://github.com/brightdigit/swift-build/pull/78) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-4. ℹ️ Labeled issue [#77](https://github.com/brightdigit/swift-build/issues/77) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-5. ❗ Opened issue [#77](https://github.com/brightdigit/swift-build/issues/77) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+1. 🎉 Merged PR [#79](https://github.com/brightdigit/swift-build/pull/79) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+2. 💪 Opened PR [#79](https://github.com/brightdigit/swift-build/pull/79) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+3. 🗣 Commented on [#78](https://github.com/brightdigit/swift-build/pull/78#issuecomment-3756390027) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+4. 💪 Opened PR [#78](https://github.com/brightdigit/swift-build/pull/78) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. ℹ️ Labeled issue [#77](https://github.com/brightdigit/swift-build/issues/77) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
