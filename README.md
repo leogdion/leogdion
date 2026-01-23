@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/brightdigit/RadiantKit/issues/39) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
-2. 🔒 Closed issue [#137](https://github.com/brightdigit/BushelKit/issues/137) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-3. 🔒 Closed issue [#136](https://github.com/brightdigit/BushelKit/issues/136) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-4. 🔒 Closed issue [#135](https://github.com/brightdigit/BushelKit/issues/135) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-5. 🔒 Closed issue [#134](https://github.com/brightdigit/BushelKit/issues/134) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+1. 💪 Opened PR [#148](https://github.com/brightdigit/BushelKit/pull/148) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+2. 💪 Opened PR [#147](https://github.com/brightdigit/BushelKit/pull/147) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. ❗ Opened issue [#39](https://github.com/brightdigit/RadiantKit/issues/39) in [brightdigit/RadiantKit](https://github.com/brightdigit/RadiantKit)
+4. 🔒 Closed issue [#137](https://github.com/brightdigit/BushelKit/issues/137) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. 🔒 Closed issue [#136](https://github.com/brightdigit/BushelKit/issues/136) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
