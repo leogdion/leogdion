@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/brightdigit/HarvestBin/pull/13) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
-2. 💪 Opened PR [#155](https://github.com/brightdigit/BushelKit/pull/155) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-3. 🎉 Merged PR [#12](https://github.com/brightdigit/HarvestBin/pull/12) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
-4. 💪 Opened PR [#12](https://github.com/brightdigit/HarvestBin/pull/12) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
-5. 💪 Opened PR [#228](https://github.com/brightdigit/MistKit/pull/228) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. 🎉 Merged PR [#13](https://github.com/brightdigit/HarvestBin/pull/13) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
+2. 🎉 Merged PR [#155](https://github.com/brightdigit/BushelKit/pull/155) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+3. 💪 Opened PR [#13](https://github.com/brightdigit/HarvestBin/pull/13) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
+4. 💪 Opened PR [#155](https://github.com/brightdigit/BushelKit/pull/155) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. 🎉 Merged PR [#12](https://github.com/brightdigit/HarvestBin/pull/12) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
