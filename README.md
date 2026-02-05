@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/brightdigit/CelestraCloud/pull/36) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-2. 💪 Opened PR [#28](https://github.com/brightdigit/BushelCloud/pull/28) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-3. 💪 Opened PR [#27](https://github.com/brightdigit/BushelCloud/pull/27) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-4. 🎉 Merged PR [#238](https://github.com/brightdigit/MistKit/pull/238) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-5. 🎉 Merged PR [#233](https://github.com/brightdigit/MistKit/pull/233) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. 🎉 Merged PR [#121](https://github.com/brightdigit/SyndiKit/pull/121) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. ℹ️ Labeled issue [#87](https://github.com/brightdigit/swift-build/issues/87) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+3. ❗ Opened issue [#87](https://github.com/brightdigit/swift-build/issues/87) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+4. ℹ️ Labeled issue [#86](https://github.com/brightdigit/swift-build/issues/86) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. ❗ Opened issue [#86](https://github.com/brightdigit/swift-build/issues/86) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
