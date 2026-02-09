@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/brightdigit/HarvestBin/issues/6) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
-2. 🗣 Commented on [#6](https://github.com/brightdigit/HarvestBin/issues/6#issuecomment-3873732066) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
-3. 🔒 Closed issue [#154](https://github.com/brightdigit/BushelKit/issues/154) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-4. 🗣 Commented on [#154](https://github.com/brightdigit/BushelKit/issues/154#issuecomment-3873730474) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-5. 🗣 Commented on [#6](https://github.com/brightdigit/HarvestBin/issues/6#issuecomment-3873725652) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
+1. 💪 Opened PR [#106](https://github.com/brightdigit/SyntaxKit/pull/106) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+2. 🔒 Closed issue [#6](https://github.com/brightdigit/HarvestBin/issues/6) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
+3. 🗣 Commented on [#6](https://github.com/brightdigit/HarvestBin/issues/6#issuecomment-3873732066) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
+4. 🔒 Closed issue [#154](https://github.com/brightdigit/BushelKit/issues/154) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+5. 🗣 Commented on [#154](https://github.com/brightdigit/BushelKit/issues/154#issuecomment-3873730474) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
