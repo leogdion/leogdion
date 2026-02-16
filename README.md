@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/brightdigit/month.bar/issues/13) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-2. ❗ Opened issue [#12](https://github.com/brightdigit/month.bar/issues/12) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-3. ❗ Opened issue [#11](https://github.com/brightdigit/month.bar/issues/11) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-4. ℹ️ Labeled issue [#124](https://github.com/brightdigit/SyntaxKit/issues/124) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-5. ℹ️ Labeled issue [#124](https://github.com/brightdigit/SyntaxKit/issues/124) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+1. 🎉 Merged PR [#4](https://github.com/brightdigit/iOS-backend-cheat-sheet/pull/4) in [brightdigit/iOS-backend-cheat-sheet](https://github.com/brightdigit/iOS-backend-cheat-sheet)
+2. 💪 Opened PR [#4](https://github.com/brightdigit/iOS-backend-cheat-sheet/pull/4) in [brightdigit/iOS-backend-cheat-sheet](https://github.com/brightdigit/iOS-backend-cheat-sheet)
+3. 💪 Opened PR [#3](https://github.com/brightdigit/iOS-backend-cheat-sheet/pull/3) in [brightdigit/iOS-backend-cheat-sheet](https://github.com/brightdigit/iOS-backend-cheat-sheet)
+4. ❗ Opened issue [#13](https://github.com/brightdigit/month.bar/issues/13) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+5. ❗ Opened issue [#12](https://github.com/brightdigit/month.bar/issues/12) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
