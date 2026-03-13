@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#26](https://github.com/brightdigit/month.bar/issues/26) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-2. ❗ Opened issue [#26](https://github.com/brightdigit/month.bar/issues/26) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-3. ℹ️ Labeled issue [#25](https://github.com/brightdigit/month.bar/issues/25) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-4. ❗ Opened issue [#25](https://github.com/brightdigit/month.bar/issues/25) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-5. ℹ️ Labeled issue [#24](https://github.com/brightdigit/month.bar/issues/24) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+1. 🔒 Closed issue [#23](https://github.com/brightdigit/month.bar/issues/23) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+2. 🗣 Commented on [#23](https://github.com/brightdigit/month.bar/issues/23#issuecomment-4056292880) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+3. ℹ️ Labeled issue [#26](https://github.com/brightdigit/month.bar/issues/26) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+4. ❗ Opened issue [#26](https://github.com/brightdigit/month.bar/issues/26) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+5. ℹ️ Labeled issue [#25](https://github.com/brightdigit/month.bar/issues/25) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
