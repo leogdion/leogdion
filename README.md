@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1875](https://github.com/matteocrippa/awesome-swift/pull/1875) in [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-2. 🎉 Merged PR [#1874](https://github.com/matteocrippa/awesome-swift/pull/1874) in [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-3. ℹ️ Labeled issue [#21](https://github.com/brightdigit/month.bar/issues/21) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-4. ℹ️ Labeled issue [#21](https://github.com/brightdigit/month.bar/issues/21) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-5. ❗ Opened issue [#21](https://github.com/brightdigit/month.bar/issues/21) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+1. ℹ️ Labeled issue [#26](https://github.com/brightdigit/month.bar/issues/26) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+2. ❗ Opened issue [#26](https://github.com/brightdigit/month.bar/issues/26) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+3. ℹ️ Labeled issue [#25](https://github.com/brightdigit/month.bar/issues/25) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+4. ❗ Opened issue [#25](https://github.com/brightdigit/month.bar/issues/25) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+5. ℹ️ Labeled issue [#24](https://github.com/brightdigit/month.bar/issues/24) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
