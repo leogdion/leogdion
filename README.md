@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/brightdigit/month.bar/pull/35) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-2. 🎉 Merged PR [#34](https://github.com/brightdigit/month.bar/pull/34) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-3. 💪 Opened PR [#34](https://github.com/brightdigit/month.bar/pull/34) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-4. 🎉 Merged PR [#33](https://github.com/brightdigit/month.bar/pull/33) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-5. 💪 Opened PR [#33](https://github.com/brightdigit/month.bar/pull/33) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+1. 🎉 Merged PR [#35](https://github.com/brightdigit/month.bar/pull/35) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+2. 💪 Opened PR [#35](https://github.com/brightdigit/month.bar/pull/35) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+3. 🎉 Merged PR [#34](https://github.com/brightdigit/month.bar/pull/34) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+4. 💪 Opened PR [#34](https://github.com/brightdigit/month.bar/pull/34) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+5. 🎉 Merged PR [#33](https://github.com/brightdigit/month.bar/pull/33) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
