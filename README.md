@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/brightdigit/MistKit/pull/248) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-2. 💪 Opened PR [#36](https://github.com/brightdigit/month.bar/pull/36) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-3. 🔒 Closed issue [#32](https://github.com/brightdigit/month.bar/issues/32) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-4. 🔒 Closed issue [#31](https://github.com/brightdigit/month.bar/issues/31) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-5. 🎉 Merged PR [#35](https://github.com/brightdigit/month.bar/pull/35) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+1. ❗ Opened issue [#249](https://github.com/brightdigit/MistKit/issues/249) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. 💪 Opened PR [#248](https://github.com/brightdigit/MistKit/pull/248) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+3. 💪 Opened PR [#36](https://github.com/brightdigit/month.bar/pull/36) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+4. 🔒 Closed issue [#32](https://github.com/brightdigit/month.bar/issues/32) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+5. 🔒 Closed issue [#31](https://github.com/brightdigit/month.bar/issues/31) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
