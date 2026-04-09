@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/brightdigit/AviaryInsights/issues/25) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-2. 💪 Opened PR [#9](https://github.com/brightdigit/SundialKitStream/pull/9) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-3. ❗ Opened issue [#49](https://github.com/brightdigit/brightdigit.com/issues/49) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-4. 💪 Opened PR [#48](https://github.com/brightdigit/brightdigit.com/pull/48) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-5. 🎉 Merged PR [#42](https://github.com/brightdigit/brightdigit.com/pull/42) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+1. 🔒 Closed issue [#12](https://github.com/brightdigit/brightdigit.com/issues/12) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. ❗ Opened issue [#50](https://github.com/brightdigit/brightdigit.com/issues/50) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. 🎉 Merged PR [#48](https://github.com/brightdigit/brightdigit.com/pull/48) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+4. ❗ Opened issue [#25](https://github.com/brightdigit/AviaryInsights/issues/25) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+5. 💪 Opened PR [#9](https://github.com/brightdigit/SundialKitStream/pull/9) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
