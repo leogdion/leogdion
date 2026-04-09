@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/brightdigit/AviaryInsights/pull/27) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-2. 💪 Opened PR [#27](https://github.com/brightdigit/AviaryInsights/pull/27) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-3. 💪 Opened PR [#26](https://github.com/brightdigit/AviaryInsights/pull/26) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-4. 🔒 Closed issue [#36](https://github.com/brightdigit/brightdigit.com/issues/36) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-5. 🗣 Commented on [#36](https://github.com/brightdigit/brightdigit.com/issues/36#issuecomment-4214685345) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+1. 🎉 Merged PR [#1](https://github.com/brightdigit/swift-format-prebuilt/pull/1) in [brightdigit/swift-format-prebuilt](https://github.com/brightdigit/swift-format-prebuilt)
+2. 💪 Opened PR [#1](https://github.com/brightdigit/swift-format-prebuilt/pull/1) in [brightdigit/swift-format-prebuilt](https://github.com/brightdigit/swift-format-prebuilt)
+3. 🎉 Merged PR [#27](https://github.com/brightdigit/AviaryInsights/pull/27) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+4. 💪 Opened PR [#27](https://github.com/brightdigit/AviaryInsights/pull/27) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+5. 💪 Opened PR [#26](https://github.com/brightdigit/AviaryInsights/pull/26) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
