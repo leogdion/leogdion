@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#78](https://github.com/brightdigit/SundialKit/pull/78) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-2. ℹ️ Labeled PR [#78](https://github.com/brightdigit/SundialKit/pull/78) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-3. ℹ️ Labeled PR [#78](https://github.com/brightdigit/SundialKit/pull/78) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-4. 🎉 Merged PR [#28](https://github.com/brightdigit/AviaryInsights/pull/28) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
-5. 💪 Opened PR [#28](https://github.com/brightdigit/AviaryInsights/pull/28) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+1. ❗ Opened issue [#31](https://github.com/brightdigit/AviaryInsights/issues/31) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+2. ❗ Opened issue [#30](https://github.com/brightdigit/AviaryInsights/issues/30) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+3. ❗ Opened issue [#29](https://github.com/brightdigit/AviaryInsights/issues/29) in [brightdigit/AviaryInsights](https://github.com/brightdigit/AviaryInsights)
+4. ❗ Opened issue [#99](https://github.com/brightdigit/swift-build/issues/99) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. ℹ️ Labeled PR [#78](https://github.com/brightdigit/SundialKit/pull/78) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
