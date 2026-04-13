@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/brightdigit/brightdigit.com/pull/55) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-2. ❗ Opened issue [#53](https://github.com/brightdigit/Sublimation/issues/53) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
-3. ❗ Opened issue [#54](https://github.com/brightdigit/brightdigit.com/issues/54) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-4. ❗ Opened issue [#53](https://github.com/brightdigit/brightdigit.com/issues/53) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-5. 💪 Opened PR [#250](https://github.com/brightdigit/MistKit/pull/250) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. ❗ Opened issue [#56](https://github.com/brightdigit/brightdigit.com/issues/56) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. 💪 Opened PR [#55](https://github.com/brightdigit/brightdigit.com/pull/55) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. ❗ Opened issue [#53](https://github.com/brightdigit/Sublimation/issues/53) in [brightdigit/Sublimation](https://github.com/brightdigit/Sublimation)
+4. ❗ Opened issue [#54](https://github.com/brightdigit/brightdigit.com/issues/54) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+5. ❗ Opened issue [#53](https://github.com/brightdigit/brightdigit.com/issues/53) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
