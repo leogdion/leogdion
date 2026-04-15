@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/brightdigit/atleast.app/issues/4) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-2. 🔒 Closed issue [#9](https://github.com/brightdigit/atleast.app/issues/9) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-3. ❌ Closed PR [#50](https://github.com/brightdigit/atleast.app/pull/50) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-4. 💪 Opened PR [#50](https://github.com/brightdigit/atleast.app/pull/50) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-5. ❗ Opened issue [#252](https://github.com/brightdigit/MistKit/issues/252) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. 🔒 Closed issue [#6](https://github.com/brightdigit/atleast.app/issues/6) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+2. 🔒 Closed issue [#49](https://github.com/brightdigit/atleast.app/issues/49) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+3. 🗣 Commented on [#49](https://github.com/brightdigit/atleast.app/issues/49#issuecomment-4252945095) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+4. 🔒 Closed issue [#26](https://github.com/brightdigit/atleast.app/issues/26) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+5. 🗣 Commented on [#26](https://github.com/brightdigit/atleast.app/issues/26#issuecomment-4252944854) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
