@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/brightdigit/SyndiKit/pull/125) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-2. 💪 Opened PR [#125](https://github.com/brightdigit/SyndiKit/pull/125) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 💪 Opened PR [#124](https://github.com/brightdigit/SyndiKit/pull/124) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-4. ❗ Opened issue [#63](https://github.com/brightdigit/month.bar/issues/63) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
-5. 🔒 Closed issue [#26](https://github.com/brightdigit/month.bar/issues/26) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
+1. 🎉 Merged PR [#124](https://github.com/brightdigit/SyndiKit/pull/124) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. 🎉 Merged PR [#125](https://github.com/brightdigit/SyndiKit/pull/125) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 💪 Opened PR [#125](https://github.com/brightdigit/SyndiKit/pull/125) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 💪 Opened PR [#124](https://github.com/brightdigit/SyndiKit/pull/124) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. ❗ Opened issue [#63](https://github.com/brightdigit/month.bar/issues/63) in [brightdigit/month.bar](https://github.com/brightdigit/month.bar)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
