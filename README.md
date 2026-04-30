@@ -117,8 +117,8 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 1. 💪 Opened PR [#42](https://github.com/brightdigit/CelestraCloud/pull/42) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
 2. 💪 Opened PR [#32](https://github.com/brightdigit/BushelCloud/pull/32) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
 3. ℹ️ Labeled issue [#260](https://github.com/brightdigit/MistKit/issues/260) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-4. ℹ️ Labeled issue [#226](https://github.com/brightdigit/MistKit/issues/226) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-5. ℹ️ Labeled issue [#254](https://github.com/brightdigit/MistKit/issues/254) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+4. ℹ️ Labeled issue [#254](https://github.com/brightdigit/MistKit/issues/254) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+5. ℹ️ Labeled issue [#226](https://github.com/brightdigit/MistKit/issues/226) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
