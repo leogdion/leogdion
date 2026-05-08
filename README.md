@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#312](https://github.com/brightdigit/MistKit/issues/312) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-2. ❗ Opened issue [#312](https://github.com/brightdigit/MistKit/issues/312) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-3. ℹ️ Labeled issue [#311](https://github.com/brightdigit/MistKit/issues/311) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-4. ❗ Opened issue [#311](https://github.com/brightdigit/MistKit/issues/311) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-5. ℹ️ Labeled issue [#310](https://github.com/brightdigit/MistKit/issues/310) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. 🔒 Closed issue [#285](https://github.com/brightdigit/MistKit/issues/285) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. 🔒 Closed issue [#308](https://github.com/brightdigit/MistKit/issues/308) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+3. 🔒 Closed issue [#165](https://github.com/brightdigit/MistKit/issues/165) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+4. 🎉 Merged PR [#309](https://github.com/brightdigit/MistKit/pull/309) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+5. ❗ Opened issue [#313](https://github.com/brightdigit/MistKit/issues/313) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
