@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8](https://github.com/brightdigit/swift-worktree-agents/issues/8) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
-2. ❗ Opened issue [#8](https://github.com/brightdigit/swift-worktree-agents/issues/8) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
-3. ℹ️ Labeled issue [#7](https://github.com/brightdigit/swift-worktree-agents/issues/7) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
-4. ❗ Opened issue [#7](https://github.com/brightdigit/swift-worktree-agents/issues/7) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
-5. ℹ️ Labeled issue [#6](https://github.com/brightdigit/swift-worktree-agents/issues/6) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
+1. 💪 Opened PR [#104](https://github.com/brightdigit/swift-build/pull/104) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+2. 💪 Opened PR [#103](https://github.com/brightdigit/swift-build/pull/103) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+3. 💪 Opened PR [#102](https://github.com/brightdigit/swift-build/pull/102) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+4. ℹ️ Labeled issue [#8](https://github.com/brightdigit/swift-worktree-agents/issues/8) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
+5. ❗ Opened issue [#8](https://github.com/brightdigit/swift-worktree-agents/issues/8) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
