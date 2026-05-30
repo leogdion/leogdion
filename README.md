@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#101](https://github.com/brightdigit/swift-build/issues/101) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-2. 🎉 Merged PR [#400](https://github.com/brightdigit/MistKit/pull/400) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-3. ❗ Opened issue [#401](https://github.com/brightdigit/MistKit/issues/401) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-4. 🗣 Commented on [#47](https://github.com/brightdigit/MistKit/issues/47#issuecomment-4550363374) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-5. 🗣 Commented on [#46](https://github.com/brightdigit/MistKit/issues/46#issuecomment-4550363069) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. ℹ️ Labeled issue [#8](https://github.com/brightdigit/swift-worktree-agents/issues/8) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
+2. ❗ Opened issue [#8](https://github.com/brightdigit/swift-worktree-agents/issues/8) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
+3. ℹ️ Labeled issue [#7](https://github.com/brightdigit/swift-worktree-agents/issues/7) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
+4. ❗ Opened issue [#7](https://github.com/brightdigit/swift-worktree-agents/issues/7) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
+5. ℹ️ Labeled issue [#6](https://github.com/brightdigit/swift-worktree-agents/issues/6) in [brightdigit/swift-worktree-agents](https://github.com/brightdigit/swift-worktree-agents)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
