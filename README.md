@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#403](https://github.com/brightdigit/MistKit/issues/403) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-2. 🎉 Merged PR [#355](https://github.com/brightdigit/MistKit/pull/355) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-3. 🚀 Published release [1.0.0-beta.2](https://github.com/brightdigit/MistKit/releases/tag/1.0.0-beta.2) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-4. 🎉 Merged PR [#395](https://github.com/brightdigit/MistKit/pull/395) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-5. 🚀 Published release [v1.5.5](https://github.com/brightdigit/swift-build/releases/tag/v1.5.5) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+1. 🎉 Merged PR [#404](https://github.com/brightdigit/MistKit/pull/404) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. 💪 Opened PR [#93](https://github.com/apple/swift-openapi-urlsession/pull/93) in [apple/swift-openapi-urlsession](https://github.com/apple/swift-openapi-urlsession)
+3. ❗ Opened issue [#92](https://github.com/apple/swift-openapi-urlsession/issues/92) in [apple/swift-openapi-urlsession](https://github.com/apple/swift-openapi-urlsession)
+4. 💪 Opened PR [#404](https://github.com/brightdigit/MistKit/pull/404) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+5. ❗ Opened issue [#403](https://github.com/brightdigit/MistKit/issues/403) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
