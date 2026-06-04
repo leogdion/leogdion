@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#406](https://github.com/brightdigit/MistKit/pull/406) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-2. ❗ Opened issue [#48](https://github.com/brightdigit/CelestraCloud/issues/48) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-3. ❗ Opened issue [#47](https://github.com/brightdigit/CelestraCloud/issues/47) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-4. ❗ Opened issue [#46](https://github.com/brightdigit/CelestraCloud/issues/46) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-5. ❗ Opened issue [#45](https://github.com/brightdigit/CelestraCloud/issues/45) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+1. ℹ️ Labeled issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+2. ℹ️ Labeled issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+3. ℹ️ Labeled issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+4. ❗ Opened issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. 🎉 Merged PR [#406](https://github.com/brightdigit/MistKit/pull/406) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
