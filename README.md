@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+1. 💪 Opened PR [#408](https://github.com/brightdigit/MistKit/pull/408) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
 2. ℹ️ Labeled issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 3. ℹ️ Labeled issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-4. ❗ Opened issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. 🎉 Merged PR [#406](https://github.com/brightdigit/MistKit/pull/406) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+4. ℹ️ Labeled issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. ❗ Opened issue [#80](https://github.com/brightdigit/SundialKit/issues/80) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
