@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/brightdigit/SundialKitStream/issues/12) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-2. 🔒 Closed issue [#82](https://github.com/brightdigit/SundialKit/issues/82) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-3. 💪 Opened PR [#13](https://github.com/brightdigit/SundialKitStream/pull/13) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-4. 💪 Opened PR [#84](https://github.com/brightdigit/SundialKit/pull/84) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. ℹ️ Labeled issue [#83](https://github.com/brightdigit/SundialKit/issues/83) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+1. 🔒 Closed issue [#43](https://github.com/brightdigit/brightdigit.com/issues/43) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. 🗣 Commented on [#43](https://github.com/brightdigit/brightdigit.com/issues/43#issuecomment-4650510874) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. 🔒 Closed issue [#12](https://github.com/brightdigit/SundialKitStream/issues/12) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+4. 🔒 Closed issue [#82](https://github.com/brightdigit/SundialKit/issues/82) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. 💪 Opened PR [#13](https://github.com/brightdigit/SundialKitStream/pull/13) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
