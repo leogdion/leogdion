@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/brightdigit/SundialKitStream/pull/19) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-2. 💪 Opened PR [#90](https://github.com/brightdigit/SundialKit/pull/90) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-3. 🎉 Merged PR [#171](https://github.com/brightdigit/SyntaxKit/pull/171) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
-4. ❗ Opened issue [#114](https://github.com/brightdigit/swift-build/issues/114) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-5. 🎉 Merged PR [#170](https://github.com/brightdigit/SyntaxKit/pull/170) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
+1. 🎉 Merged PR [#19](https://github.com/brightdigit/SundialKitStream/pull/19) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+2. 🎉 Merged PR [#90](https://github.com/brightdigit/SundialKit/pull/90) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+3. 💪 Opened PR [#19](https://github.com/brightdigit/SundialKitStream/pull/19) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+4. 💪 Opened PR [#90](https://github.com/brightdigit/SundialKit/pull/90) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+5. 🎉 Merged PR [#171](https://github.com/brightdigit/SyntaxKit/pull/171) in [brightdigit/SyntaxKit](https://github.com/brightdigit/SyntaxKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
