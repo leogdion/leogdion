@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/brightdigit/ConfigKeyKit/pull/4) in [brightdigit/ConfigKeyKit](https://github.com/brightdigit/ConfigKeyKit)
-2. 💪 Opened PR [#118](https://github.com/brightdigit/brightdigit.com/pull/118) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-3. 💪 Opened PR [#1](https://github.com/brightdigit/ButtondownKit/pull/1) in [brightdigit/ButtondownKit](https://github.com/brightdigit/ButtondownKit)
-4. 💪 Opened PR [#12](https://github.com/brightdigit/SwiftTube/pull/12) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
-5. 💪 Opened PR [#29](https://github.com/brightdigit/Spinetail/pull/29) in [brightdigit/Spinetail](https://github.com/brightdigit/Spinetail)
+1. 🎉 Merged PR [#3](https://github.com/brightdigit/ConfigKeyKit/pull/3) in [brightdigit/ConfigKeyKit](https://github.com/brightdigit/ConfigKeyKit)
+2. 🔒 Closed issue [#2](https://github.com/brightdigit/ConfigKeyKit/issues/2) in [brightdigit/ConfigKeyKit](https://github.com/brightdigit/ConfigKeyKit)
+3. 🔒 Closed issue [#1](https://github.com/brightdigit/ConfigKeyKit/issues/1) in [brightdigit/ConfigKeyKit](https://github.com/brightdigit/ConfigKeyKit)
+4. 🎉 Merged PR [#4](https://github.com/brightdigit/ConfigKeyKit/pull/4) in [brightdigit/ConfigKeyKit](https://github.com/brightdigit/ConfigKeyKit)
+5. 💪 Opened PR [#118](https://github.com/brightdigit/brightdigit.com/pull/118) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
