@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/brightdigit/Contribute/pull/11) in [brightdigit/Contribute](https://github.com/brightdigit/Contribute)
-2. 💪 Opened PR [#128](https://github.com/brightdigit/SyndiKit/pull/128) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 💪 Opened PR [#16](https://github.com/brightdigit/SwiftTube/pull/16) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
-4. 💪 Opened PR [#15](https://github.com/brightdigit/SwiftTube/pull/15) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
-5. 💪 Opened PR [#3](https://github.com/brightdigit/ButtondownKit/pull/3) in [brightdigit/ButtondownKit](https://github.com/brightdigit/ButtondownKit)
+1. 🎉 Merged PR [#120](https://github.com/brightdigit/brightdigit.com/pull/120) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. 💪 Opened PR [#120](https://github.com/brightdigit/brightdigit.com/pull/120) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. 🎉 Merged PR [#11](https://github.com/brightdigit/Contribute/pull/11) in [brightdigit/Contribute](https://github.com/brightdigit/Contribute)
+4. 💪 Opened PR [#128](https://github.com/brightdigit/SyndiKit/pull/128) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 💪 Opened PR [#16](https://github.com/brightdigit/SwiftTube/pull/16) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
