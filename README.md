@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/brightdigit/SwiftTube/pull/11) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
-2. 💪 Opened PR [#30](https://github.com/brightdigit/Spinetail/pull/30) in [brightdigit/Spinetail](https://github.com/brightdigit/Spinetail)
-3. 💪 Opened PR [#44870](https://github.com/github/docs/pull/44870) in [github/docs](https://github.com/github/docs)
-4. ❌ Closed PR [#12](https://github.com/brightdigit/SwiftTube/pull/12) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
-5. ℹ️ Labeled issue [#44868](https://github.com/github/docs/issues/44868) in [github/docs](https://github.com/github/docs)
+1. 🎉 Merged PR [#9](https://github.com/brightdigit/Contribute/pull/9) in [brightdigit/Contribute](https://github.com/brightdigit/Contribute)
+2. ❌ Closed PR [#11](https://github.com/brightdigit/SwiftTube/pull/11) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
+3. 💪 Opened PR [#30](https://github.com/brightdigit/Spinetail/pull/30) in [brightdigit/Spinetail](https://github.com/brightdigit/Spinetail)
+4. 💪 Opened PR [#44870](https://github.com/github/docs/pull/44870) in [github/docs](https://github.com/github/docs)
+5. ❌ Closed PR [#12](https://github.com/brightdigit/SwiftTube/pull/12) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
