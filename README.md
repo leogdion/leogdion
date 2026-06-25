@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/brightdigit/Contribute/pull/9) in [brightdigit/Contribute](https://github.com/brightdigit/Contribute)
-2. 🎉 Merged PR [#331](https://github.com/sersoft-gmbh/swift-coverage-action/pull/331) in [sersoft-gmbh/swift-coverage-action](https://github.com/sersoft-gmbh/swift-coverage-action)
-3. 🔒 Closed issue [#96](https://github.com/brightdigit/brightdigit.com/issues/96) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
-4. 🗣 Commented on [#331](https://github.com/sersoft-gmbh/swift-coverage-action/pull/331#issuecomment-4800562673) in [sersoft-gmbh/swift-coverage-action](https://github.com/sersoft-gmbh/swift-coverage-action)
-5. 🔒 Closed issue [#40](https://github.com/brightdigit/brightdigit.com/issues/40) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+1. 🗣 Commented on [#41](https://github.com/brightdigit/brightdigit.com/issues/41#issuecomment-4742165170) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. 🗣 Commented on [#37](https://github.com/brightdigit/brightdigit.com/issues/37#issuecomment-4742164365) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. 🗣 Commented on [#84](https://github.com/brightdigit/brightdigit.com/issues/84#issuecomment-4742163650) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+4. 🗣 Commented on [#74](https://github.com/brightdigit/brightdigit.com/issues/74#issuecomment-4742163132) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+5. 💪 Opened PR [#9](https://github.com/brightdigit/Contribute/pull/9) in [brightdigit/Contribute](https://github.com/brightdigit/Contribute)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
