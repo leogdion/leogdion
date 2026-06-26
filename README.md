@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0-alpha.3](https://github.com/brightdigit/SundialKitStream/releases/tag/1.0.0-alpha.3) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-2. 🎉 Merged PR [#14](https://github.com/brightdigit/SundialKitStream/pull/14) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-3. 🚀 Published release [2.0.0-alpha.3](https://github.com/brightdigit/SundialKit/releases/tag/2.0.0-alpha.3) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-4. 🎉 Merged PR [#85](https://github.com/brightdigit/SundialKit/pull/85) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
-5. ❗ Opened issue [#118](https://github.com/brightdigit/swift-build/issues/118) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+1. ❌ Closed PR [#8](https://github.com/mergesort/Broadcast/pull/8) in [mergesort/Broadcast](https://github.com/mergesort/Broadcast)
+2. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/DictionaryCoding/releases/tag/1.0.0-alpha.1) in [brightdigit/DictionaryCoding](https://github.com/brightdigit/DictionaryCoding)
+3. 🎉 Merged PR [#1](https://github.com/brightdigit/DictionaryCoding/pull/1) in [brightdigit/DictionaryCoding](https://github.com/brightdigit/DictionaryCoding)
+4. 🚀 Published release [1.0.0-alpha.3](https://github.com/brightdigit/SundialKitStream/releases/tag/1.0.0-alpha.3) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+5. 🎉 Merged PR [#14](https://github.com/brightdigit/SundialKitStream/pull/14) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
