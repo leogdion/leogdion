@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/mergesort/Broadcast/pull/8) in [mergesort/Broadcast](https://github.com/mergesort/Broadcast)
-2. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/DictionaryCoding/releases/tag/1.0.0-alpha.1) in [brightdigit/DictionaryCoding](https://github.com/brightdigit/DictionaryCoding)
-3. 🎉 Merged PR [#1](https://github.com/brightdigit/DictionaryCoding/pull/1) in [brightdigit/DictionaryCoding](https://github.com/brightdigit/DictionaryCoding)
-4. 🚀 Published release [1.0.0-alpha.3](https://github.com/brightdigit/SundialKitStream/releases/tag/1.0.0-alpha.3) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-5. 🎉 Merged PR [#14](https://github.com/brightdigit/SundialKitStream/pull/14) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+1. ❌ Closed PR [#6](https://github.com/mergesort/Broadcast/pull/6) in [mergesort/Broadcast](https://github.com/mergesort/Broadcast)
+2. 🗣 Commented on [#6](https://github.com/mergesort/Broadcast/pull/6#issuecomment-4811664124) in [mergesort/Broadcast](https://github.com/mergesort/Broadcast)
+3. 💪 Opened PR [#10](https://github.com/mergesort/Broadcast/pull/10) in [mergesort/Broadcast](https://github.com/mergesort/Broadcast)
+4. ❌ Closed PR [#7](https://github.com/mergesort/Broadcast/pull/7) in [mergesort/Broadcast](https://github.com/mergesort/Broadcast)
+5. 🗣 Commented on [#7](https://github.com/mergesort/Broadcast/pull/7#issuecomment-4811659810) in [mergesort/Broadcast](https://github.com/mergesort/Broadcast)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
