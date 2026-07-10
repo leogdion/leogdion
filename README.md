@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/brightdigit/CelestraCloud/pull/49) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-2. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/BushelCloud/releases/tag/1.0.0-alpha.2) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-3. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/HarvestBin/releases/tag/1.0.0-alpha.1) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
-4. 🎉 Merged PR [#34](https://github.com/brightdigit/BushelCloud/pull/34) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-5. 🎉 Merged PR [#16](https://github.com/brightdigit/HarvestBin/pull/16) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
+1. ❌ Closed PR [#50](https://github.com/brightdigit/CelestraCloud/pull/50) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+2. 💪 Opened PR [#50](https://github.com/brightdigit/CelestraCloud/pull/50) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+3. 🎉 Merged PR [#49](https://github.com/brightdigit/CelestraCloud/pull/49) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+4. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/BushelCloud/releases/tag/1.0.0-alpha.2) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+5. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/HarvestBin/releases/tag/1.0.0-alpha.1) in [brightdigit/HarvestBin](https://github.com/brightdigit/HarvestBin)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
