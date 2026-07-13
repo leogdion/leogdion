@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/brightdigit/SwiftTube/issues/17) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
-2. ❌ Closed PR [#50](https://github.com/brightdigit/CelestraCloud/pull/50) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-3. 💪 Opened PR [#50](https://github.com/brightdigit/CelestraCloud/pull/50) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-4. 🎉 Merged PR [#49](https://github.com/brightdigit/CelestraCloud/pull/49) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-5. 🚀 Published release [1.0.0-alpha.2](https://github.com/brightdigit/BushelCloud/releases/tag/1.0.0-alpha.2) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+1. 🎉 Merged PR [#141](https://github.com/brightdigit/brightdigit.com/pull/141) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. 💪 Opened PR [#141](https://github.com/brightdigit/brightdigit.com/pull/141) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. ❗ Opened issue [#17](https://github.com/brightdigit/SwiftTube/issues/17) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
+4. ❌ Closed PR [#50](https://github.com/brightdigit/CelestraCloud/pull/50) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+5. 💪 Opened PR [#50](https://github.com/brightdigit/CelestraCloud/pull/50) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
