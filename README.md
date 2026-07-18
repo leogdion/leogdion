@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/brightdigit/ContributeYouTube/pull/1) in [brightdigit/ContributeYouTube](https://github.com/brightdigit/ContributeYouTube)
-2. 💪 Opened PR [#1](https://github.com/brightdigit/ContributeRSS/pull/1) in [brightdigit/ContributeRSS](https://github.com/brightdigit/ContributeRSS)
-3. 💪 Opened PR [#1](https://github.com/brightdigit/ContributeMailchimp/pull/1) in [brightdigit/ContributeMailchimp](https://github.com/brightdigit/ContributeMailchimp)
-4. 💪 Opened PR [#1](https://github.com/brightdigit/ContributeButtondown/pull/1) in [brightdigit/ContributeButtondown](https://github.com/brightdigit/ContributeButtondown)
-5. 💪 Opened PR [#1](https://github.com/brightdigit/TailwindKit/pull/1) in [brightdigit/TailwindKit](https://github.com/brightdigit/TailwindKit)
+1. 🔒 Closed issue [#127](https://github.com/brightdigit/brightdigit.com/issues/127) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. 🗣 Commented on [#127](https://github.com/brightdigit/brightdigit.com/issues/127#issuecomment-5008632606) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. 🗣 Commented on [#53](https://github.com/brightdigit/brightdigit.com/issues/53#issuecomment-5008632504) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+4. 🔒 Closed issue [#53](https://github.com/brightdigit/brightdigit.com/issues/53) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+5. 🗣 Commented on [#67](https://github.com/brightdigit/brightdigit.com/issues/67#issuecomment-5008632403) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
