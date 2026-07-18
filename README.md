@@ -114,7 +114,7 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#127](https://github.com/brightdigit/brightdigit.com/issues/127) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+1. 💪 Opened PR [#160](https://github.com/brightdigit/brightdigit.com/pull/160) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 2. 🗣 Commented on [#127](https://github.com/brightdigit/brightdigit.com/issues/127#issuecomment-5008632606) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 3. 🗣 Commented on [#53](https://github.com/brightdigit/brightdigit.com/issues/53#issuecomment-5008632504) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 4. 🔒 Closed issue [#53](https://github.com/brightdigit/brightdigit.com/issues/53) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
