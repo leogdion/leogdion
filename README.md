@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/brightdigit/Ink/pull/2) in [brightdigit/Ink](https://github.com/brightdigit/Ink)
-2. 💪 Opened PR [#2](https://github.com/brightdigit/Files/pull/2) in [brightdigit/Files](https://github.com/brightdigit/Files)
-3. 💪 Opened PR [#2](https://github.com/brightdigit/Plot/pull/2) in [brightdigit/Plot](https://github.com/brightdigit/Plot)
-4. 💪 Opened PR [#32](https://github.com/brightdigit/Spinetail/pull/32) in [brightdigit/Spinetail](https://github.com/brightdigit/Spinetail)
-5. 💪 Opened PR [#19](https://github.com/brightdigit/SwiftTube/pull/19) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
+1. 🎉 Merged PR [#32](https://github.com/brightdigit/Spinetail/pull/32) in [brightdigit/Spinetail](https://github.com/brightdigit/Spinetail)
+2. 🎉 Merged PR [#19](https://github.com/brightdigit/SwiftTube/pull/19) in [brightdigit/SwiftTube](https://github.com/brightdigit/SwiftTube)
+3. 🎉 Merged PR [#130](https://github.com/brightdigit/SyndiKit/pull/130) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 💪 Opened PR [#2](https://github.com/brightdigit/Ink/pull/2) in [brightdigit/Ink](https://github.com/brightdigit/Ink)
+5. 💪 Opened PR [#2](https://github.com/brightdigit/Files/pull/2) in [brightdigit/Files](https://github.com/brightdigit/Files)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
