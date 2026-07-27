@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brightdigit/YoutubePublishPlugin/pull/1) in [brightdigit/YoutubePublishPlugin](https://github.com/brightdigit/YoutubePublishPlugin)
-2. 🎉 Merged PR [#1](https://github.com/brightdigit/PublishType/pull/1) in [brightdigit/PublishType](https://github.com/brightdigit/PublishType)
-3. 🎉 Merged PR [#1](https://github.com/brightdigit/ContributeRSS/pull/1) in [brightdigit/ContributeRSS](https://github.com/brightdigit/ContributeRSS)
-4. 🎉 Merged PR [#1](https://github.com/brightdigit/Publish/pull/1) in [brightdigit/Publish](https://github.com/brightdigit/Publish)
-5. 🎉 Merged PR [#1](https://github.com/brightdigit/TailwindKit/pull/1) in [brightdigit/TailwindKit](https://github.com/brightdigit/TailwindKit)
+1. 🎉 Merged PR [#9](https://github.com/brightdigit/NPMPublishPlugin/pull/9) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
+2. 🎉 Merged PR [#1](https://github.com/brightdigit/ReadingTimePublishPlugin/pull/1) in [brightdigit/ReadingTimePublishPlugin](https://github.com/brightdigit/ReadingTimePublishPlugin)
+3. 🎉 Merged PR [#6](https://github.com/brightdigit/TransistorPublishPlugin/pull/6) in [brightdigit/TransistorPublishPlugin](https://github.com/brightdigit/TransistorPublishPlugin)
+4. 🎉 Merged PR [#1](https://github.com/brightdigit/YoutubePublishPlugin/pull/1) in [brightdigit/YoutubePublishPlugin](https://github.com/brightdigit/YoutubePublishPlugin)
+5. 🎉 Merged PR [#1](https://github.com/brightdigit/PublishType/pull/1) in [brightdigit/PublishType](https://github.com/brightdigit/PublishType)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
