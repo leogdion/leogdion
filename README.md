@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brightdigit/ContributeRSS/pull/1) in [brightdigit/ContributeRSS](https://github.com/brightdigit/ContributeRSS)
-2. 🎉 Merged PR [#1](https://github.com/brightdigit/Publish/pull/1) in [brightdigit/Publish](https://github.com/brightdigit/Publish)
-3. 🎉 Merged PR [#1](https://github.com/brightdigit/TailwindKit/pull/1) in [brightdigit/TailwindKit](https://github.com/brightdigit/TailwindKit)
-4. 🎉 Merged PR [#1](https://github.com/brightdigit/ContributeButtondown/pull/1) in [brightdigit/ContributeButtondown](https://github.com/brightdigit/ContributeButtondown)
-5. 🎉 Merged PR [#1](https://github.com/brightdigit/ContributeMailchimp/pull/1) in [brightdigit/ContributeMailchimp](https://github.com/brightdigit/ContributeMailchimp)
+1. 🎉 Merged PR [#1](https://github.com/brightdigit/YoutubePublishPlugin/pull/1) in [brightdigit/YoutubePublishPlugin](https://github.com/brightdigit/YoutubePublishPlugin)
+2. 🎉 Merged PR [#1](https://github.com/brightdigit/PublishType/pull/1) in [brightdigit/PublishType](https://github.com/brightdigit/PublishType)
+3. 🎉 Merged PR [#1](https://github.com/brightdigit/ContributeRSS/pull/1) in [brightdigit/ContributeRSS](https://github.com/brightdigit/ContributeRSS)
+4. 🎉 Merged PR [#1](https://github.com/brightdigit/Publish/pull/1) in [brightdigit/Publish](https://github.com/brightdigit/Publish)
+5. 🎉 Merged PR [#1](https://github.com/brightdigit/TailwindKit/pull/1) in [brightdigit/TailwindKit](https://github.com/brightdigit/TailwindKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
