@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#10](https://github.com/brightdigit/KeynoteKit/issues/10) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-2. ❗ Opened issue [#10](https://github.com/brightdigit/KeynoteKit/issues/10) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-3. ℹ️ Labeled issue [#9](https://github.com/brightdigit/KeynoteKit/issues/9) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-4. ❗ Opened issue [#9](https://github.com/brightdigit/KeynoteKit/issues/9) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-5. ℹ️ Labeled issue [#8](https://github.com/brightdigit/KeynoteKit/issues/8) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+1. 💪 Opened PR [#11](https://github.com/brightdigit/KeynoteKit/pull/11) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+2. 💪 Opened PR [#3](https://github.com/brightdigit/FCPKit/pull/3) in [brightdigit/FCPKit](https://github.com/brightdigit/FCPKit)
+3. ℹ️ Labeled issue [#10](https://github.com/brightdigit/KeynoteKit/issues/10) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+4. ❗ Opened issue [#10](https://github.com/brightdigit/KeynoteKit/issues/10) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+5. ℹ️ Labeled issue [#9](https://github.com/brightdigit/KeynoteKit/issues/9) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
