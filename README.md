@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0-alpha.1](https://github.com/brightdigit/NPMPublishPlugin/releases/tag/2.0.0-alpha.1) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
-2. 🚀 Published release [2.0.0-alpha.1](https://github.com/brightdigit/TransistorPublishPlugin/releases/tag/2.0.0-alpha.1) in [brightdigit/TransistorPublishPlugin](https://github.com/brightdigit/TransistorPublishPlugin)
-3. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/ReadingTimePublishPlugin/releases/tag/1.0.0-alpha.1) in [brightdigit/ReadingTimePublishPlugin](https://github.com/brightdigit/ReadingTimePublishPlugin)
-4. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/YoutubePublishPlugin/releases/tag/1.0.0-alpha.1) in [brightdigit/YoutubePublishPlugin](https://github.com/brightdigit/YoutubePublishPlugin)
-5. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/PublishType/releases/tag/1.0.0-alpha.1) in [brightdigit/PublishType](https://github.com/brightdigit/PublishType)
+1. 🗣 Commented on [#10](https://github.com/brightdigit/NPMPublishPlugin/issues/10#issuecomment-5106502070) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
+2. 🔓 Reopened issue [#51](https://github.com/brightdigit/brightdigit.com/issues/51) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. 🗣 Commented on [#51](https://github.com/brightdigit/brightdigit.com/issues/51#issuecomment-5106501648) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+4. 🗣 Commented on [#153](https://github.com/brightdigit/brightdigit.com/issues/153#issuecomment-5106489439) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+5. 🗣 Commented on [#162](https://github.com/brightdigit/brightdigit.com/issues/162#issuecomment-5106488936) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
