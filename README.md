@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/brightdigit/NPMPublishPlugin/issues/10#issuecomment-5107687152) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
-2. 🔒 Closed issue [#10](https://github.com/brightdigit/NPMPublishPlugin/issues/10) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
-3. 🗣 Commented on [#10](https://github.com/brightdigit/NPMPublishPlugin/issues/10#issuecomment-5107644376) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
-4. 🗣 Commented on [#10](https://github.com/brightdigit/NPMPublishPlugin/issues/10#issuecomment-5107556738) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
-5. ❗ Opened issue [#11](https://github.com/brightdigit/NPMPublishPlugin/issues/11) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
+1. 💪 Opened PR [#1](https://github.com/brightdigit/KeynoteKit/pull/1) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+2. 💪 Opened PR [#12](https://github.com/brightdigit/NPMPublishPlugin/pull/12) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
+3. 🎉 Merged PR [#172](https://github.com/brightdigit/brightdigit.com/pull/172) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+4. 🗣 Commented on [#172](https://github.com/brightdigit/brightdigit.com/pull/172#issuecomment-5108099973) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+5. 💪 Opened PR [#172](https://github.com/brightdigit/brightdigit.com/pull/172) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
