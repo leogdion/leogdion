@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/brightdigit/Contribute/issues/20) in [brightdigit/Contribute](https://github.com/brightdigit/Contribute)
-2. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/SyndiKit/releases/tag/1.0.0-alpha.1) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-3. 🎉 Merged PR [#9](https://github.com/brightdigit/NPMPublishPlugin/pull/9) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
-4. 🎉 Merged PR [#1](https://github.com/brightdigit/ReadingTimePublishPlugin/pull/1) in [brightdigit/ReadingTimePublishPlugin](https://github.com/brightdigit/ReadingTimePublishPlugin)
-5. 🎉 Merged PR [#6](https://github.com/brightdigit/TransistorPublishPlugin/pull/6) in [brightdigit/TransistorPublishPlugin](https://github.com/brightdigit/TransistorPublishPlugin)
+1. 🚀 Published release [2.0.0-alpha.1](https://github.com/brightdigit/NPMPublishPlugin/releases/tag/2.0.0-alpha.1) in [brightdigit/NPMPublishPlugin](https://github.com/brightdigit/NPMPublishPlugin)
+2. 🚀 Published release [2.0.0-alpha.1](https://github.com/brightdigit/TransistorPublishPlugin/releases/tag/2.0.0-alpha.1) in [brightdigit/TransistorPublishPlugin](https://github.com/brightdigit/TransistorPublishPlugin)
+3. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/ReadingTimePublishPlugin/releases/tag/1.0.0-alpha.1) in [brightdigit/ReadingTimePublishPlugin](https://github.com/brightdigit/ReadingTimePublishPlugin)
+4. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/YoutubePublishPlugin/releases/tag/1.0.0-alpha.1) in [brightdigit/YoutubePublishPlugin](https://github.com/brightdigit/YoutubePublishPlugin)
+5. 🚀 Published release [1.0.0-alpha.1](https://github.com/brightdigit/PublishType/releases/tag/1.0.0-alpha.1) in [brightdigit/PublishType](https://github.com/brightdigit/PublishType)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
