@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/brightdigit/KeynoteKit/pull/76#issuecomment-5160542874) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-2. 🔒 Closed issue [#75](https://github.com/brightdigit/KeynoteKit/issues/75) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-3. 🗣 Commented on [#75](https://github.com/brightdigit/KeynoteKit/issues/75#issuecomment-5160540462) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-4. 🗣 Commented on [#74](https://github.com/brightdigit/KeynoteKit/issues/74#issuecomment-5160540348) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
-5. 🔒 Closed issue [#74](https://github.com/brightdigit/KeynoteKit/issues/74) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+1. ℹ️ Labeled issue [#41](https://github.com/brightdigit/FCPKit/issues/41) in [brightdigit/FCPKit](https://github.com/brightdigit/FCPKit)
+2. ℹ️ Labeled issue [#41](https://github.com/brightdigit/FCPKit/issues/41) in [brightdigit/FCPKit](https://github.com/brightdigit/FCPKit)
+3. ❗ Opened issue [#41](https://github.com/brightdigit/FCPKit/issues/41) in [brightdigit/FCPKit](https://github.com/brightdigit/FCPKit)
+4. ❗ Opened issue [#78](https://github.com/brightdigit/KeynoteKit/issues/78) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+5. ❗ Opened issue [#77](https://github.com/brightdigit/KeynoteKit/issues/77) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
