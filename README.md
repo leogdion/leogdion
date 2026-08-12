@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#54](https://github.com/brightdigit/git-trees/issues/54) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
-2. 🚀 Published release [v1.0.2](https://github.com/brightdigit/git-trees/releases/tag/v1.0.2) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
-3. 🎉 Merged PR [#53](https://github.com/brightdigit/git-trees/pull/53) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
-4. 🎉 Merged PR [#52](https://github.com/brightdigit/git-trees/pull/52) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
-5. 💪 Opened PR [#53](https://github.com/brightdigit/git-trees/pull/53) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
+1. ℹ️ Labeled issue [#96](https://github.com/brightdigit/atleast.app/issues/96) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+2. ℹ️ Labeled issue [#96](https://github.com/brightdigit/atleast.app/issues/96) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+3. ℹ️ Labeled issue [#96](https://github.com/brightdigit/atleast.app/issues/96) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+4. ❗ Opened issue [#96](https://github.com/brightdigit/atleast.app/issues/96) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+5. ❗ Opened issue [#54](https://github.com/brightdigit/git-trees/issues/54) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
