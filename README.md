@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/brightdigit/atleast.app/pull/101) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-2. 🗣 Commented on [#55](https://github.com/brightdigit/CelestraCloud/pull/55#issuecomment-5381972978) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-3. ❌ Closed PR [#55](https://github.com/brightdigit/CelestraCloud/pull/55) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
-4. ❗ Opened issue [#20](https://github.com/brightdigit/CelestraKit/issues/20) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
-5. ❗ Opened issue [#19](https://github.com/brightdigit/CelestraKit/issues/19) in [brightdigit/CelestraKit](https://github.com/brightdigit/CelestraKit)
+1. 🎉 Merged PR [#58](https://github.com/brightdigit/git-trees/pull/58) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
+2. 🎉 Merged PR [#56](https://github.com/brightdigit/git-trees/pull/56) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
+3. 💪 Opened PR [#101](https://github.com/brightdigit/atleast.app/pull/101) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+4. 🗣 Commented on [#55](https://github.com/brightdigit/CelestraCloud/pull/55#issuecomment-5381972978) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
+5. ❌ Closed PR [#55](https://github.com/brightdigit/CelestraCloud/pull/55) in [brightdigit/CelestraCloud](https://github.com/brightdigit/CelestraCloud)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
