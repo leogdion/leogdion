@@ -114,11 +114,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#425](https://github.com/brightdigit/MistKit/pull/425) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-2. 🔒 Closed issue [#54](https://github.com/brightdigit/git-trees/issues/54) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
-3. 🔒 Closed issue [#55](https://github.com/brightdigit/git-trees/issues/55) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
-4. 🎉 Merged PR [#63](https://github.com/brightdigit/git-trees/pull/63) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
-5. 💪 Opened PR [#63](https://github.com/brightdigit/git-trees/pull/63) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
+1. 🎉 Merged PR [#424](https://github.com/brightdigit/MistKit/pull/424) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. 🎉 Merged PR [#425](https://github.com/brightdigit/MistKit/pull/425) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+3. 🔒 Closed issue [#54](https://github.com/brightdigit/git-trees/issues/54) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
+4. 🔒 Closed issue [#55](https://github.com/brightdigit/git-trees/issues/55) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
+5. 🎉 Merged PR [#63](https://github.com/brightdigit/git-trees/pull/63) in [brightdigit/git-trees](https://github.com/brightdigit/git-trees)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
