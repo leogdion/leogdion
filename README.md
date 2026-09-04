@@ -11,9 +11,6 @@
 [![EmpowerApps](https://img.shields.io/badge/Watch-YouTube-informational?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@brightdigit)
 [![GitHubSponsor](https://img.shields.io/badge/Sponsor-BrightDigit-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/brightdigit)
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnl3jF6GHAvlj1MZyb6Ka9g?style=for-the-badge&logo=YouTube&logoColor=ff0000&color=ff0000&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCnl3jF6GHAvlj1MZyb6Ka9g)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnl3jF6GHAvlj1MZyb6Ka9g?style=for-the-badge&logo=YouTube&logoColor=ff0000&color=ff0000&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCnl3jF6GHAvlj1MZyb6Ka9g)
-
 🛠 I have been doing software development for over 20 years. I have been focused on Apple platforms and **Swift** for at least 10 years. I love developing in Swift. 
 
 💡 I run my own company, **[BrightDigit](https://brightdigit.com)** doing freelance Swift development and consulting. 
