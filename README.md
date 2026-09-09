@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/brightdigit/atleast.app/pull/158) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-2. 💪 Opened PR [#477](https://github.com/brightdigit/MistKit/pull/477) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-3. 🎉 Merged PR [#159](https://github.com/brightdigit/atleast.app/pull/159) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-4. 🎉 Merged PR [#160](https://github.com/brightdigit/atleast.app/pull/160) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-5. 🗣 Commented on [#28](https://github.com/brightdigit/MistKit/issues/28#issuecomment-5584672531) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. 💪 Opened PR [#478](https://github.com/brightdigit/MistKit/pull/478) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. 🎉 Merged PR [#158](https://github.com/brightdigit/atleast.app/pull/158) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+3. 💪 Opened PR [#477](https://github.com/brightdigit/MistKit/pull/477) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+4. 🎉 Merged PR [#159](https://github.com/brightdigit/atleast.app/pull/159) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+5. 🎉 Merged PR [#160](https://github.com/brightdigit/atleast.app/pull/160) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
