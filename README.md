@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#203](https://github.com/brightdigit/atleast.app/issues/203) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-2. 🚀 Published release [1.0.0](https://github.com/brightdigit/SundialKitStream/releases/tag/1.0.0) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
-3. 🚀 Published release [1.0.0](https://github.com/brightdigit/DictionaryCoding/releases/tag/1.0.0) in [brightdigit/DictionaryCoding](https://github.com/brightdigit/DictionaryCoding)
-4. 🎉 Merged PR [#196](https://github.com/brightdigit/atleast.app/pull/196) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-5. 🎉 Merged PR [#31](https://github.com/brightdigit/getbushel.app/pull/31) in [brightdigit/getbushel.app](https://github.com/brightdigit/getbushel.app)
+1. 💪 Opened PR [#97](https://github.com/brightdigit/SundialKit/pull/97) in [brightdigit/SundialKit](https://github.com/brightdigit/SundialKit)
+2. ❗ Opened issue [#203](https://github.com/brightdigit/atleast.app/issues/203) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+3. 🚀 Published release [1.0.0](https://github.com/brightdigit/SundialKitStream/releases/tag/1.0.0) in [brightdigit/SundialKitStream](https://github.com/brightdigit/SundialKitStream)
+4. 🚀 Published release [1.0.0](https://github.com/brightdigit/DictionaryCoding/releases/tag/1.0.0) in [brightdigit/DictionaryCoding](https://github.com/brightdigit/DictionaryCoding)
+5. 🎉 Merged PR [#196](https://github.com/brightdigit/atleast.app/pull/196) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
