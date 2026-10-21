@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/leogdion/riverside-fcpxml-fix/pull/3) in [leogdion/riverside-fcpxml-fix](https://github.com/leogdion/riverside-fcpxml-fix)
-2. 🔒 Closed issue [#203](https://github.com/brightdigit/atleast.app/issues/203) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-3. 🎉 Merged PR [#204](https://github.com/brightdigit/atleast.app/pull/204) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-4. ❗ Opened issue [#40](https://github.com/brightdigit/BushelCloud/issues/40) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-5. ℹ️ Labeled issue [#28](https://github.com/brightdigit/SimulatorServices/issues/28) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+1. 🗣 Commented on [#142](https://github.com/brightdigit/SyndiKit/issues/142#issuecomment-6327483193) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+2. 🔒 Closed issue [#142](https://github.com/brightdigit/SyndiKit/issues/142) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+3. 🗣 Commented on [#141](https://github.com/brightdigit/SyndiKit/issues/141#issuecomment-6327482728) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+4. 🔒 Closed issue [#141](https://github.com/brightdigit/SyndiKit/issues/141) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+5. 🗣 Commented on [#140](https://github.com/brightdigit/SyndiKit/issues/140#issuecomment-6327482109) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
