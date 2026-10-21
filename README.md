@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#203](https://github.com/brightdigit/atleast.app/issues/203) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-2. 🎉 Merged PR [#204](https://github.com/brightdigit/atleast.app/pull/204) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
-3. ❗ Opened issue [#40](https://github.com/brightdigit/BushelCloud/issues/40) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-4. ℹ️ Labeled issue [#28](https://github.com/brightdigit/SimulatorServices/issues/28) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
-5. ❗ Opened issue [#28](https://github.com/brightdigit/SimulatorServices/issues/28) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
+1. 💪 Opened PR [#3](https://github.com/leogdion/riverside-fcpxml-fix/pull/3) in [leogdion/riverside-fcpxml-fix](https://github.com/leogdion/riverside-fcpxml-fix)
+2. 🔒 Closed issue [#203](https://github.com/brightdigit/atleast.app/issues/203) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+3. 🎉 Merged PR [#204](https://github.com/brightdigit/atleast.app/pull/204) in [brightdigit/atleast.app](https://github.com/brightdigit/atleast.app)
+4. ❗ Opened issue [#40](https://github.com/brightdigit/BushelCloud/issues/40) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
+5. ℹ️ Labeled issue [#28](https://github.com/brightdigit/SimulatorServices/issues/28) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
