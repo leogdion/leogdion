@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/brightdigit/taylr/pull/1) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
-2. 💪 Opened PR [#1](https://github.com/brightdigit/taylr.sh/pull/1) in [brightdigit/taylr.sh](https://github.com/brightdigit/taylr.sh)
-3. 🗣 Commented on [#142](https://github.com/brightdigit/SyndiKit/issues/142#issuecomment-6327483193) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-4. 🔒 Closed issue [#142](https://github.com/brightdigit/SyndiKit/issues/142) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
-5. 🗣 Commented on [#141](https://github.com/brightdigit/SyndiKit/issues/141#issuecomment-6327482728) in [brightdigit/SyndiKit](https://github.com/brightdigit/SyndiKit)
+1. 💪 Opened PR [#2](https://github.com/brightdigit/taylr.sh/pull/2) in [brightdigit/taylr.sh](https://github.com/brightdigit/taylr.sh)
+2. 💪 Opened PR [#101](https://github.com/brightdigit/taylr/pull/101) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+3. ❗ Opened issue [#100](https://github.com/brightdigit/taylr/issues/100) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+4. ❗ Opened issue [#99](https://github.com/brightdigit/taylr/issues/99) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+5. ❗ Opened issue [#98](https://github.com/brightdigit/taylr/issues/98) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
