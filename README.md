@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/brightdigit/taylr/pull/101) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
-2. 🎉 Merged PR [#2](https://github.com/brightdigit/taylr.sh/pull/2) in [brightdigit/taylr.sh](https://github.com/brightdigit/taylr.sh)
-3. 💪 Opened PR [#2](https://github.com/brightdigit/taylr.sh/pull/2) in [brightdigit/taylr.sh](https://github.com/brightdigit/taylr.sh)
-4. 💪 Opened PR [#101](https://github.com/brightdigit/taylr/pull/101) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
-5. ❗ Opened issue [#100](https://github.com/brightdigit/taylr/issues/100) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+1. 🎉 Merged PR [#1](https://github.com/brightdigit/taylr.sh/pull/1) in [brightdigit/taylr.sh](https://github.com/brightdigit/taylr.sh)
+2. 🎉 Merged PR [#101](https://github.com/brightdigit/taylr/pull/101) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+3. 🎉 Merged PR [#2](https://github.com/brightdigit/taylr.sh/pull/2) in [brightdigit/taylr.sh](https://github.com/brightdigit/taylr.sh)
+4. 💪 Opened PR [#2](https://github.com/brightdigit/taylr.sh/pull/2) in [brightdigit/taylr.sh](https://github.com/brightdigit/taylr.sh)
+5. 💪 Opened PR [#101](https://github.com/brightdigit/taylr/pull/101) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
