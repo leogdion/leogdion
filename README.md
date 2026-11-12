@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brightdigit/.github/pull/1) in [brightdigit/.github](https://github.com/brightdigit/.github)
-2. ℹ️ Labeled issue [#124](https://github.com/brightdigit/swift-build/issues/124) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-3. ❗ Opened issue [#124](https://github.com/brightdigit/swift-build/issues/124) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
-4. 💪 Opened PR [#1](https://github.com/brightdigit/.github/pull/1) in [brightdigit/.github](https://github.com/brightdigit/.github)
-5. ℹ️ Labeled issue [#499](https://github.com/brightdigit/MistKit/issues/499) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+1. ℹ️ Labeled issue [#178](https://github.com/brightdigit/brightdigit.com/issues/178) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+2. ❗ Opened issue [#178](https://github.com/brightdigit/brightdigit.com/issues/178) in [brightdigit/brightdigit.com](https://github.com/brightdigit/brightdigit.com)
+3. 🎉 Merged PR [#1](https://github.com/brightdigit/.github/pull/1) in [brightdigit/.github](https://github.com/brightdigit/.github)
+4. ℹ️ Labeled issue [#124](https://github.com/brightdigit/swift-build/issues/124) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
+5. ❗ Opened issue [#124](https://github.com/brightdigit/swift-build/issues/124) in [brightdigit/swift-build](https://github.com/brightdigit/swift-build)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
