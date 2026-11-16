@@ -102,11 +102,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [Not Accessible by Default with Rob Whitaker](https://share.transistor.fm/s/80d65181)
 - [You’re Better Than AI with Daniel Steinberg](https://share.transistor.fm/s/e88255c1)
 - [Do the Wrong Thing Much Faster with Graham Lee](https://share.transistor.fm/s/d34d47ec)
 - [Then 20 Years Later with Georg Tuparev](https://share.transistor.fm/s/78e46ac9)
 - [We Don’t Have Any Futures or Promises Anymore with Tim Condon](https://share.transistor.fm/s/3d199f1f)
-- [The More You Know with Stewart Lynch](https://share.transistor.fm/s/c8e02679)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 ## Recent Activity
