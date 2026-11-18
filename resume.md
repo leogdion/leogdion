@@ -210,6 +210,18 @@ ContributeWordPress uses the exported XML (also referred to as WXR file) to impo
 
 FelinePine provides an easy-to-use API for setting up logging and log categories across your architecture.
 
+#### [swift-build](https://github.com/brightdigit/swift-build)
+
+**GitHub Actions** | **CI/CD** | **Ubuntu** | **macOS** | **iOS** | **watchOS** | **tvOS** | **visionOS** | **Windows** | **Android** | **WebAssembly**
+
+*GitHub Action for building and testing Swift packages on every platform*
+
+swift-build (v1.5.8, 54★) sets up Swift CI with a few lines of workflow instead of a hand-built matrix. A single scheme parameter is enough to start, and it caches per platform.
+
+* **Platform coverage**: Ubuntu (Swift 5.9–6.2), Apple platforms through Xcode and simulators, Windows, Android and WebAssembly
+* **Caching**: platform-specific cache strategies to cut repeat build times
+* **Adoption**: used by 25+ open source Swift packages, including SyndiKit and DataThespian
+
 #### [SyntaxKit](https://github.com/brightdigit/SyntaxKit)
 
 **Swift** | **SwiftSyntax** | **Macros** | **Code Generation**
