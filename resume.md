@@ -11,7 +11,7 @@ leogdion@brightdigit.com
 
 ## Summary
 
-Swift developer since 2012, building across iOS, macOS, watchOS and server-side Swift (Vapor, Hummingbird, AWS Lambda). Extensive hands-on knowledge of agentic development: designing agent workflows, writing skills, prompts and project rules (AGENTS.md and CLAUDE.md), orchestrating subagents and parallel agents across git worktrees, and gating their output with tests, CI and human review. Long-time CI/CD builder for Swift, and author of swift-build, a GitHub Action used by 25+ open source Swift packages. I teach this at conferences and on the EmpowerApps podcast.
+Swift developer since 2012, building across iOS, macOS, watchOS and server-side Swift (Vapor, Hummingbird, AWS Lambda). Extensive hands-on knowledge of agentic development: designing agent workflows, writing skills, prompts and project rules (AGENTS.md and CLAUDE.md), orchestrating subagents and parallel agents across git worktrees, and gating their output with tests, CI and human review. 10 years building CI/CD for Swift projects, and author of swift-build, a GitHub Action used by 25+ open source Swift packages. I teach this at conferences and on the EmpowerApps podcast.
 
 ## Experience
 
@@ -33,7 +33,7 @@ Since 2012, BrightDigit specializes in full-stack Swift development, including s
 * **Server-Side Swift Development**: Architect and maintain backend services and APIs using Vapor and Hummingbird framework 
 * **Agentic Development**: Run day-to-day development in Claude Code with custom skills, prompts, subagents and parallel agents in separate git worktrees, guided by written project rules (AGENTS.md and CLAUDE.md). Every agent change gets tests, automated Claude Code PR review in GitHub Actions, and a human read before it merges
 * **AWS Cloud Infrastructure**: Design and implement cloud solutions using AWS services including Lambda, and DynamoDB
-* **CI/CD**: Set up and maintain CI/CD pipelines for clients and BrightDigit projects with GitHub Actions, GitLab CI and Fastlane, including automated building, testing and release of public Swift frameworks across Apple platforms and Linux
+* **CI/CD**: Set up and maintain CI/CD pipelines for clients and BrightDigit projects with GitHub Actions, GitLab CI and Fastlane, including automated building, testing and release of Swift apps and packages across Apple platforms and Linux
 * **Cross-Stack Development**: Lead development across iOS, macOS, watchOS, web, and server platforms using Swift, JavaScript, and modern web technologies
 * **Remote Team Leadership**: Lead distributed development teams and collaborate with clients across multiple time zones
 * **Technical Evangelism**: Present at conferences and produce educational content on server-side Swift, cloud architecture and agentic development, including "Vibe Coding" talks and an automation workshop at Beer City Code 2026 and swiftCon at next.app devcon Berlin 2026
@@ -46,7 +46,7 @@ Since 2012, BrightDigit specializes in full-stack Swift development, including s
 
 * **Technical Leadership**: Guided the team migration from Objective-C/UIKit to modern Swift/SwiftUI architecture
 * **Cross-Department Collaboration**: Worked with business stakeholders to translate requirements into technical specifications
-* **CI/CD & Quality Gates**: Integrated Sauce Labs device testing and automated lint and security scanning into the iOS build pipeline
+* **CI/CD & Quality Gates**: Integrated Sauce Labs device testing and SonarQube lint and security scanning into the iOS build pipeline
 * **Mentorship**: Trained the development team on modern iOS patterns and server-side integration best practices
 
 #### Clients
@@ -59,6 +59,7 @@ Since 2012, BrightDigit specializes in full-stack Swift development, including s
 * **AWS Cloud Infrastructure**: Designed and implemented cloud-based solutions with automated deployment pipelines and continuous integration
 * **Cross-Platform API Design**: Built REST APIs and web services supporting iOS, Android, and web clients with shared Swift codebase
 * **watchOS XCFramework Development**: Created watchOS XCFrameworks for React Native consumption by client developers, enabling seamless integration of native watchOS functionality
+* **XCFramework CI/CD**: Automated building and delivery of the watchOS XCFrameworks to the client's developers through CI
 * **Team Management**: Led remote development team across multiple time zones with focus on server-side Swift and cloud architecture
 * **DevOps & CI/CD**: Established automated deployment workflows and monitoring systems for production applications
 
