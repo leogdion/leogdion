@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#176](https://github.com/brightdigit/taylr/issues/176) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
-2. ❗ Opened issue [#166](https://github.com/brightdigit/taylr/issues/166) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
-3. ❗ Opened issue [#164](https://github.com/brightdigit/taylr/issues/164) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
-4. ❗ Opened issue [#162](https://github.com/brightdigit/taylr/issues/162) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
-5. ❗ Opened issue [#154](https://github.com/brightdigit/taylr/issues/154) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+1. 🗣 Commented on [#176](https://github.com/brightdigit/taylr/issues/176#issuecomment-6963909630) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+2. 🔒 Closed issue [#176](https://github.com/brightdigit/taylr/issues/176) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+3. ℹ️ Labeled issue [#508](https://github.com/brightdigit/MistKit/issues/508) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+4. ❗ Opened issue [#508](https://github.com/brightdigit/MistKit/issues/508) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+5. 🗣 Commented on [#176](https://github.com/brightdigit/taylr/issues/176#issuecomment-6963196277) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
