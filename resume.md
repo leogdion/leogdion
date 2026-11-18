@@ -9,6 +9,13 @@ leogdion@brightdigit.com
 
 
 
+## AI-Assisted Development
+
+* **Agent-driven workflow**: Day to day I work in Claude Code: agents running in parallel git worktrees, written project rules (AGENTS.md and CLAUDE.md), reusable skills, and CI review gates. Every agent change gets tests and a human read before it merges.
+* **[git-trees](https://github.com/brightdigit/git-trees)** (v1.0.2, Homebrew tap): a git subcommand for a bare-repo and worktree layout, so several agents can work on one Swift project in parallel, each in its own worktree.
+* **Teaching it**: "Vibe Coding" talks and an automation workshop at Beer City Code 2026 and swiftCon at next.app devcon Berlin 2026.
+* **EmpowerApps episodes on AI (2026)**: seven episodes, including Cihat Gündüz (Apple's agentic AI), Joe Fabisevich (prompting and logging for agents), Donny Wals (practical agents), Jared Sorge (worktrees in practice), Stewart Lynch (learning APIs with AI), Graham Lee (AI code review) and Daniel Steinberg (Foundation Models).
+
 ## Experience
 
 ### [BrightDigit](https://brightdigit.com) *Server-Side Swift & AWS Cloud Development*
@@ -24,7 +31,7 @@ leogdion@brightdigit.com
 
 **Principal and CEO**
 
-Since 2012, BrightDigit specializes in full-stack Swift development, including server-side Swift applications and AWS cloud infrastructure. Currently continuing indie and contract work while employed full-time at Meijer.
+Since 2012, BrightDigit specializes in full-stack Swift development, including server-side Swift applications and AWS cloud infrastructure. Full-time since May 2026, doing indie and contract work.
 
 * **Server-Side Swift Development**: Architect and maintain backend services and APIs using Vapor and Hummingbird framework 
 * **AWS Cloud Infrastructure**: Design and implement cloud solutions using AWS services including Lambda, and DynamoDB
@@ -34,13 +41,13 @@ Since 2012, BrightDigit specializes in full-stack Swift development, including s
 
 ### [Meijer](http://meijer.com/) *Senior iOS Engineer & Technical Lead* 
 
-*December 2024-*
+*December 2024 – May 2026*
 
 *Modernizing Retail iOS Application*
 
-* **Technical Leadership**: Guide team migration from Objective-C/UIKit to modern Swift/SwiftUI architecture
-* **Cross-Department Collaboration**: Work with business stakeholders to translate requirements into technical specifications
-* **Mentorship**: Train development team on modern iOS patterns and server-side integration best practices
+* **Technical Leadership**: Guided the team migration from Objective-C/UIKit to modern Swift/SwiftUI architecture
+* **Cross-Department Collaboration**: Worked with business stakeholders to translate requirements into technical specifications
+* **Mentorship**: Trained the development team on modern iOS patterns and server-side integration best practices
 
 #### Clients
 
