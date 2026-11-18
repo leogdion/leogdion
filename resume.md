@@ -9,12 +9,9 @@ leogdion@brightdigit.com
 
 
 
-## AI-Assisted Development
+## Summary
 
-* **Agent-driven workflow**: Day to day I work in Claude Code: agents running in parallel git worktrees, written project rules (AGENTS.md and CLAUDE.md), reusable skills, and CI review gates. Every agent change gets tests and a human read before it merges.
-* **[git-trees](https://github.com/brightdigit/git-trees)** (v1.0.2, Homebrew tap): a git subcommand for a bare-repo and worktree layout, so several agents can work on one Swift project in parallel, each in its own worktree.
-* **Teaching it**: "Vibe Coding" talks and an automation workshop at Beer City Code 2026 and swiftCon at next.app devcon Berlin 2026.
-* **EmpowerApps episodes on AI (2026)**: seven episodes, including Cihat Gündüz (Apple's agentic AI), Joe Fabisevich (prompting and logging for agents), Donny Wals (practical agents), Jared Sorge (worktrees in practice), Stewart Lynch (learning APIs with AI), Graham Lee (AI code review) and Daniel Steinberg (Foundation Models).
+Swift developer since 2012, building across iOS, macOS, watchOS and server-side Swift (Vapor, Hummingbird, AWS Lambda). Extensive hands-on knowledge of agentic development: designing agent workflows, writing skills, prompts and project rules (AGENTS.md and CLAUDE.md), orchestrating subagents and parallel agents across git worktrees, and gating their output with tests, CI and human review. I teach this at conferences and on the EmpowerApps podcast.
 
 ## Experience
 
@@ -34,10 +31,11 @@ leogdion@brightdigit.com
 Since 2012, BrightDigit specializes in full-stack Swift development, including server-side Swift applications and AWS cloud infrastructure. Full-time since May 2026, doing indie and contract work.
 
 * **Server-Side Swift Development**: Architect and maintain backend services and APIs using Vapor and Hummingbird framework 
+* **Agentic Development**: Run day-to-day development in Claude Code with custom skills, prompts, subagents and parallel agents in separate git worktrees, guided by written project rules (AGENTS.md and CLAUDE.md). Every agent change gets tests, CI review gates and a human read before it merges
 * **AWS Cloud Infrastructure**: Design and implement cloud solutions using AWS services including Lambda, and DynamoDB
 * **Cross-Stack Development**: Lead development across iOS, macOS, watchOS, web, and server platforms using Swift, JavaScript, and modern web technologies
 * **Remote Team Leadership**: Lead distributed development teams and collaborate with clients across multiple time zones
-* **Technical Evangelism**: Present at conferences and produce educational content on server-side Swift and cloud architecture best practices
+* **Technical Evangelism**: Present at conferences and produce educational content on server-side Swift, cloud architecture and agentic development, including "Vibe Coding" talks and an automation workshop at Beer City Code 2026 and swiftCon at next.app devcon Berlin 2026
 
 ### [Meijer](http://meijer.com/) *Senior iOS Engineer & Technical Lead* 
 
@@ -131,6 +129,7 @@ Since 2012, BrightDigit specializes in full-stack Swift development, including s
 * Work with Audio Editor and Outside Marketing Personnel
 * Schedule and Communicate with Guests on Show Content and Protocol
 * Marketing and Manage Social Media of Episodes and Content
+* 2026 series on AI in Apple development (seven episodes): Cihat Gündüz (Apple's agentic AI), Joe Fabisevich (prompting and logging for agents), Donny Wals (practical agents), Jared Sorge (worktrees in practice), Stewart Lynch (learning APIs with AI), Graham Lee (AI code review) and Daniel Steinberg (Foundation Models)
 
 ### Previous Employers
 
@@ -221,6 +220,14 @@ swift-build (v1.5.8, 54★) sets up Swift CI with a few lines of workflow instea
 * **Platform coverage**: Ubuntu (Swift 5.9–6.2), Apple platforms through Xcode and simulators, Windows, Android and WebAssembly
 * **Caching**: platform-specific cache strategies to cut repeat build times
 * **Adoption**: used by 25+ open source Swift packages, including SyndiKit and DataThespian
+
+#### [git-trees](https://github.com/brightdigit/git-trees)
+
+**git** | **Homebrew** | **Agentic Development**
+
+*A git subcommand for a bare-repo and worktree layout*
+
+git-trees (v1.0.2, Homebrew tap) sets up a project so several agents can work on one Swift codebase in parallel, each in its own worktree.
 
 #### [SyntaxKit](https://github.com/brightdigit/SyntaxKit)
 
@@ -334,6 +341,10 @@ Using blockquotes in your markdown, you can easily embed the Transistor podcast 
 
 
 ## Skills
+
+### AI & Agentic Development
+
+**Claude Code** | **Agent Skills** | **Subagents** | **Prompt Engineering** | **AGENTS.md / CLAUDE.md** | **Parallel Agents & Git Worktrees** | **AI Code Review** | **Foundation Models**
 
 ### Server-Side Swift & Cloud Development
 
