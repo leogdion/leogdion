@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#159](https://github.com/brightdigit/BushelKit/issues/159) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
-2. ❗ Opened issue [#9](https://github.com/brightdigit/ConfigKeyKit/issues/9) in [brightdigit/ConfigKeyKit](https://github.com/brightdigit/ConfigKeyKit)
-3. ❗ Opened issue [#43](https://github.com/brightdigit/BushelCloud/issues/43) in [brightdigit/BushelCloud](https://github.com/brightdigit/BushelCloud)
-4. ❗ Opened issue [#510](https://github.com/brightdigit/MistKit/issues/510) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
-5. ❗ Opened issue [#2](https://github.com/brightdigit/MistKitConfiguration/issues/2) in [brightdigit/MistKitConfiguration](https://github.com/brightdigit/MistKitConfiguration)
+1. 💪 Opened PR [#1](https://github.com/brightdigit/skills/pull/1) in [brightdigit/skills](https://github.com/brightdigit/skills)
+2. 💪 Opened PR [#1](https://github.com/brightdigit/GrabKit/pull/1) in [brightdigit/GrabKit](https://github.com/brightdigit/GrabKit)
+3. ❗ Opened issue [#159](https://github.com/brightdigit/BushelKit/issues/159) in [brightdigit/BushelKit](https://github.com/brightdigit/BushelKit)
+4. ❗ Opened issue [#9](https://github.com/brightdigit/ConfigKeyKit/issues/9) in [brightdigit/ConfigKeyKit](https://github.com/brightdigit/ConfigKeyKit)
+5. ❗ Opened issue [#43](https://github.com/brightdigit/SwoopMistKit/issues/43) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
