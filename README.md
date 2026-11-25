@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/brightdigit/SimulatorServices/pull/30) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
-2. 💪 Opened PR [#30](https://github.com/brightdigit/SimulatorServices/pull/30) in [brightdigit/SimulatorServices](https://github.com/brightdigit/SimulatorServices)
-3. 🎉 Merged PR [#2](https://github.com/brightdigit/SwoopKit/pull/2) in [brightdigit/SwoopKit](https://github.com/brightdigit/SwoopKit)
-4. 💪 Opened PR [#2](https://github.com/brightdigit/SwoopKit/pull/2) in [brightdigit/SwoopKit](https://github.com/brightdigit/SwoopKit)
-5. 💪 Opened PR [#1](https://github.com/brightdigit/SwoopKit/pull/1) in [brightdigit/SwoopKit](https://github.com/brightdigit/SwoopKit)
+1. 💪 Opened PR [#513](https://github.com/brightdigit/MistKit/pull/513) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+2. 🎉 Merged PR [#511](https://github.com/brightdigit/MistKit/pull/511) in [brightdigit/MistKit](https://github.com/brightdigit/MistKit)
+3. ❗ Opened issue [#177](https://github.com/brightdigit/taylr/issues/177) in [brightdigit/taylr](https://github.com/brightdigit/taylr)
+4. ❗ Opened issue [#90](https://github.com/brightdigit/KeynoteKit/issues/90) in [brightdigit/KeynoteKit](https://github.com/brightdigit/KeynoteKit)
+5. ❗ Opened issue [#50](https://github.com/brightdigit/FCPKit/issues/50) in [brightdigit/FCPKit](https://github.com/brightdigit/FCPKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
