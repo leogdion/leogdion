@@ -111,11 +111,11 @@ Bushel is the macOS virtual machine app for developers who want to be rigorous a
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/brightdigit/SwoopKit/pull/3) in [brightdigit/SwoopKit](https://github.com/brightdigit/SwoopKit)
-2. 🗣 Commented on [#8](https://github.com/brightdigit/SwoopMistKit/issues/8#issuecomment-7203346973) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
-3. 🔒 Closed issue [#8](https://github.com/brightdigit/SwoopMistKit/issues/8) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
-4. 🔒 Closed issue [#1](https://github.com/brightdigit/SwoopMistKit/issues/1) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
-5. 🗣 Commented on [#1](https://github.com/brightdigit/SwoopMistKit/issues/1#issuecomment-7203346224) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
+1. ❗ Opened issue [#52](https://github.com/brightdigit/SwoopMistKit/issues/52) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
+2. 🚀 Published release [1.0.0-alpha.4](https://github.com/brightdigit/SwoopMistKit/releases/tag/1.0.0-alpha.4) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
+3. 🔒 Closed issue [#17](https://github.com/brightdigit/SwoopMistKit/issues/17) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
+4. 🎉 Merged PR [#49](https://github.com/brightdigit/SwoopMistKit/pull/49) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
+5. 🎉 Merged PR [#50](https://github.com/brightdigit/SwoopMistKit/pull/50) in [brightdigit/SwoopMistKit](https://github.com/brightdigit/SwoopMistKit)
 <!--END_SECTION:activity-->
 
 ## I have collaborated on apps for
